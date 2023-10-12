@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Author : MXiDev
-# Website : https://mxidev.com
+# Author : 1Stream
+# Website : https://1stream.icu
 
 if [ $1 != 'restore' ];then
     DNS1=$1
@@ -43,6 +43,12 @@ function Welcome(){
         echo -e '备DNS: '$DNS2''
     fi
     echo
+    read -p "是否使用TCP DNS (y/N):" tcp
+    if [[ -n "${tcp}" ]]; then
+        if [[ "$tcp" == 'y' ]] || [[ "$tcp" == 'Y' ]]; then
+            echo -e '使用TCP DNS'
+        fi
+    fi
     echo -e '请按任意键继续，如有配置错误请使用 Ctrl+C 退出。'
     char=`get_char`
 }
@@ -69,6 +75,11 @@ function ChangeDNS(){
         cp /etc/resolv.conf /etc/resolv.conf.backup
         echo
         echo -e '备份完成，正在修改DNS配置文件...'
+        if [[ -n "${tcp}" ]]; then
+            if [[ "$tcp" == 'y' ]] || [[ "$tcp" == 'Y' ]]; then
+                echo -e 'options use-vc' >> /etc/resolv.conf
+            fi
+        fi
         echo -e 'nameserver '$DNS1'' > /etc/resolv.conf
         if [ "$DNS2" != '' ]; then
             echo -e 'nameserver '$DNS2'' >> /etc/resolv.conf
