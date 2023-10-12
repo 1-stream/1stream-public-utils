@@ -75,12 +75,13 @@ function ChangeDNS(){
         cp /etc/resolv.conf /etc/resolv.conf.backup
         echo
         echo -e '备份完成，正在修改DNS配置文件...'
+        echo "" > /etc/resolv.conf
         if [[ -n "${tcp}" ]]; then
             if [[ "$tcp" == 'y' ]] || [[ "$tcp" == 'Y' ]]; then
                 echo -e 'options use-vc' >> /etc/resolv.conf
             fi
         fi
-        echo -e 'nameserver '$DNS1'' > /etc/resolv.conf
+        echo -e 'nameserver '$DNS1'' >> /etc/resolv.conf
         if [ "$DNS2" != '' ]; then
             echo -e 'nameserver '$DNS2'' >> /etc/resolv.conf
         fi
