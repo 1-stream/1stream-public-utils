@@ -407,38 +407,17 @@
 # > NFL
 ~^(.*|)nfl\.com$ $ssl_preread_server_name:443;
 # > ESPN+
-~^(.*|)bam-sdk-configs\.bamgrid\.com$ $ssl_preread_server_name:443;
-~^(.*|)cdn\.registerdisney\.go\.com$ $ssl_preread_server_name:443;
-~^(.*|)sdk\.iad-06\.braze\.com$ $ssl_preread_server_name:443;
-~^(.*|)espn\.com$ $ssl_preread_server_name:443;
-~^(.*|)api\.twdcstories\.com$ $ssl_preread_server_name:443;
-~^(.*|)cdn\.optimizely\.com$ $ssl_preread_server_name:443;
-~^(.*|)espncdn\.com$ $ssl_preread_server_name:443;
-~^(.*|)us\.edge\.bamgrid\.com$ $ssl_preread_server_name:443;
-~^(.*|)assets\.adobedtm\.com$ $ssl_preread_server_name:443;
-~^(.*|)streams\.adobeprimetime\.com$ $ssl_preread_server_name:443;
-~^(.*|)sp\.auth\.adobe\.com$ $ssl_preread_server_name:443;
-~^(.*|)espn\.net$ $ssl_preread_server_name:443;
-~^(.*|)espnqa\.com$ $ssl_preread_server_name:443;
-~^(.*|)watchespn\.com$ $ssl_preread_server_name:443;
-~^(.*|)espn\.hb\.omtrdc\.net$ $ssl_preread_server_name:443;
-~^(.*|)pespn\.chartbeat\.net$ $ssl_preread_server_name:443;
-~^(.*|)go\.com$ $ssl_preread_server_name:443;
-~^(.*|)vncdn.cdnsuehprom\.com$ $ssl_preread_server_name:443;
-~^(.*|)ping\.chartbeat.net$ $ssl_preread_server_name:443;
-~^(.*|)espn-cannonball-cdn\.bamgrid\.com$ $ssl_preread_server_name:443;
-~^(.*|)insights-collector\.newrelic\.com$ $ssl_preread_server_name:443;
-~^(.*|)mobile-collector\.newrelic\.com$ $ssl_preread_server_name:443;
-~^(.*|)sb\.scorecardresearch\.com$ $ssl_preread_server_name:443;
-~^(.*|)logx\.optimizely\.com$ $ssl_preread_server_name:443;
-~^(.*|)z\.moatads\.com$ $ssl_preread_server_name:443;
-~^(.*|)j95vwycl9a\.execute-api\.us-east-1\.amazonaws\.com$ $ssl_preread_server_name:443;
-~^(.*|)dispatcher\.is.autonavi\.com$ $ssl_preread_server_name:443;
-~^(.*|)sportscenter\.fan\.api\.es$ $ssl_preread_server_name:443;
 ~^(.*|)espn\.api\.edge\.bamgrid\.com$ $ssl_preread_server_name:443;
-~^(.*|)geolocation\.onetrust\.com$ $ssl_preread_server_name:443;
+~^(.*|)espn\.hb\.omtrdc\.net$ $ssl_preread_server_name:443;
+~^(.*|)espndotcom\.tt\.omtrdc\.net$ $ssl_preread_server_name:443;
 ~^(.*|)dtci\.co$ $ssl_preread_server_name:443;
 ~^(.*|)dtci\.technology$ $ssl_preread_server_name:443;
+~^(.*|)espn\.co\.uk$ $ssl_preread_server_name:443;
+~^(.*|)espn\.com$ $ssl_preread_server_name:443;
+~^(.*|)espn\.net$ $ssl_preread_server_name:443;
+~^(.*|)espncdn\.com$ $ssl_preread_server_name:443;
+~^(.*|)espnqa\.com$ $ssl_preread_server_name:443;
+~^(.*|)watchespn\.com$ $ssl_preread_server_name:443;
 # > Epix
 ~^(.*|)epix\.com$ $ssl_preread_server_name:443;
 # > Starz
@@ -828,6 +807,8 @@
 ~^(.*|)claude\.ai$ $ssl_preread_server_name:443;
 # > Google Bard
 ~^(.*|)bard\.google\.com$ $ssl_preread_server_name:443;
+# > Microsoft Copilot For Image Generates
+~^(.*|)copilot\.microsoft\.com$ $ssl_preread_server_name:443;
 
 # ---------- > China Media
 # > Youtube
