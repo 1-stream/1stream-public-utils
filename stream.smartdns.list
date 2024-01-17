@@ -407,38 +407,17 @@ nameserver /hulustream.com/<replace with groupname>
 # > NFL
 nameserver /nfl.com/<replace with groupname>
 # > ESPN+
-nameserver /bam-sdk-configs.bamgrid.com/<replace with groupname>
-nameserver /cdn.registerdisney.go.com/<replace with groupname>
-nameserver /sdk.iad-06.braze.com/<replace with groupname>
-nameserver /espn.com/<replace with groupname>
-nameserver /api.twdcstories.com/<replace with groupname>
-nameserver /cdn.optimizely.com/<replace with groupname>
-nameserver /espncdn.com/<replace with groupname>
-nameserver /us.edge.bamgrid.com/<replace with groupname>
-nameserver /assets.adobedtm.com/<replace with groupname>
-nameserver /streams.adobeprimetime.com/<replace with groupname>
-nameserver /sp.auth.adobe.com/<replace with groupname>
-nameserver /espn.net/<replace with groupname>
-nameserver /espnqa.com/<replace with groupname>
-nameserver /watchespn.com/<replace with groupname>
-nameserver /espn.hb.omtrdc.net/<replace with groupname>
-nameserver /pespn.chartbeat.net/<replace with groupname>
-nameserver /go.com/<replace with groupname>
-nameserver /vncdn.cdnsuehprom.com/<replace with groupname>
-nameserver /ping.chartbeat.net/<replace with groupname>
-nameserver /espn-cannonball-cdn.bamgrid.com/<replace with groupname>
-nameserver /insights-collector.newrelic.com/<replace with groupname>
-nameserver /mobile-collector.newrelic.com/<replace with groupname>
-nameserver /sb.scorecardresearch.com/<replace with groupname>
-nameserver /logx.optimizely.com/<replace with groupname>
-nameserver /z.moatads.com/<replace with groupname>
-nameserver /j95vwycl9a.execute-api.us-east-1.amazonaws.com/<replace with groupname>
-nameserver /dispatcher.is.autonavi.com/<replace with groupname>
-nameserver /sportscenter.fan.api.es/<replace with groupname>
 nameserver /espn.api.edge.bamgrid.com/<replace with groupname>
-nameserver /geolocation.onetrust.com/<replace with groupname>
+nameserver /espn.hb.omtrdc.net/<replace with groupname>
+nameserver /espndotcom.tt.omtrdc.net/<replace with groupname>
 nameserver /dtci.co/<replace with groupname>
 nameserver /dtci.technology/<replace with groupname>
+nameserver /espn.co.uk/<replace with groupname>
+nameserver /espn.com/<replace with groupname>
+nameserver /espn.net/<replace with groupname>
+nameserver /espncdn.com/<replace with groupname>
+nameserver /espnqa.com/<replace with groupname>
+nameserver /watchespn.com/<replace with groupname>
 # > Epix
 nameserver /epix.com/<replace with groupname>
 # > Starz
@@ -828,6 +807,8 @@ nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>
 # > Google Bard
 nameserver /bard.google.com/<replace with groupname>
+# > Microsoft Copilot For Image Generates
+nameserver /copilot.microsoft.com/<replace with groupname>
 
 # ---------- > China Media
 # > Youtube

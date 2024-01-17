@@ -407,38 +407,17 @@
 # > NFL
 "domain:nfl.com",
 # > ESPN+
-"domain:bam-sdk-configs.bamgrid.com",
-"domain:cdn.registerdisney.go.com",
-"domain:sdk.iad-06.braze.com",
-"domain:espn.com",
-"domain:api.twdcstories.com",
-"domain:cdn.optimizely.com",
-"domain:espncdn.com",
-"domain:us.edge.bamgrid.com",
-"domain:assets.adobedtm.com",
-"domain:streams.adobeprimetime.com",
-"domain:sp.auth.adobe.com",
-"domain:espn.net",
-"domain:espnqa.com",
-"domain:watchespn.com",
-"domain:espn.hb.omtrdc.net",
-"domain:pespn.chartbeat.net",
-"domain:go.com",
-"domain:vncdn.cdnsuehprom.com",
-"domain:ping.chartbeat.net",
-"domain:espn-cannonball-cdn.bamgrid.com",
-"domain:insights-collector.newrelic.com",
-"domain:mobile-collector.newrelic.com",
-"domain:sb.scorecardresearch.com",
-"domain:logx.optimizely.com",
-"domain:z.moatads.com",
-"domain:j95vwycl9a.execute-api.us-east-1.amazonaws.com",
-"domain:dispatcher.is.autonavi.com",
-"domain:sportscenter.fan.api.es",
 "domain:espn.api.edge.bamgrid.com",
-"domain:geolocation.onetrust.com",
+"domain:espn.hb.omtrdc.net",
+"domain:espndotcom.tt.omtrdc.net",
 "domain:dtci.co",
 "domain:dtci.technology",
+"domain:espn.co.uk",
+"domain:espn.com",
+"domain:espn.net",
+"domain:espncdn.com",
+"domain:espnqa.com",
+"domain:watchespn.com",
 # > Epix
 "domain:epix.com",
 # > Starz
@@ -828,6 +807,8 @@
 "domain:claude.ai",
 # > Google Bard
 "domain:bard.google.com",
+# > Microsoft Copilot For Image Generates
+"domain:copilot.microsoft.com",
 
 # ---------- > China Media
 # > Youtube
