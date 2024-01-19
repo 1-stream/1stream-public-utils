@@ -184,7 +184,6 @@ nameserver /videomarket.jp/<replace with groupname>
 nameserver /p-smith.com/<replace with groupname>
 nameserver /vmdash-cenc.akamaized.net/<replace with groupname>
 nameserver /img.vm-movie.jp/<replace with groupname>
-nameserver /bam.nr-data.net/<replace with groupname>
 # > Abema
 nameserver /abema.io/<replace with groupname>
 nameserver /abema.tv/<replace with groupname>
@@ -194,7 +193,6 @@ nameserver /ds-vod-abematv.akamaized.net/<replace with groupname>
 nameserver /vod-abematv.akamaized.net/<replace with groupname>
 nameserver /ameba.jp/<replace with groupname>
 nameserver /hayabusa.io/<replace with groupname>
-nameserver /mobile-collector.newrelic.com/<replace with groupname>
 nameserver /vod-abematv.akamaized.net/<replace with groupname>
 nameserver /bucketeer.jp/<replace with groupname>
 nameserver /abema.adx.promo/<replace with groupname>
@@ -204,7 +202,6 @@ nameserver /abema-tv.com/<replace with groupname>
 nameserver /dmc.nico/<replace with groupname>
 nameserver /nicovideo.jp/<replace with groupname>
 nameserver /nimg.jp/<replace with groupname>
-nameserver /socdm.com/<replace with groupname>
 # > Music.jp
 nameserver /music.jp/<replace with groupname>
 nameserver /music-book.jp/<replace with groupname>

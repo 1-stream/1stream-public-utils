@@ -184,7 +184,6 @@
 "domain:p-smith.com",
 "domain:vmdash-cenc.akamaized.net",
 "domain:img.vm-movie.jp",
-"domain:bam.nr-data.net",
 # > Abema
 "domain:abema.io",
 "domain:abema.tv",
@@ -194,7 +193,6 @@
 "domain:vod-abematv.akamaized.net",
 "domain:ameba.jp",
 "domain:hayabusa.io",
-"domain:mobile-collector.newrelic.com",
 "domain:vod-abematv.akamaized.net",
 "domain:bucketeer.jp",
 "domain:abema.adx.promo",
@@ -204,7 +202,6 @@
 "domain:dmc.nico",
 "domain:nicovideo.jp",
 "domain:nimg.jp",
-"domain:socdm.com",
 # > Music.jp
 "domain:music.jp",
 "domain:music-book.jp",
