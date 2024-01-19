@@ -184,7 +184,6 @@
 ~^(.*|)p-smith\.com$ $ssl_preread_server_name:443;
 ~^(.*|)vmdash-cenc\.akamaized\.net$ $ssl_preread_server_name:443;
 ~^(.*|)img\.vm-movie\.jp$ $ssl_preread_server_name:443;
-~^(.*|)bam\.nr-data\.net$ $ssl_preread_server_name:443;
 # > Abema
 ~^(.*|)abema\.io$ $ssl_preread_server_name:443;
 ~^(.*|)abema\.tv$ $ssl_preread_server_name:443;
@@ -194,7 +193,6 @@
 ~^(.*|)vod-abematv\.akamaized\.net$ $ssl_preread_server_name:443;
 ~^(.*|)ameba\.jp$ $ssl_preread_server_name:443;
 ~^(.*|)hayabusa\.io$ $ssl_preread_server_name:443;
-~^(.*|)mobile-collector\.newrelic\.com$ $ssl_preread_server_name:443;
 ~^(.*|)vod-abematv\.akamaized\.net$ $ssl_preread_server_name:443;
 ~^(.*|)bucketeer\.jp$ $ssl_preread_server_name:443;
 ~^(.*|)abema\.adx\.promo$ $ssl_preread_server_name:443;
@@ -204,7 +202,6 @@
 ~^(.*|)dmc\.nico$ $ssl_preread_server_name:443;
 ~^(.*|)nicovideo\.jp$ $ssl_preread_server_name:443;
 ~^(.*|)nimg\.jp$ $ssl_preread_server_name:443;
-~^(.*|)socdm\.com$ $ssl_preread_server_name:443;
 # > Music.jp
 ~^(.*|)music\.jp$ $ssl_preread_server_name:443;
 ~^(.*|)music-book\.jp$ $ssl_preread_server_name:443;
