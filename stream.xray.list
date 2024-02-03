@@ -58,11 +58,6 @@
 "domain:tvbweekly.com",
 "domain:tvmedia.net.au",
 # > Viu.com
-"domain:cognito-identity.us-east-1.amazonaws.com",
-"domain:d1k2us671qcoau.cloudfront.net",
-"domain:d2anahhhmp1ffz.cloudfront.net",
-"domain:dfp6rglgjqszk.cloudfront.net",
-"domain:mobileanalytics.us-east-1.amazonaws.com",
 "domain:viu.com",
 # > Steam Store
 "domain:steampowered.com",
@@ -655,6 +650,8 @@
 # > Now E 
 "domain:nowe.com",
 "domain:nowestatic.com",
+# > Now TV
+"domain:now.com",
 # > Viu.TV
 #include Viu.com
 "domain:viu.now.com",
@@ -679,8 +676,12 @@
 "domain:hbounify-prod.evergent.com",
 "domain:hbogoasia.com",
 "domain:hbogoasia.hk",
+# > HOY TV
+"domain:hoy.tv",
 # > BiliBili 
 "domain:bilibili.com",
+
+
 
 # ---------- > South America Media
 # Star+

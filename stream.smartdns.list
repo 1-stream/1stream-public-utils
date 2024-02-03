@@ -58,11 +58,6 @@ nameserver /tvbusa.com/<replace with groupname>
 nameserver /tvbweekly.com/<replace with groupname>
 nameserver /tvmedia.net.au/<replace with groupname>
 # > Viu.com
-nameserver /cognito-identity.us-east-1.amazonaws.com/<replace with groupname>
-nameserver /d1k2us671qcoau.cloudfront.net/<replace with groupname>
-nameserver /d2anahhhmp1ffz.cloudfront.net/<replace with groupname>
-nameserver /dfp6rglgjqszk.cloudfront.net/<replace with groupname>
-nameserver /mobileanalytics.us-east-1.amazonaws.com/<replace with groupname>
 nameserver /viu.com/<replace with groupname>
 # > Steam Store
 nameserver /steampowered.com/<replace with groupname>
@@ -655,6 +650,8 @@ nameserver /zahs.tv/<replace with groupname>
 # > Now E 
 nameserver /nowe.com/<replace with groupname>
 nameserver /nowestatic.com/<replace with groupname>
+# > Now TV
+nameserver /now.com/<replace with groupname>
 # > Viu.TV
 #include Viu.com
 nameserver /viu.now.com/<replace with groupname>
@@ -679,8 +676,12 @@ nameserver /hbolb.onwardsmg.com/<replace with groupname>
 nameserver /hbounify-prod.evergent.com/<replace with groupname>
 nameserver /hbogoasia.com/<replace with groupname>
 nameserver /hbogoasia.hk/<replace with groupname>
+# > HOY TV
+nameserver /hoy.tv/<replace with groupname>
 # > BiliBili 
 nameserver /bilibili.com/<replace with groupname>
+
+
 
 # ---------- > South America Media
 # Star+
