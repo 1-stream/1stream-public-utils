@@ -58,11 +58,6 @@
 ~^(.*|)tvbweekly\.com$ $ssl_preread_server_name:443;
 ~^(.*|)tvmedia\.net\.au$ $ssl_preread_server_name:443;
 # > Viu.com
-~^(.*|)cognito-identity\.us-east-1\.amazonaws\.com$ $ssl_preread_server_name:443;
-~^(.*|)d1k2us671qcoau\.cloudfront\.net$ $ssl_preread_server_name:443;
-~^(.*|)d2anahhhmp1ffz\.cloudfront\.net$ $ssl_preread_server_name:443;
-~^(.*|)dfp6rglgjqszk\.cloudfront\.net$ $ssl_preread_server_name:443;
-~^(.*|)mobileanalytics\.us-east-1\.amazonaws\.com$ $ssl_preread_server_name:443;
 ~^(.*|)viu\.com$ $ssl_preread_server_name:443;
 # > Steam Store
 ~^(.*|)steampowered\.com$ $ssl_preread_server_name:443;
@@ -655,6 +650,8 @@
 # > Now E 
 ~^(.*|)nowe\.com$ $ssl_preread_server_name:443;
 ~^(.*|)nowestatic\.com$ $ssl_preread_server_name:443;
+# > Now TV
+~^(.*|)now\.com$ $ssl_preread_server_name:443;
 # > Viu.TV
 #include Viu.com
 ~^(.*|)viu\.now\.com$ $ssl_preread_server_name:443;
@@ -679,8 +676,12 @@
 ~^(.*|)hbounify-prod\.evergent\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.hk$ $ssl_preread_server_name:443;
+# > HOY TV
+~^(.*|)hoy\.tv$ $ssl_preread_server_name:443;
 # > BiliBili 
 ~^(.*|)bilibili\.com$ $ssl_preread_server_name:443;
+
+
 
 # ---------- > South America Media
 # Star+
