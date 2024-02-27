@@ -12,6 +12,7 @@ nameserver /dcblivedazn.akamaized.net/<replace with groupname>
 nameserver /hotstar.com/<replace with groupname>
 nameserver /hotstarext.com/<replace with groupname>
 # > Disney+
+nameserver /disney.connections.edge.bamgrid.com/<replace with groupname>
 nameserver /disney.api.edge.bamgrid.com/<replace with groupname>
 nameserver /disney-plus.net/<replace with groupname>
 nameserver /disneyplus.com/<replace with groupname>
@@ -58,6 +59,11 @@ nameserver /tvbusa.com/<replace with groupname>
 nameserver /tvbweekly.com/<replace with groupname>
 nameserver /tvmedia.net.au/<replace with groupname>
 # > Viu.com
+nameserver /cognito-identity.us-east-1.amazonaws.com/<replace with groupname>
+nameserver /d1k2us671qcoau.cloudfront.net/<replace with groupname>
+nameserver /d2anahhhmp1ffz.cloudfront.net/<replace with groupname>
+nameserver /dfp6rglgjqszk.cloudfront.net/<replace with groupname>
+nameserver /mobileanalytics.us-east-1.amazonaws.com/<replace with groupname>
 nameserver /viu.com/<replace with groupname>
 # > Steam Store
 nameserver /steampowered.com/<replace with groupname>
@@ -87,8 +93,6 @@ nameserver /ppsimg.com/<replace with groupname>
 nameserver /qiyi.com/<replace with groupname>
 nameserver /qiyipic.com/<replace with groupname>
 nameserver /qy.net/<replace with groupname>
-# > Spotify Register
-nameserver /spclient.wg.spotify.com/<replace with groupname>
 # > Tiktok
 nameserver /byteoversea.com/<replace with groupname>
 nameserver /ibytedtos.com/<replace with groupname>
@@ -145,8 +149,13 @@ nameserver /hboasialive.akamaized.net/<replace with groupname>
 nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
 nameserver /hbolb.onwardsmg.com/<replace with groupname>
 nameserver /hbounify-prod.evergent.com/<replace with groupname>
+nameserver /hbogo.co.th/<replace with groupname>
 nameserver /hbogoasia.com/<replace with groupname>
 nameserver /hbogoasia.hk/<replace with groupname>
+nameserver /hbogoasia.id/<replace with groupname>
+nameserver /hbogoasia.ph/<replace with groupname>
+nameserver /hbogoasia.sg/<replace with groupname>
+nameserver /hbogoasia.tw/<replace with groupname>
 # > Bahamut Anime
 nameserver /bahamut.com.tw/<replace with groupname>
 nameserver /gamer.com.tw/<replace with groupname>
@@ -247,6 +256,9 @@ nameserver /cygames.jp/<replace with groupname>
 nameserver /konosubafd.jp/<replace with groupname>
 nameserver /colorfulpalette.org/<replace with groupname>
 nameserver /worldflipper.jp/<replace with groupname>
+nameserver /jujutsuphanpara.jp/<replace with groupname>
+# > Reads 
+nameserver /data-cloudauthoring.magazine.rakuten.co.jp/<replace with groupname>
 
 # ---------- > Oceania Media
 # > NBA TV !Against US!
@@ -674,8 +686,13 @@ nameserver /hboasialive.akamaized.net/<replace with groupname>
 nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
 nameserver /hbolb.onwardsmg.com/<replace with groupname>
 nameserver /hbounify-prod.evergent.com/<replace with groupname>
+nameserver /hbogo.co.th/<replace with groupname>
 nameserver /hbogoasia.com/<replace with groupname>
 nameserver /hbogoasia.hk/<replace with groupname>
+nameserver /hbogoasia.id/<replace with groupname>
+nameserver /hbogoasia.ph/<replace with groupname>
+nameserver /hbogoasia.sg/<replace with groupname>
+nameserver /hbogoasia.tw/<replace with groupname>
 # > HOY TV
 nameserver /hoy.tv/<replace with groupname>
 # > BiliBili 
@@ -751,8 +768,13 @@ nameserver /hboasialive.akamaized.net/<replace with groupname>
 nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
 nameserver /hbolb.onwardsmg.com/<replace with groupname>
 nameserver /hbounify-prod.evergent.com/<replace with groupname>
+nameserver /hbogo.co.th/<replace with groupname>
 nameserver /hbogoasia.com/<replace with groupname>
 nameserver /hbogoasia.hk/<replace with groupname>
+nameserver /hbogoasia.id/<replace with groupname>
+nameserver /hbogoasia.ph/<replace with groupname>
+nameserver /hbogoasia.sg/<replace with groupname>
+nameserver /hbogoasia.tw/<replace with groupname>
 # > B-Global
 nameserver /bilibili.tv/<replace with groupname>
 # > SG:meWATCH
@@ -775,15 +797,12 @@ nameserver /mytv.vn/<replace with groupname>
 nameserver /cliptv.vn/<replace with groupname>
 # > VN:Galaxy Play
 nameserver /glxplay.io/<replace with groupname>
+# > VN:K+
+nameserver /solocoo.tv/<replace with groupname>
 # > MY:sooka
 nameserver /sooka.my/<replace with groupname>
 nameserver /kaltura.com/<replace with groupname>
 nameserver /1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com/<replace with groupname>
-nameserver /fontawesome.com/<replace with groupname>
-nameserver /maxcdn.icons8.com/<replace with groupname>
-nameserver /kingdata.ksyun.com/<replace with groupname>
-# > MY:astro
-nameserver /astro.com.my/<replace with groupname>
 # > IN:MXPlayer
 nameserver /mxplayer.in/<replace with groupname>
 # > IN:Tata Play
@@ -798,8 +817,9 @@ nameserver /shahid.net/<replace with groupname>
 nameserver /openai.com/<replace with groupname>
 nameserver /oaistatic.com/<replace with groupname>
 nameserver /oaiusercontent.com/<replace with groupname>
-# > ExHantai
+# > ExHantai/E-hentai
 nameserver /exhentai.org/<replace with groupname>
+nameserver /e-hentai.org/<replace with groupname>
 # > Claude 2
 nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>

@@ -12,6 +12,7 @@
 "domain:hotstar.com",
 "domain:hotstarext.com",
 # > Disney+
+"domain:disney.connections.edge.bamgrid.com",
 "domain:disney.api.edge.bamgrid.com",
 "domain:disney-plus.net",
 "domain:disneyplus.com",
@@ -58,6 +59,11 @@
 "domain:tvbweekly.com",
 "domain:tvmedia.net.au",
 # > Viu.com
+"domain:cognito-identity.us-east-1.amazonaws.com",
+"domain:d1k2us671qcoau.cloudfront.net",
+"domain:d2anahhhmp1ffz.cloudfront.net",
+"domain:dfp6rglgjqszk.cloudfront.net",
+"domain:mobileanalytics.us-east-1.amazonaws.com",
 "domain:viu.com",
 # > Steam Store
 "domain:steampowered.com",
@@ -87,8 +93,6 @@
 "domain:qiyi.com",
 "domain:qiyipic.com",
 "domain:qy.net",
-# > Spotify Register
-"domain:spclient.wg.spotify.com",
 # > Tiktok
 "domain:byteoversea.com",
 "domain:ibytedtos.com",
@@ -145,8 +149,13 @@
 "domain:hbogoprod-vod.akamaized.net",
 "domain:hbolb.onwardsmg.com",
 "domain:hbounify-prod.evergent.com",
+"domain:hbogo.co.th",
 "domain:hbogoasia.com",
 "domain:hbogoasia.hk",
+"domain:hbogoasia.id",
+"domain:hbogoasia.ph",
+"domain:hbogoasia.sg",
+"domain:hbogoasia.tw",
 # > Bahamut Anime
 "domain:bahamut.com.tw",
 "domain:gamer.com.tw",
@@ -247,6 +256,9 @@
 "domain:konosubafd.jp",
 "domain:colorfulpalette.org",
 "domain:worldflipper.jp",
+"domain:jujutsuphanpara.jp",
+# > Reads 
+"domain:data-cloudauthoring.magazine.rakuten.co.jp",
 
 # ---------- > Oceania Media
 # > NBA TV !Against US!
@@ -674,8 +686,13 @@
 "domain:hbogoprod-vod.akamaized.net",
 "domain:hbolb.onwardsmg.com",
 "domain:hbounify-prod.evergent.com",
+"domain:hbogo.co.th",
 "domain:hbogoasia.com",
 "domain:hbogoasia.hk",
+"domain:hbogoasia.id",
+"domain:hbogoasia.ph",
+"domain:hbogoasia.sg",
+"domain:hbogoasia.tw",
 # > HOY TV
 "domain:hoy.tv",
 # > BiliBili 
@@ -751,8 +768,13 @@
 "domain:hbogoprod-vod.akamaized.net",
 "domain:hbolb.onwardsmg.com",
 "domain:hbounify-prod.evergent.com",
+"domain:hbogo.co.th",
 "domain:hbogoasia.com",
 "domain:hbogoasia.hk",
+"domain:hbogoasia.id",
+"domain:hbogoasia.ph",
+"domain:hbogoasia.sg",
+"domain:hbogoasia.tw",
 # > B-Global
 "domain:bilibili.tv",
 # > SG:meWATCH
@@ -775,15 +797,12 @@
 "domain:cliptv.vn",
 # > VN:Galaxy Play
 "domain:glxplay.io",
+# > VN:K+
+"domain:solocoo.tv",
 # > MY:sooka
 "domain:sooka.my",
 "domain:kaltura.com",
 "domain:1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com",
-"domain:fontawesome.com",
-"domain:maxcdn.icons8.com",
-"domain:kingdata.ksyun.com",
-# > MY:astro
-"domain:astro.com.my",
 # > IN:MXPlayer
 "domain:mxplayer.in",
 # > IN:Tata Play
@@ -798,8 +817,9 @@
 "domain:openai.com",
 "domain:oaistatic.com",
 "domain:oaiusercontent.com",
-# > ExHantai
+# > ExHantai/E-hentai
 "domain:exhentai.org",
+"domain:e-hentai.org",
 # > Claude 2
 "domain:anthropic.com",
 "domain:claude.ai",
