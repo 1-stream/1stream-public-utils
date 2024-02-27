@@ -12,6 +12,7 @@
 ~^(.*|)hotstar\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hotstarext\.com$ $ssl_preread_server_name:443;
 # > Disney+
+~^(.*|)disney\.connections\.edge\.bamgrid\.com$ $ssl_preread_server_name:443;
 ~^(.*|)disney\.api\.edge\.bamgrid\.com$ $ssl_preread_server_name:443;
 ~^(.*|)disney-plus\.net$ $ssl_preread_server_name:443;
 ~^(.*|)disneyplus\.com$ $ssl_preread_server_name:443;
@@ -58,6 +59,11 @@
 ~^(.*|)tvbweekly\.com$ $ssl_preread_server_name:443;
 ~^(.*|)tvmedia\.net\.au$ $ssl_preread_server_name:443;
 # > Viu.com
+~^(.*|)cognito-identity\.us-east-1\.amazonaws\.com$ $ssl_preread_server_name:443;
+~^(.*|)d1k2us671qcoau\.cloudfront\.net$ $ssl_preread_server_name:443;
+~^(.*|)d2anahhhmp1ffz\.cloudfront\.net$ $ssl_preread_server_name:443;
+~^(.*|)dfp6rglgjqszk\.cloudfront\.net$ $ssl_preread_server_name:443;
+~^(.*|)mobileanalytics\.us-east-1\.amazonaws\.com$ $ssl_preread_server_name:443;
 ~^(.*|)viu\.com$ $ssl_preread_server_name:443;
 # > Steam Store
 ~^(.*|)steampowered\.com$ $ssl_preread_server_name:443;
@@ -87,8 +93,6 @@
 ~^(.*|)qiyi\.com$ $ssl_preread_server_name:443;
 ~^(.*|)qiyipic\.com$ $ssl_preread_server_name:443;
 ~^(.*|)qy\.net$ $ssl_preread_server_name:443;
-# > Spotify Register
-~^(.*|)spclient\.wg\.spotify\.com$ $ssl_preread_server_name:443;
 # > Tiktok
 ~^(.*|)byteoversea\.com$ $ssl_preread_server_name:443;
 ~^(.*|)ibytedtos\.com$ $ssl_preread_server_name:443;
@@ -145,8 +149,13 @@
 ~^(.*|)hbogoprod-vod\.akamaized\.net$ $ssl_preread_server_name:443;
 ~^(.*|)hbolb\.onwardsmg\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbounify-prod\.evergent\.com$ $ssl_preread_server_name:443;
+~^(.*|)hbogo\.co\.th$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.hk$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.id$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.ph$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.sg$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.tw$ $ssl_preread_server_name:443;
 # > Bahamut Anime
 ~^(.*|)bahamut\.com\.tw$ $ssl_preread_server_name:443;
 ~^(.*|)gamer\.com\.tw$ $ssl_preread_server_name:443;
@@ -247,6 +256,9 @@
 ~^(.*|)konosubafd\.jp$ $ssl_preread_server_name:443;
 ~^(.*|)colorfulpalette\.org$ $ssl_preread_server_name:443;
 ~^(.*|)worldflipper\.jp$ $ssl_preread_server_name:443;
+~^(.*|)jujutsuphanpara\.jp$ $ssl_preread_server_name:443;
+# > Reads 
+~^(.*|)data-cloudauthoring\.magazine\.rakuten\.co\.jp$ $ssl_preread_server_name:443;
 
 # ---------- > Oceania Media
 # > NBA TV !Against US!
@@ -674,8 +686,13 @@
 ~^(.*|)hbogoprod-vod\.akamaized\.net$ $ssl_preread_server_name:443;
 ~^(.*|)hbolb\.onwardsmg\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbounify-prod\.evergent\.com$ $ssl_preread_server_name:443;
+~^(.*|)hbogo\.co\.th$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.hk$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.id$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.ph$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.sg$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.tw$ $ssl_preread_server_name:443;
 # > HOY TV
 ~^(.*|)hoy\.tv$ $ssl_preread_server_name:443;
 # > BiliBili 
@@ -751,8 +768,13 @@
 ~^(.*|)hbogoprod-vod\.akamaized\.net$ $ssl_preread_server_name:443;
 ~^(.*|)hbolb\.onwardsmg\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbounify-prod\.evergent\.com$ $ssl_preread_server_name:443;
+~^(.*|)hbogo\.co\.th$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.com$ $ssl_preread_server_name:443;
 ~^(.*|)hbogoasia\.hk$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.id$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.ph$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.sg$ $ssl_preread_server_name:443;
+~^(.*|)hbogoasia\.tw$ $ssl_preread_server_name:443;
 # > B-Global
 ~^(.*|)bilibili\.tv$ $ssl_preread_server_name:443;
 # > SG:meWATCH
@@ -775,15 +797,12 @@
 ~^(.*|)cliptv\.vn$ $ssl_preread_server_name:443;
 # > VN:Galaxy Play
 ~^(.*|)glxplay\.io$ $ssl_preread_server_name:443;
+# > VN:K+
+~^(.*|)solocoo\.tv$ $ssl_preread_server_name:443;
 # > MY:sooka
 ~^(.*|)sooka\.my$ $ssl_preread_server_name:443;
 ~^(.*|)kaltura\.com$ $ssl_preread_server_name:443;
 ~^(.*|)1fad96d91f4f519fc79753650a57dad992c44af2\.cws\.conviva\.com$ $ssl_preread_server_name:443;
-~^(.*|)fontawesome\.com$ $ssl_preread_server_name:443;
-~^(.*|)maxcdn\.icons8\.com$ $ssl_preread_server_name:443;
-~^(.*|)kingdata\.ksyun\.com$ $ssl_preread_server_name:443;
-# > MY:astro
-~^(.*|)astro\.com\.my$ $ssl_preread_server_name:443;
 # > IN:MXPlayer
 ~^(.*|)mxplayer\.in$ $ssl_preread_server_name:443;
 # > IN:Tata Play
@@ -798,8 +817,9 @@
 ~^(.*|)openai\.com$ $ssl_preread_server_name:443;
 ~^(.*|)oaistatic\.com$ $ssl_preread_server_name:443;
 ~^(.*|)oaiusercontent\.com$ $ssl_preread_server_name:443;
-# > ExHantai
+# > ExHantai/E-hentai
 ~^(.*|)exhentai\.org$ $ssl_preread_server_name:443;
+~^(.*|)e-hentai\.org$ $ssl_preread_server_name:443;
 # > Claude 2
 ~^(.*|)anthropic\.com$ $ssl_preread_server_name:443;
 ~^(.*|)claude\.ai$ $ssl_preread_server_name:443;
