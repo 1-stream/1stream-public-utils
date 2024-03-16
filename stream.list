@@ -63,6 +63,7 @@
 ~^(.*|)d1k2us671qcoau\.cloudfront\.net$ $ssl_preread_server_name:443;
 ~^(.*|)d2anahhhmp1ffz\.cloudfront\.net$ $ssl_preread_server_name:443;
 ~^(.*|)dfp6rglgjqszk\.cloudfront\.net$ $ssl_preread_server_name:443;
+~^(.*|)d3o7oi00quuwqu\.cloudfront\.net$ $ssl_preread_server_name:443;
 ~^(.*|)mobileanalytics\.us-east-1\.amazonaws\.com$ $ssl_preread_server_name:443;
 ~^(.*|)viu\.com$ $ssl_preread_server_name:443;
 # > Steam Store
@@ -815,6 +816,7 @@
 # ---------- > Others
 # > Openai
 ~^(.*|)openai\.com$ $ssl_preread_server_name:443;
+~^(.*|)chatgpt\.com$ $ssl_preread_server_name:443;
 ~^(.*|)oaistatic\.com$ $ssl_preread_server_name:443;
 ~^(.*|)oaiusercontent\.com$ $ssl_preread_server_name:443;
 # > ExHantai/E-hentai
