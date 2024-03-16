@@ -63,6 +63,7 @@
 "domain:d1k2us671qcoau.cloudfront.net",
 "domain:d2anahhhmp1ffz.cloudfront.net",
 "domain:dfp6rglgjqszk.cloudfront.net",
+"domain:d3o7oi00quuwqu.cloudfront.net",
 "domain:mobileanalytics.us-east-1.amazonaws.com",
 "domain:viu.com",
 # > Steam Store
@@ -815,6 +816,7 @@
 # ---------- > Others
 # > Openai
 "domain:openai.com",
+"domain:chatgpt.com",
 "domain:oaistatic.com",
 "domain:oaiusercontent.com",
 # > ExHantai/E-hentai
