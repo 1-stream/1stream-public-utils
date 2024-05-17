@@ -1,896 +1,874 @@
 # ---------- > Global Plaform
 # > DAZN
-nameserver /dazn-api.com$ $ssl_preread_server_name:443;
-nameserver /dazn.com$ $ssl_preread_server_name:443;
-nameserver /dazndn.com$ $ssl_preread_server_name:443;
-nameserver /indazn.com$ $ssl_preread_server_name:443;
-nameserver /d151l6v8er5bdm.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /d1sgwhnao7452x.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /dcalivedazn.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /dcblivedazn.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /dazn-api.com/<replace with groupname>
+nameserver /dazn.com/<replace with groupname>
+nameserver /dazndn.com/<replace with groupname>
+nameserver /indazn.com/<replace with groupname>
+nameserver /d151l6v8er5bdm.cloudfront.net/<replace with groupname>
+nameserver /d1sgwhnao7452x.cloudfront.net/<replace with groupname>
+nameserver /dcalivedazn.akamaized.net/<replace with groupname>
+nameserver /dcblivedazn.akamaized.net/<replace with groupname>
 # > Hotstar
-nameserver /hotstar.com$ $ssl_preread_server_name:443;
-nameserver /hotstarext.com$ $ssl_preread_server_name:443;
+nameserver /hotstar.com/<replace with groupname>
+nameserver /hotstarext.com/<replace with groupname>
 # > Disney+
-nameserver /disney.connections.edge.bamgrid.com$ $ssl_preread_server_name:443;
-nameserver /disney.api.edge.bamgrid.com$ $ssl_preread_server_name:443;
-nameserver /disney-plus.net$ $ssl_preread_server_name:443;
-nameserver /disneyplus.com$ $ssl_preread_server_name:443;
-nameserver /dssott.com$ $ssl_preread_server_name:443;
-nameserver /disneynow.com$ $ssl_preread_server_name:443;
-nameserver /disneystreaming.com$ $ssl_preread_server_name:443;
-nameserver /cdn.registerdisney.go.com$ $ssl_preread_server_name:443;
+nameserver /disney.connections.edge.bamgrid.com/<replace with groupname>
+nameserver /disney.api.edge.bamgrid.com/<replace with groupname>
+nameserver /disney-plus.net/<replace with groupname>
+nameserver /disneyplus.com/<replace with groupname>
+nameserver /dssott.com/<replace with groupname>
+nameserver /disneynow.com/<replace with groupname>
+nameserver /disneystreaming.com/<replace with groupname>
+nameserver /cdn.registerdisney.go.com/<replace with groupname>
 # > Netflix
-nameserver /netflix.com$ $ssl_preread_server_name:443;
-nameserver /netflix.net$ $ssl_preread_server_name:443;
-nameserver /nflximg.com$ $ssl_preread_server_name:443;
-nameserver /nflximg.net$ $ssl_preread_server_name:443;
-nameserver /nflxvideo.net$ $ssl_preread_server_name:443;
-nameserver /nflxext.com$ $ssl_preread_server_name:443;
-nameserver /nflxso.net$ $ssl_preread_server_name:443;
+nameserver /netflix.com/<replace with groupname>
+nameserver /netflix.net/<replace with groupname>
+nameserver /nflximg.com/<replace with groupname>
+nameserver /nflximg.net/<replace with groupname>
+nameserver /nflxvideo.net/<replace with groupname>
+nameserver /nflxext.com/<replace with groupname>
+nameserver /nflxso.net/<replace with groupname>
 # > Amazon Prime Video:
-nameserver /d1v5ir2lpwr8os.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /d22qjgkvxw22r6.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /d25xi40x97liuc.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /d27xxe7juh1us6.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /dmqdd6hw24ucf.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /aiv-cdn.net$ $ssl_preread_server_name:443;
-nameserver /aiv-delivery.net$ $ssl_preread_server_name:443;
-nameserver /amazonvideo.com$ $ssl_preread_server_name:443;
-nameserver /atv-ext-eu.amazon.com$ $ssl_preread_server_name:443;
-nameserver /atv-ext-fe.amazon.com$ $ssl_preread_server_name:443;
-nameserver /atv-ext.amazon.com$ $ssl_preread_server_name:443;
-nameserver /atv-ps-eu.amazon.co.uk$ $ssl_preread_server_name:443;
-nameserver /atv-ps-eu.amazon.com$ $ssl_preread_server_name:443;
-nameserver /atv-ps-fe.amazon.co.jp$ $ssl_preread_server_name:443;
-nameserver /atv-ps-fe.amazon.com$ $ssl_preread_server_name:443;
-nameserver /atv-ps.amazon.com$ $ssl_preread_server_name:443;
-nameserver /primevideo.com$ $ssl_preread_server_name:443;
-nameserver /pv-cdn.net$ $ssl_preread_server_name:443;
-nameserver /video.a2z.com$ $ssl_preread_server_name:443;
+nameserver /d1v5ir2lpwr8os.cloudfront.net/<replace with groupname>
+nameserver /d22qjgkvxw22r6.cloudfront.net/<replace with groupname>
+nameserver /d25xi40x97liuc.cloudfront.net/<replace with groupname>
+nameserver /d27xxe7juh1us6.cloudfront.net/<replace with groupname>
+nameserver /dmqdd6hw24ucf.cloudfront.net/<replace with groupname>
+nameserver /aiv-cdn.net/<replace with groupname>
+nameserver /aiv-delivery.net/<replace with groupname>
+nameserver /amazonvideo.com/<replace with groupname>
+nameserver /atv-ext-eu.amazon.com/<replace with groupname>
+nameserver /atv-ext-fe.amazon.com/<replace with groupname>
+nameserver /atv-ext.amazon.com/<replace with groupname>
+nameserver /atv-ps-eu.amazon.co.uk/<replace with groupname>
+nameserver /atv-ps-eu.amazon.com/<replace with groupname>
+nameserver /atv-ps-fe.amazon.co.jp/<replace with groupname>
+nameserver /atv-ps-fe.amazon.com/<replace with groupname>
+nameserver /atv-ps.amazon.com/<replace with groupname>
+nameserver /primevideo.com/<replace with groupname>
+nameserver /pv-cdn.net/<replace with groupname>
+nameserver /video.a2z.com/<replace with groupname>
 # > TVBAnywhere+
-nameserver /tvbanywhere.com$ $ssl_preread_server_name:443;
-nameserver /tvbanywhere.com.sg$ $ssl_preread_server_name:443;
-nameserver /tvb.com$ $ssl_preread_server_name:443;
-nameserver /tvb.com.au$ $ssl_preread_server_name:443;
-nameserver /tvbc.com.cn$ $ssl_preread_server_name:443;
-nameserver /tvbeventpower.com.hk$ $ssl_preread_server_name:443;
-nameserver /tvbusa.com$ $ssl_preread_server_name:443;
-nameserver /tvbweekly.com$ $ssl_preread_server_name:443;
-nameserver /tvmedia.net.au$ $ssl_preread_server_name:443;
+nameserver /tvbanywhere.com/<replace with groupname>
+nameserver /tvbanywhere.com.sg/<replace with groupname>
+nameserver /tvb.com/<replace with groupname>
+nameserver /tvb.com.au/<replace with groupname>
+nameserver /tvbc.com.cn/<replace with groupname>
+nameserver /tvbeventpower.com.hk/<replace with groupname>
+nameserver /tvbusa.com/<replace with groupname>
+nameserver /tvbweekly.com/<replace with groupname>
+nameserver /tvmedia.net.au/<replace with groupname>
 # > Viu.com
-nameserver /cognito-identity.us-east-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /d1k2us671qcoau.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /d2anahhhmp1ffz.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /dfp6rglgjqszk.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /d3o7oi00quuwqu.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /mobileanalytics.us-east-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /viu.com$ $ssl_preread_server_name:443;
+nameserver /cognito-identity.us-east-1.amazonaws.com/<replace with groupname>
+nameserver /d1k2us671qcoau.cloudfront.net/<replace with groupname>
+nameserver /d2anahhhmp1ffz.cloudfront.net/<replace with groupname>
+nameserver /dfp6rglgjqszk.cloudfront.net/<replace with groupname>
+nameserver /d3o7oi00quuwqu.cloudfront.net/<replace with groupname>
+nameserver /mobileanalytics.us-east-1.amazonaws.com/<replace with groupname>
+nameserver /viu.com/<replace with groupname>
 # > Steam Store
-nameserver /steampowered.com$ $ssl_preread_server_name:443;
+nameserver /steampowered.com/<replace with groupname>
 # > Youtube
-nameserver /ggpht.cn$ $ssl_preread_server_name:443;
-nameserver /ggpht.com$ $ssl_preread_server_name:443;
-#nameserver /googlevideo.com$ $ssl_preread_server_name:443;
-nameserver /gvt2.com$ $ssl_preread_server_name:443;
-nameserver /withyoutube.com$ $ssl_preread_server_name:443;
-nameserver /youtube-nocookie.com$ $ssl_preread_server_name:443;
-nameserver /youtube.com$ $ssl_preread_server_name:443;
-nameserver /youtubeeducation.com$ $ssl_preread_server_name:443;
-nameserver /youtubefanfest.com$ $ssl_preread_server_name:443;
-nameserver /youtubegaming.com$ $ssl_preread_server_name:443;
-nameserver /youtubego.com$ $ssl_preread_server_name:443;
-nameserver /youtubei.googleapis.com$ $ssl_preread_server_name:443;
-nameserver /youtubekids.com$ $ssl_preread_server_name:443;
-nameserver /youtubemobilesupport.com$ $ssl_preread_server_name:443;
-nameserver /ytimg.com$ $ssl_preread_server_name:443;
+nameserver /youtube.com/<replace with groupname>
+nameserver /youtubei.googleapis.com/<replace with groupname>
 # > iQiyi
-nameserver /71.am$ $ssl_preread_server_name:443;
-nameserver /iq.com$ $ssl_preread_server_name:443;
-nameserver /iqiyi.com$ $ssl_preread_server_name:443;
-nameserver /iqiyipic.com$ $ssl_preread_server_name:443;
-nameserver /pps.tv$ $ssl_preread_server_name:443;
-nameserver /ppsimg.com$ $ssl_preread_server_name:443;
-nameserver /qiyi.com$ $ssl_preread_server_name:443;
-nameserver /qiyipic.com$ $ssl_preread_server_name:443;
-nameserver /qy.net$ $ssl_preread_server_name:443;
+nameserver /71.am/<replace with groupname>
+nameserver /iq.com/<replace with groupname>
+nameserver /iqiyi.com/<replace with groupname>
+nameserver /iqiyipic.com/<replace with groupname>
+nameserver /pps.tv/<replace with groupname>
+nameserver /ppsimg.com/<replace with groupname>
+nameserver /qiyi.com/<replace with groupname>
+nameserver /qiyipic.com/<replace with groupname>
+nameserver /qy.net/<replace with groupname>
 # > Tiktok
-nameserver /byteoversea.com$ $ssl_preread_server_name:443;
-nameserver /ibytedtos.com$ $ssl_preread_server_name:443;
-nameserver /ipstatp.com$ $ssl_preread_server_name:443;
-nameserver /muscdn.com$ $ssl_preread_server_name:443;
-nameserver /musical.ly$ $ssl_preread_server_name:443;
-nameserver /tiktok.com$ $ssl_preread_server_name:443;
-nameserver /tik-tokapi.com$ $ssl_preread_server_name:443;
-nameserver /tiktokcdn.com$ $ssl_preread_server_name:443;
-nameserver /tiktokv.com$ $ssl_preread_server_name:443;
+nameserver /byteoversea.com/<replace with groupname>
+nameserver /ibytedtos.com/<replace with groupname>
+nameserver /ipstatp.com/<replace with groupname>
+nameserver /muscdn.com/<replace with groupname>
+nameserver /musical.ly/<replace with groupname>
+nameserver /tiktok.com/<replace with groupname>
+nameserver /tik-tokapi.com/<replace with groupname>
+nameserver /tiktokcdn.com/<replace with groupname>
+nameserver /tiktokv.com/<replace with groupname>
 
 # ---------- > Taiwan Media
 # > KKTV
-nameserver /kfs.io$ $ssl_preread_server_name:443;
-nameserver /kktv-theater.kk.stream$ $ssl_preread_server_name:443;
-nameserver /kkbox.com$ $ssl_preread_server_name:443;
-nameserver /kkbox.com.tw$ $ssl_preread_server_name:443;
-nameserver /kktv.com.tw$ $ssl_preread_server_name:443;
-nameserver /kktv.me$ $ssl_preread_server_name:443;
+nameserver /kfs.io/<replace with groupname>
+nameserver /kktv-theater.kk.stream/<replace with groupname>
+nameserver /kkbox.com/<replace with groupname>
+nameserver /kkbox.com.tw/<replace with groupname>
+nameserver /kktv.com.tw/<replace with groupname>
+nameserver /kktv.me/<replace with groupname>
 # > LiTV
-nameserver /litv.tv$ $ssl_preread_server_name:443;
-nameserver /litvfreemobile-hichannel.cdn.hinet.net$ $ssl_preread_server_name:443;
+nameserver /litv.tv/<replace with groupname>
+nameserver /litvfreemobile-hichannel.cdn.hinet.net/<replace with groupname>
 # > MyVideo
-nameserver /cdn.plyr.io$ $ssl_preread_server_name:443;
-nameserver /myvideo.net.tw$ $ssl_preread_server_name:443;
+nameserver /cdn.plyr.io/<replace with groupname>
+nameserver /myvideo.net.tw/<replace with groupname>
 # > 4GTV
-nameserver /4gtv.tv$ $ssl_preread_server_name:443;
-nameserver /4gtvfreepc-cds.cdn.hinet.net$ $ssl_preread_server_name:443;
-nameserver /4gtvfreepcvod-cds.cdn.hinet.net$ $ssl_preread_server_name:443;
-nameserver /4gtvpc-cds.cdn.hinet.net$ $ssl_preread_server_name:443;
-nameserver /4gtvpcvod-cds.cdn.hinet.net$ $ssl_preread_server_name:443;
+nameserver /4gtv.tv/<replace with groupname>
+nameserver /4gtvfreepc-cds.cdn.hinet.net/<replace with groupname>
+nameserver /4gtvfreepcvod-cds.cdn.hinet.net/<replace with groupname>
+nameserver /4gtvpc-cds.cdn.hinet.net/<replace with groupname>
+nameserver /4gtvpcvod-cds.cdn.hinet.net/<replace with groupname>
 # > LineTV.TW
-nameserver /d3c7rimkq79yfu.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /linetv.tw$ $ssl_preread_server_name:443;
+nameserver /d3c7rimkq79yfu.cloudfront.net/<replace with groupname>
+nameserver /linetv.tw/<replace with groupname>
 # > Hami Video
-nameserver /cdn.hinet.net$ $ssl_preread_server_name:443;
-nameserver /hamivideo.hinet.net$ $ssl_preread_server_name:443;
-nameserver /scc.ott.hinet.net$ $ssl_preread_server_name:443;
+nameserver /cdn.hinet.net/<replace with groupname>
+nameserver /hamivideo.hinet.net/<replace with groupname>
+nameserver /scc.ott.hinet.net/<replace with groupname>
 # > CatchPlay+
-nameserver /catchplay.com$ $ssl_preread_server_name:443;
-nameserver /d2ivmxp5z2ww0n.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /ols-ww100-cp.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /tra-www000-cp.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /catchplay.com/<replace with groupname>
+nameserver /d2ivmxp5z2ww0n.cloudfront.net/<replace with groupname>
+nameserver /ols-ww100-cp.akamaized.net/<replace with groupname>
+nameserver /tra-www000-cp.akamaized.net/<replace with groupname>
 # > HBO GO Asia
-nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /bcbolthboa-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /dai3fd1oh325y.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /hboasia1-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia2-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia3-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia4-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia5-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasialive.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /hbogoprod-vod.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /hbolb.onwardsmg.com$ $ssl_preread_server_name:443;
-nameserver /hbounify-prod.evergent.com$ $ssl_preread_server_name:443;
-nameserver /hbogo.co.th$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.com$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.hk$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.id$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.ph$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.sg$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.tw$ $ssl_preread_server_name:443;
+nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/<replace with groupname>
+nameserver /bcbolthboa-a.akamaihd.net/<replace with groupname>
+nameserver /dai3fd1oh325y.cloudfront.net/<replace with groupname>
+nameserver /hboasia1-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia2-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia3-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia4-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia5-i.akamaihd.net/<replace with groupname>
+nameserver /hboasialive.akamaized.net/<replace with groupname>
+nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
+nameserver /hbolb.onwardsmg.com/<replace with groupname>
+nameserver /hbounify-prod.evergent.com/<replace with groupname>
+nameserver /hbogo.co.th/<replace with groupname>
+nameserver /hbogoasia.com/<replace with groupname>
+nameserver /hbogoasia.hk/<replace with groupname>
+nameserver /hbogoasia.id/<replace with groupname>
+nameserver /hbogoasia.ph/<replace with groupname>
+nameserver /hbogoasia.sg/<replace with groupname>
+nameserver /hbogoasia.tw/<replace with groupname>
 # > Bahamut Anime
-nameserver /bahamut.com.tw$ $ssl_preread_server_name:443;
-nameserver /gamer.com.tw$ $ssl_preread_server_name:443;
-nameserver /gamer-cds.cdn.hinet.net$ $ssl_preread_server_name:443;
-nameserver /gamer2-cds.cdn.hinet.net$ $ssl_preread_server_name:443;
+nameserver /bahamut.com.tw/<replace with groupname>
+nameserver /gamer.com.tw/<replace with groupname>
+nameserver /gamer-cds.cdn.hinet.net/<replace with groupname>
+nameserver /gamer2-cds.cdn.hinet.net/<replace with groupname>
 # > BiliBili
-nameserver /bilibili.com$ $ssl_preread_server_name:443;
+nameserver /bilibili.com/<replace with groupname>
 
 # ---------- > Canada Media
 # > CBC Gem
-nameserver /cbc.ca$ $ssl_preread_server_name:443;
-nameserver /cbchd1dynamicads-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /cbclivedai5-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /cbcnewshd-f.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /cbcrcott-gem-key.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /cbcrcott-gem.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /go-mpulse.net$ $ssl_preread_server_name:443;
-nameserver /theplatform.com$ $ssl_preread_server_name:443;
+nameserver /cbc.ca/<replace with groupname>
+nameserver /cbchd1dynamicads-i.akamaihd.net/<replace with groupname>
+nameserver /cbclivedai5-i.akamaihd.net/<replace with groupname>
+nameserver /cbcnewshd-f.akamaihd.net/<replace with groupname>
+nameserver /cbcrcott-gem-key.akamaized.net/<replace with groupname>
+nameserver /cbcrcott-gem.akamaized.net/<replace with groupname>
+nameserver /go-mpulse.net/<replace with groupname>
+nameserver /theplatform.com/<replace with groupname>
 # > Crave TV
-nameserver /crave.ca$ $ssl_preread_server_name:443;
-nameserver /go-mpulse.net$ $ssl_preread_server_name:443;
-nameserver /9c9media.com$ $ssl_preread_server_name:443;
+nameserver /crave.ca/<replace with groupname>
+nameserver /go-mpulse.net/<replace with groupname>
+nameserver /9c9media.com/<replace with groupname>
 
 # ---------- > Japan Media
 # > DMM
-nameserver /dmm-extension.com$ $ssl_preread_server_name:443;
-nameserver /dmm.co.jp$ $ssl_preread_server_name:443;
-nameserver /dmm.com$ $ssl_preread_server_name:443;
-nameserver /videomarket.jp$ $ssl_preread_server_name:443;
-nameserver /p-smith.com$ $ssl_preread_server_name:443;
-nameserver /vmdash-cenc.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /img.vm-movie.jp$ $ssl_preread_server_name:443;
+nameserver /dmm-extension.com/<replace with groupname>
+nameserver /dmm.co.jp/<replace with groupname>
+nameserver /dmm.com/<replace with groupname>
+nameserver /videomarket.jp/<replace with groupname>
+nameserver /p-smith.com/<replace with groupname>
+nameserver /vmdash-cenc.akamaized.net/<replace with groupname>
+nameserver /img.vm-movie.jp/<replace with groupname>
 # > Abema
-nameserver /abema.io$ $ssl_preread_server_name:443;
-nameserver /abema.tv$ $ssl_preread_server_name:443;
-nameserver /ds-linear-abematv.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /linear-abematv.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /ds-vod-abematv.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-abematv.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /ameba.jp$ $ssl_preread_server_name:443;
-nameserver /hayabusa.io$ $ssl_preread_server_name:443;
-nameserver /vod-abematv.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /bucketeer.jp$ $ssl_preread_server_name:443;
-nameserver /abema.adx.promo$ $ssl_preread_server_name:443;
-nameserver /hayabusa.media$ $ssl_preread_server_name:443;
-nameserver /abema-tv.com$ $ssl_preread_server_name:443;
+nameserver /abema.io/<replace with groupname>
+nameserver /abema.tv/<replace with groupname>
+nameserver /ds-linear-abematv.akamaized.net/<replace with groupname>
+nameserver /linear-abematv.akamaized.net/<replace with groupname>
+nameserver /ds-vod-abematv.akamaized.net/<replace with groupname>
+nameserver /vod-abematv.akamaized.net/<replace with groupname>
+nameserver /ameba.jp/<replace with groupname>
+nameserver /hayabusa.io/<replace with groupname>
+nameserver /vod-abematv.akamaized.net/<replace with groupname>
+nameserver /bucketeer.jp/<replace with groupname>
+nameserver /abema.adx.promo/<replace with groupname>
+nameserver /hayabusa.media/<replace with groupname>
+nameserver /abema-tv.com/<replace with groupname>
 # > NicoNico
-nameserver /dmc.nico$ $ssl_preread_server_name:443;
-nameserver /nicovideo.jp$ $ssl_preread_server_name:443;
-nameserver /nimg.jp$ $ssl_preread_server_name:443;
+nameserver /dmc.nico/<replace with groupname>
+nameserver /nicovideo.jp/<replace with groupname>
+nameserver /nimg.jp/<replace with groupname>
 # > Music.jp
-nameserver /music.jp$ $ssl_preread_server_name:443;
-nameserver /music-book.jp$ $ssl_preread_server_name:443;
+nameserver /music.jp/<replace with groupname>
+nameserver /music-book.jp/<replace with groupname>
 # > Telasa
-nameserver /telasa.jp$ $ssl_preread_server_name:443;
-nameserver /kddi-video.com$ $ssl_preread_server_name:443;
-nameserver /videopass.jp$ $ssl_preread_server_name:443;
-nameserver /d2lmsumy47c8as.cloudfront.net$ $ssl_preread_server_name:443;
+nameserver /telasa.jp/<replace with groupname>
+nameserver /kddi-video.com/<replace with groupname>
+nameserver /videopass.jp/<replace with groupname>
+nameserver /d2lmsumy47c8as.cloudfront.net/<replace with groupname>
 # > Paravi
-nameserver /paravi.jp$ $ssl_preread_server_name:443;
+nameserver /paravi.jp/<replace with groupname>
 # > U-NEXT
-nameserver /unext.jp$ $ssl_preread_server_name:443;
-nameserver /nxtv.jp$ $ssl_preread_server_name:443;
+nameserver /unext.jp/<replace with groupname>
+nameserver /nxtv.jp/<replace with groupname>
 # > Hulu Japan
-nameserver /happyon.jp$ $ssl_preread_server_name:443;
-nameserver /hulu.jp$ $ssl_preread_server_name:443;
-nameserver /prod.hjholdings.tv$ $ssl_preread_server_name:443;
-nameserver /streaks.jp$ $ssl_preread_server_name:443;
-nameserver /yb.uncn.jp$ $ssl_preread_server_name:443;
-nameserver /hjholdings.jp$ $ssl_preread_server_name:443;
+nameserver /happyon.jp/<replace with groupname>
+nameserver /hulu.jp/<replace with groupname>
+nameserver /prod.hjholdings.tv/<replace with groupname>
+nameserver /streaks.jp/<replace with groupname>
+nameserver /yb.uncn.jp/<replace with groupname>
+nameserver /hjholdings.jp/<replace with groupname>
 # > TVer
-nameserver /tver.jp$ $ssl_preread_server_name:443;
-nameserver /edge.api.brightcove.com$ $ssl_preread_server_name:443;
-# nameserver /players.brightcove.net$ $ssl_preread_server_name:443;
-nameserver /gorin.jp$ $ssl_preread_server_name:443;
-nameserver /screens-lab.jp$ $ssl_preread_server_name:443;
-nameserver /tver.co.jp$ $ssl_preread_server_name:443;
-nameserver /dogatch.jp$ $ssl_preread_server_name:443;
+nameserver /tver.jp/<replace with groupname>
+nameserver /edge.api.brightcove.com/<replace with groupname>
+# nameserver /players.brightcove.net/<replace with groupname>
+nameserver /gorin.jp/<replace with groupname>
+nameserver /screens-lab.jp/<replace with groupname>
+nameserver /tver.co.jp/<replace with groupname>
+nameserver /dogatch.jp/<replace with groupname>
 # > GYAO!
-nameserver /gyao.yahoo.co.jp$ $ssl_preread_server_name:443;
+nameserver /gyao.yahoo.co.jp/<replace with groupname>
 # > WOWOW
-nameserver /wowow.co.jp$ $ssl_preread_server_name:443;
+nameserver /wowow.co.jp/<replace with groupname>
 # > Videomarket
-nameserver /videomarket.jp$ $ssl_preread_server_name:443;
+nameserver /videomarket.jp/<replace with groupname>
 # > Fuji TV
-nameserver /fujitv.co.jp$ $ssl_preread_server_name:443;
-nameserver /stream.ne.jp$ $ssl_preread_server_name:443;
+nameserver /fujitv.co.jp/<replace with groupname>
+nameserver /stream.ne.jp/<replace with groupname>
 # > Radiko
-nameserver /radiko.jp$ $ssl_preread_server_name:443;
-nameserver /radionikkei.jp$ $ssl_preread_server_name:443;
-nameserver /smartstream.ne.jp$ $ssl_preread_server_name:443;
+nameserver /radiko.jp/<replace with groupname>
+nameserver /radionikkei.jp/<replace with groupname>
+nameserver /smartstream.ne.jp/<replace with groupname>
 # > Karaoke@DAM
-nameserver /clubdam.com$ $ssl_preread_server_name:443;
+nameserver /clubdam.com/<replace with groupname>
 # > J:com On Demand
-nameserver /id.zaq.ne.jp$ $ssl_preread_server_name:443;
+nameserver /id.zaq.ne.jp/<replace with groupname>
 # > Games
-nameserver /cygames.jp$ $ssl_preread_server_name:443;
-nameserver /konosubafd.jp$ $ssl_preread_server_name:443;
-nameserver /colorfulpalette.org$ $ssl_preread_server_name:443;
-nameserver /worldflipper.jp$ $ssl_preread_server_name:443;
-nameserver /jujutsuphanpara.jp$ $ssl_preread_server_name:443;
+nameserver /cygames.jp/<replace with groupname>
+nameserver /konosubafd.jp/<replace with groupname>
+nameserver /colorfulpalette.org/<replace with groupname>
+nameserver /worldflipper.jp/<replace with groupname>
+nameserver /jujutsuphanpara.jp/<replace with groupname>
 # > Reads 
-nameserver /data-cloudauthoring.magazine.rakuten.co.jp$ $ssl_preread_server_name:443;
+nameserver /data-cloudauthoring.magazine.rakuten.co.jp/<replace with groupname>
 
 # ---------- > Oceania Media
 # > NBA TV !Against US!
-nameserver /nba.com$ $ssl_preread_server_name:443;
-nameserver /neulion-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /nlnbamdnyc-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /sdk.iad-03.braze.com$ $ssl_preread_server_name:443;
-nameserver /nbaprop.sc.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /nlnbaqos.neulion.com$ $ssl_preread_server_name:443;
-nameserver /watchnba.cdnfastly.endeavorstreaming.net$ $ssl_preread_server_name:443;
-nameserver /nbaapi.neulion.com$ $ssl_preread_server_name:443;
-nameserver /nba-api-cdn.opin.media$ $ssl_preread_server_name:443;
-nameserver /neulionqos-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /neulion.com$ $ssl_preread_server_name:443;
-nameserver /nbaprop.tt.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /lion-nba-msl.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /nbanlds19vod.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /nba.com/<replace with groupname>
+nameserver /neulion-a.akamaihd.net/<replace with groupname>
+nameserver /nlnbamdnyc-a.akamaihd.net/<replace with groupname>
+nameserver /sdk.iad-03.braze.com/<replace with groupname>
+nameserver /nbaprop.sc.omtrdc.net/<replace with groupname>
+nameserver /nlnbaqos.neulion.com/<replace with groupname>
+nameserver /watchnba.cdnfastly.endeavorstreaming.net/<replace with groupname>
+nameserver /nbaapi.neulion.com/<replace with groupname>
+nameserver /nba-api-cdn.opin.media/<replace with groupname>
+nameserver /neulionqos-a.akamaihd.net/<replace with groupname>
+nameserver /neulion.com/<replace with groupname>
+nameserver /nbaprop.tt.omtrdc.net/<replace with groupname>
+nameserver /lion-nba-msl.akamaized.net/<replace with groupname>
+nameserver /nbanlds19vod.akamaized.net/<replace with groupname>
 # > Acorn TV !Against US!
-nameserver /edge.api.brightcove.com$ $ssl_preread_server_name:443;
-nameserver /api.rlje.net$ $ssl_preread_server_name:443;
-nameserver /boltdns.net$ $ssl_preread_server_name:443;
-nameserver /acorn.tv$ $ssl_preread_server_name:443;
+nameserver /edge.api.brightcove.com/<replace with groupname>
+nameserver /api.rlje.net/<replace with groupname>
+nameserver /boltdns.net/<replace with groupname>
+nameserver /acorn.tv/<replace with groupname>
 # > SHOWTIME !Against US!
-nameserver /sho.com$ $ssl_preread_server_name:443;
-nameserver /showtime.com$ $ssl_preread_server_name:443;
-nameserver /showtimeanytime.com$ $ssl_preread_server_name:443;
+nameserver /sho.com/<replace with groupname>
+nameserver /showtime.com/<replace with groupname>
+nameserver /showtimeanytime.com/<replace with groupname>
 # > BritBox !Against US/EU!
-nameserver /vod-dash-ntham-comm-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /vod-hls-ntham-comm-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /britbox.com$ $ssl_preread_server_name:443;
-nameserver /d2z3p34itxwaj7.cloudfront.net$ $ssl_preread_server_name:443;
+nameserver /vod-dash-ntham-comm-live.akamaized.net/<replace with groupname>
+nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
+nameserver /vod-hls-ntham-comm-live.akamaized.net/<replace with groupname>
+nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
+nameserver /britbox.com/<replace with groupname>
+nameserver /d2z3p34itxwaj7.cloudfront.net/<replace with groupname>
 # > Funimation !Against US/EU!
-nameserver /funimation.com$ $ssl_preread_server_name:443;
-nameserver /funimationsvc.com$ $ssl_preread_server_name:443;
+nameserver /funimation.com/<replace with groupname>
+nameserver /funimationsvc.com/<replace with groupname>
 # > Paramount+ !Against US!
-nameserver /paramountplus.com$ $ssl_preread_server_name:443;
-nameserver /cbsi.live.ott.irdeto.com$ $ssl_preread_server_name:443;
-nameserver /cbsplaylistserver.aws.syncbak.com$ $ssl_preread_server_name:443;
-nameserver /cbsservice.aws.syncbak.com$ $ssl_preread_server_name:443;
-nameserver /link.theplatform.com$ $ssl_preread_server_name:443;
-nameserver /cbsaavideo.com$ $ssl_preread_server_name:443;
-nameserver /cbsi.com$ $ssl_preread_server_name:443;
-nameserver /cbsivideo.com$ $ssl_preread_server_name:443;
-nameserver /pplusstatic.com$ $ssl_preread_server_name:443;
+nameserver /paramountplus.com/<replace with groupname>
+nameserver /cbsi.live.ott.irdeto.com/<replace with groupname>
+nameserver /cbsplaylistserver.aws.syncbak.com/<replace with groupname>
+nameserver /cbsservice.aws.syncbak.com/<replace with groupname>
+nameserver /link.theplatform.com/<replace with groupname>
+nameserver /cbsaavideo.com/<replace with groupname>
+nameserver /cbsi.com/<replace with groupname>
+nameserver /cbsivideo.com/<replace with groupname>
+nameserver /pplusstatic.com/<replace with groupname>
 # > AU:Stan
-nameserver /stan.com.au$ $ssl_preread_server_name:443;
-nameserver /stan.video$ $ssl_preread_server_name:443;
-nameserver /streamcoimg-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /live01-stan.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /live02-stan.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /stan.com.au/<replace with groupname>
+nameserver /stan.video/<replace with groupname>
+nameserver /streamcoimg-a.akamaihd.net/<replace with groupname>
+nameserver /live01-stan.akamaized.net/<replace with groupname>
+nameserver /live02-stan.akamaized.net/<replace with groupname>
 # > AU:Binge/Kayo Sports
-nameserver /streamotion.com.au$ $ssl_preread_server_name:443;
+nameserver /streamotion.com.au/<replace with groupname>
 # > AU:Docplay
-nameserver /docplay.com$ $ssl_preread_server_name:443;
-nameserver /0c86e2d1-madman-com-au.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /ff1be285-madman-com-au.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /5a929471-madman-com-au.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /879ed873-madman-com-au.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /docplay.com/<replace with groupname>
+nameserver /0c86e2d1-madman-com-au.akamaized.net/<replace with groupname>
+nameserver /ff1be285-madman-com-au.akamaized.net/<replace with groupname>
+nameserver /5a929471-madman-com-au.akamaized.net/<replace with groupname>
+nameserver /879ed873-madman-com-au.akamaized.net/<replace with groupname>
 # > AU:7plus
-nameserver /7plus.com.au$ $ssl_preread_server_name:443;
-nameserver /npc-live-sevennetwork.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /7plus-sevennetwork.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /seven.demdex.net$ $ssl_preread_server_name:443;
-nameserver /cdn.7livecloud.io$ $ssl_preread_server_name:443;
+nameserver /7plus.com.au/<replace with groupname>
+nameserver /npc-live-sevennetwork.akamaized.net/<replace with groupname>
+nameserver /7plus-sevennetwork.akamaized.net/<replace with groupname>
+nameserver /seven.demdex.net/<replace with groupname>
+nameserver /cdn.7livecloud.io/<replace with groupname>
 # > AU:9 now
-nameserver /nine.com.au$ $ssl_preread_server_name:443;
-nameserver /9now.com.au$ $ssl_preread_server_name:443;
-nameserver /edge.api.brightcove.com$ $ssl_preread_server_name:443;
-nameserver /p-9now.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /9now-livestreams.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /9cdn.net$ $ssl_preread_server_name:443;
-nameserver /9nation.com.au$ $ssl_preread_server_name:443;
-nameserver /9news.com.au$ $ssl_preread_server_name:443;
-nameserver /9now.com.au$ $ssl_preread_server_name:443;
-nameserver /freeviewplus.net.au$ $ssl_preread_server_name:443;
-nameserver /mi9.com.au$ $ssl_preread_server_name:443;
-nameserver /mi9cdn.com$ $ssl_preread_server_name:443;
-nameserver /nine.com.au$ $ssl_preread_server_name:443;
-nameserver /nineentertainment.com.au$ $ssl_preread_server_name:443;
-nameserver /nineentertainmentco.com.au$ $ssl_preread_server_name:443;
-nameserver /ninemediaroom.com.au$ $ssl_preread_server_name:443;
-nameserver /ninemsn.com.au$ $ssl_preread_server_name:443;
-nameserver /static9.net.au$ $ssl_preread_server_name:443;
-nameserver /yourtv.com.au$ $ssl_preread_server_name:443;
+nameserver /nine.com.au/<replace with groupname>
+nameserver /9now.com.au/<replace with groupname>
+nameserver /edge.api.brightcove.com/<replace with groupname>
+nameserver /p-9now.akamaized.net/<replace with groupname>
+nameserver /9now-livestreams.akamaized.net/<replace with groupname>
+nameserver /9cdn.net/<replace with groupname>
+nameserver /9nation.com.au/<replace with groupname>
+nameserver /9news.com.au/<replace with groupname>
+nameserver /9now.com.au/<replace with groupname>
+nameserver /freeviewplus.net.au/<replace with groupname>
+nameserver /mi9.com.au/<replace with groupname>
+nameserver /mi9cdn.com/<replace with groupname>
+nameserver /nine.com.au/<replace with groupname>
+nameserver /nineentertainment.com.au/<replace with groupname>
+nameserver /nineentertainmentco.com.au/<replace with groupname>
+nameserver /ninemediaroom.com.au/<replace with groupname>
+nameserver /ninemsn.com.au/<replace with groupname>
+nameserver /static9.net.au/<replace with groupname>
+nameserver /yourtv.com.au/<replace with groupname>
 # > AU:10 play
-nameserver /10play.com.au$ $ssl_preread_server_name:443;
-nameserver /global.ssl.fastly.net$ $ssl_preread_server_name:443;
-nameserver /airspace-cdn.cbsviedo.com$ $ssl_preread_server_name:443;
-nameserver /net10-livestream-keys.play.cbsi.video$ $ssl_preread_server_name:443;
-nameserver /net10-livestream.play.cbsi.video$ $ssl_preread_server_name:443;
-nameserver /d25m2gzplgnf0.cloudfront.net$ $ssl_preread_server_name:443;
+nameserver /10play.com.au/<replace with groupname>
+nameserver /global.ssl.fastly.net/<replace with groupname>
+nameserver /airspace-cdn.cbsviedo.com/<replace with groupname>
+nameserver /net10-livestream-keys.play.cbsi.video/<replace with groupname>
+nameserver /net10-livestream.play.cbsi.video/<replace with groupname>
+nameserver /d25m2gzplgnf0.cloudfront.net/<replace with groupname>
 # > AU:ABC iView
-nameserver /iview.abc.net.au$ $ssl_preread_server_name:443;
-nameserver /abc-iview-mediapackagestreams-2.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /iview.abc.net.au/<replace with groupname>
+nameserver /abc-iview-mediapackagestreams-2.akamaized.net/<replace with groupname>
 # > AU:Optus
-nameserver /optus.com.au$ $ssl_preread_server_name:443;
-nameserver /optusdigital.com$ $ssl_preread_server_name:443;
-nameserver /optusnet.com.au$ $ssl_preread_server_name:443;
-nameserver /optussport.tv$ $ssl_preread_server_name:443;
-nameserver /optusvideo.tv$ $ssl_preread_server_name:443;
-nameserver /tls1.yospace.com$ $ssl_preread_server_name:443;
-nameserver /bln1.yospace.com$ $ssl_preread_server_name:443;
-nameserver /d3rj5p7u4c4icq.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /mgd0ee5iankkv3gidl14rm7c0.litix.io$ $ssl_preread_server_name:443;
-nameserver /93e30b04-drm-widevine-licensing.axprod.net$ $ssl_preread_server_name:443;
+nameserver /optus.com.au/<replace with groupname>
+nameserver /optusdigital.com/<replace with groupname>
+nameserver /optusnet.com.au/<replace with groupname>
+nameserver /optussport.tv/<replace with groupname>
+nameserver /optusvideo.tv/<replace with groupname>
+nameserver /tls1.yospace.com/<replace with groupname>
+nameserver /bln1.yospace.com/<replace with groupname>
+nameserver /d3rj5p7u4c4icq.cloudfront.net/<replace with groupname>
+nameserver /mgd0ee5iankkv3gidl14rm7c0.litix.io/<replace with groupname>
+nameserver /93e30b04-drm-widevine-licensing.axprod.net/<replace with groupname>
 # > AU:SBS on Demand
-nameserver /sbsod.com$ $ssl_preread_server_name:443;
-nameserver /sbs.com.au$ $ssl_preread_server_name:443;
-nameserver /videocdn-sbs.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /sbsvoddai-vh.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /sbsvodns-vh.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /sbs-live-dai.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /sbs-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /sbs-live-dai.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /sbsod.com/<replace with groupname>
+nameserver /sbs.com.au/<replace with groupname>
+nameserver /videocdn-sbs.akamaized.net/<replace with groupname>
+nameserver /sbsvoddai-vh.akamaihd.net/<replace with groupname>
+nameserver /sbsvodns-vh.akamaihd.net/<replace with groupname>
+nameserver /sbs-live-dai.akamaized.net/<replace with groupname>
+nameserver /sbs-live.akamaized.net/<replace with groupname>
+nameserver /sbs-live-dai.akamaized.net/<replace with groupname>
 # > NZ:Neon TV
-nameserver /neontv.co.nz$ $ssl_preread_server_name:443;
+nameserver /neontv.co.nz/<replace with groupname>
 # > NZ:SkyGO NZ
-nameserver /sky.co.nz$ $ssl_preread_server_name:443;
-nameserver /prod-skyonelive.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /skysportnow.co.nz$ $ssl_preread_server_name:443;
-nameserver /imggaming.com$ $ssl_preread_server_name:443;
-nameserver /pndsn.com$ $ssl_preread_server_name:443;
+nameserver /sky.co.nz/<replace with groupname>
+nameserver /prod-skyonelive.akamaized.net/<replace with groupname>
+nameserver /skysportnow.co.nz/<replace with groupname>
+nameserver /imggaming.com/<replace with groupname>
+nameserver /pndsn.com/<replace with groupname>
 # > NZ:ThreeNow
-nameserver /fullscreen.nz$ $ssl_preread_server_name:443;
+nameserver /fullscreen.nz/<replace with groupname>
 # > NZ:Maori TV
 #
 
 # ---------- > North America Media
 # > FOX
-nameserver /x-live-fox-stgec.uplynk.com$ $ssl_preread_server_name:443;
-nameserver /fox.com$ $ssl_preread_server_name:443;
-nameserver /foxdcg.com$ $ssl_preread_server_name:443;
-nameserver /theplatform.com$ $ssl_preread_server_name:443;
-nameserver /cdn-fox-networks-group-green.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /d3cv4a9a9wh0bt.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /foxsports01-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /foxsports02-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /foxsports03-i.akamaihd.net$ $ssl_preread_server_name:443;
+nameserver /x-live-fox-stgec.uplynk.com/<replace with groupname>
+nameserver /fox.com/<replace with groupname>
+nameserver /foxdcg.com/<replace with groupname>
+nameserver /theplatform.com/<replace with groupname>
+nameserver /cdn-fox-networks-group-green.akamaized.net/<replace with groupname>
+nameserver /d3cv4a9a9wh0bt.cloudfront.net/<replace with groupname>
+nameserver /foxsports01-i.akamaihd.net/<replace with groupname>
+nameserver /foxsports02-i.akamaihd.net/<replace with groupname>
+nameserver /foxsports03-i.akamaihd.net/<replace with groupname>
 # > HuluUSA
-nameserver /assetshuluimcom-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /cws-hulu.conviva.com$ $ssl_preread_server_name:443;
-nameserver /hulu.com$ $ssl_preread_server_name:443;
-nameserver /hulu.hb.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /hulu.sc.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /huluad.com$ $ssl_preread_server_name:443;
-nameserver /huluqa.com$ $ssl_preread_server_name:443;
-nameserver /hulustream.com$ $ssl_preread_server_name:443;
+nameserver /assetshuluimcom-a.akamaihd.net/<replace with groupname>
+nameserver /cws-hulu.conviva.com/<replace with groupname>
+nameserver /hulu.com/<replace with groupname>
+nameserver /hulu.hb.omtrdc.net/<replace with groupname>
+nameserver /hulu.sc.omtrdc.net/<replace with groupname>
+nameserver /huluad.com/<replace with groupname>
+nameserver /huluqa.com/<replace with groupname>
+nameserver /hulustream.com/<replace with groupname>
 # > NFL
-nameserver /nfl.com$ $ssl_preread_server_name:443;
+nameserver /nfl.com/<replace with groupname>
 # > ESPN+
-nameserver /espn.api.edge.bamgrid.com$ $ssl_preread_server_name:443;
-nameserver /espn.hb.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /espndotcom.tt.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /dtci.co$ $ssl_preread_server_name:443;
-nameserver /dtci.technology$ $ssl_preread_server_name:443;
-nameserver /espn.co.uk$ $ssl_preread_server_name:443;
-nameserver /espn.com$ $ssl_preread_server_name:443;
-nameserver /espn.net$ $ssl_preread_server_name:443;
-nameserver /espncdn.com$ $ssl_preread_server_name:443;
-nameserver /espnqa.com$ $ssl_preread_server_name:443;
-nameserver /watchespn.com$ $ssl_preread_server_name:443;
+nameserver /espn.api.edge.bamgrid.com/<replace with groupname>
+nameserver /espn.hb.omtrdc.net/<replace with groupname>
+nameserver /espndotcom.tt.omtrdc.net/<replace with groupname>
+nameserver /dtci.co/<replace with groupname>
+nameserver /dtci.technology/<replace with groupname>
+nameserver /espn.co.uk/<replace with groupname>
+nameserver /espn.com/<replace with groupname>
+nameserver /espn.net/<replace with groupname>
+nameserver /espncdn.com/<replace with groupname>
+nameserver /espnqa.com/<replace with groupname>
+nameserver /watchespn.com/<replace with groupname>
 # > Epix
-nameserver /epix.com$ $ssl_preread_server_name:443;
+nameserver /epix.com/<replace with groupname>
 # > Starz
-nameserver /starz.com$ $ssl_preread_server_name:443;
+nameserver /starz.com/<replace with groupname>
 # > Philo
-nameserver /philo.com$ $ssl_preread_server_name:443;
+nameserver /philo.com/<replace with groupname>
 # > FXNOW
-nameserver /fxnow.fxnetworks.com$ $ssl_preread_server_name:443;
+nameserver /fxnow.fxnetworks.com/<replace with groupname>
 # > TLC GO
-nameserver /geolocation.onetrust.com$ $ssl_preread_server_name:443;
+nameserver /geolocation.onetrust.com/<replace with groupname>
 # > HBO / Max
-nameserver /max.com$ $ssl_preread_server_name:443;
-nameserver /hbo.com$ $ssl_preread_server_name:443;
-nameserver /hbogo.com$ $ssl_preread_server_name:443;
-nameserver /hbomax.com$ $ssl_preread_server_name:443;
-nameserver /hbomaxcdn.com$ $ssl_preread_server_name:443;
-nameserver /hbonow.com$ $ssl_preread_server_name:443;
-nameserver /maxgo.com$ $ssl_preread_server_name:443;
+nameserver /max.com/<replace with groupname>
+nameserver /hbo.com/<replace with groupname>
+nameserver /hbogo.com/<replace with groupname>
+nameserver /hbomax.com/<replace with groupname>
+nameserver /hbomaxcdn.com/<replace with groupname>
+nameserver /hbonow.com/<replace with groupname>
+nameserver /maxgo.com/<replace with groupname>
 # > Shudder
-nameserver /shudder.com$ $ssl_preread_server_name:443;
+nameserver /shudder.com/<replace with groupname>
 # > BritBox !Against AU/EU!
-nameserver /vod-dash-ntham-comm-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /vod-hls-ntham-comm-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /britbox.com$ $ssl_preread_server_name:443;
-nameserver /d2z3p34itxwaj7.cloudfront.net$ $ssl_preread_server_name:443;
+nameserver /vod-dash-ntham-comm-live.akamaized.net/<replace with groupname>
+nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
+nameserver /vod-hls-ntham-comm-live.akamaized.net/<replace with groupname>
+nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
+nameserver /britbox.com/<replace with groupname>
+nameserver /d2z3p34itxwaj7.cloudfront.net/<replace with groupname>
 # > Crackle
-nameserver /crackle.com$ $ssl_preread_server_name:443;
+nameserver /crackle.com/<replace with groupname>
 # > CW TV
-nameserver /cwtv.com$ $ssl_preread_server_name:443;
+nameserver /cwtv.com/<replace with groupname>
 # > A&E TV
-nameserver /aetv.com$ $ssl_preread_server_name:443;
-nameserver /ccpa-service.sp-prod.net$ $ssl_preread_server_name:443;
+nameserver /aetv.com/<replace with groupname>
+nameserver /ccpa-service.sp-prod.net/<replace with groupname>
 # > NBA TV !Against AU!
-nameserver /nba.com$ $ssl_preread_server_name:443;
-nameserver /neulion-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /nlnbamdnyc-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /sdk.iad-03.braze.com$ $ssl_preread_server_name:443;
-nameserver /nbaprop.sc.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /nlnbaqos.neulion.com$ $ssl_preread_server_name:443;
-nameserver /watchnba.cdnfastly.endeavorstreaming.net$ $ssl_preread_server_name:443;
-nameserver /nbaapi.neulion.com$ $ssl_preread_server_name:443;
-nameserver /nba-api-cdn.opin.media$ $ssl_preread_server_name:443;
-nameserver /neulionqos-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /neulion.com$ $ssl_preread_server_name:443;
-nameserver /nbaprop.tt.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /lion-nba-msl.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /nbanlds19vod.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /nba.com/<replace with groupname>
+nameserver /neulion-a.akamaihd.net/<replace with groupname>
+nameserver /nlnbamdnyc-a.akamaihd.net/<replace with groupname>
+nameserver /sdk.iad-03.braze.com/<replace with groupname>
+nameserver /nbaprop.sc.omtrdc.net/<replace with groupname>
+nameserver /nlnbaqos.neulion.com/<replace with groupname>
+nameserver /watchnba.cdnfastly.endeavorstreaming.net/<replace with groupname>
+nameserver /nbaapi.neulion.com/<replace with groupname>
+nameserver /nba-api-cdn.opin.media/<replace with groupname>
+nameserver /neulionqos-a.akamaihd.net/<replace with groupname>
+nameserver /neulion.com/<replace with groupname>
+nameserver /nbaprop.tt.omtrdc.net/<replace with groupname>
+nameserver /lion-nba-msl.akamaized.net/<replace with groupname>
+nameserver /nbanlds19vod.akamaized.net/<replace with groupname>
 # > Fubo TV
-nameserver /fubo.tv$ $ssl_preread_server_name:443;
+nameserver /fubo.tv/<replace with groupname>
 # > Tubi TV
-nameserver /tubitv.com$ $ssl_preread_server_name:443;
+nameserver /tubitv.com/<replace with groupname>
 # > Sling TV
-nameserver /dishworld.com$ $ssl_preread_server_name:443;
-nameserver /slinginternational.com$ $ssl_preread_server_name:443;
-nameserver /sling.com$ $ssl_preread_server_name:443;
-nameserver /movenetworks.com$ $ssl_preread_server_name:443;
-nameserver /movetv.com$ $ssl_preread_server_name:443;
+nameserver /dishworld.com/<replace with groupname>
+nameserver /slinginternational.com/<replace with groupname>
+nameserver /sling.com/<replace with groupname>
+nameserver /movenetworks.com/<replace with groupname>
+nameserver /movetv.com/<replace with groupname>
 # > Pluto TV
-nameserver /pluto.tv$ $ssl_preread_server_name:443;
+nameserver /pluto.tv/<replace with groupname>
 # > Acorn TV !Against AU!
-nameserver /edge.api.brightcove.com$ $ssl_preread_server_name:443;
-nameserver /api.rlje.net$ $ssl_preread_server_name:443;
-nameserver /boltdns.net$ $ssl_preread_server_name:443;
-nameserver /acorn.tv$ $ssl_preread_server_name:443;
+nameserver /edge.api.brightcove.com/<replace with groupname>
+nameserver /api.rlje.net/<replace with groupname>
+nameserver /boltdns.net/<replace with groupname>
+nameserver /acorn.tv/<replace with groupname>
 # > SHOWTIME !Against AU!
-nameserver /sho.com$ $ssl_preread_server_name:443;
-nameserver /showtime.com$ $ssl_preread_server_name:443;
-nameserver /showtimeanytime.com$ $ssl_preread_server_name:443;
+nameserver /sho.com/<replace with groupname>
+nameserver /showtime.com/<replace with groupname>
+nameserver /showtimeanytime.com/<replace with groupname>
 # > encoreTVB ?TVB HK? !Against JP TVer!
-nameserver /encoretvb.com$ $ssl_preread_server_name:443;
-nameserver /bcbolt446c5271-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /videos-f.jwpsrv.com$ $ssl_preread_server_name:443;
-nameserver /content.jwplatform.com$ $ssl_preread_server_name:443;
-nameserver /edge.api.brightcove.com$ $ssl_preread_server_name:443;
+nameserver /encoretvb.com/<replace with groupname>
+nameserver /bcbolt446c5271-a.akamaihd.net/<replace with groupname>
+nameserver /videos-f.jwpsrv.com/<replace with groupname>
+nameserver /content.jwplatform.com/<replace with groupname>
+nameserver /edge.api.brightcove.com/<replace with groupname>
 # > Funimation !Against AU/EU!
-nameserver /funimation.com$ $ssl_preread_server_name:443;
+nameserver /funimation.com/<replace with groupname>
 # > Discovery+ !Against EU!
-nameserver /content-ause1-ur-discovery1.uplynk.com$ $ssl_preread_server_name:443;
-nameserver /disco-api.com$ $ssl_preread_server_name:443;
-nameserver /discoveryplus.com$ $ssl_preread_server_name:443;
-nameserver /x-default-stgec.uplynk.com$ $ssl_preread_server_name:443;
-nameserver /discovery.com$ $ssl_preread_server_name:443;
-nameserver /discoveryplus.co.uk$ $ssl_preread_server_name:443;
-nameserver /getblueshift.com$ $ssl_preread_server_name:443;
-nameserver /litix.io$ $ssl_preread_server_name:443;
-nameserver /mobile-collector.newrelic.com$ $ssl_preread_server_name:443;
-nameserver /discovery.uplynk.com$ $ssl_preread_server_name:443;
+nameserver /content-ause1-ur-discovery1.uplynk.com/<replace with groupname>
+nameserver /disco-api.com/<replace with groupname>
+nameserver /discoveryplus.com/<replace with groupname>
+nameserver /x-default-stgec.uplynk.com/<replace with groupname>
+nameserver /discovery.com/<replace with groupname>
+nameserver /discoveryplus.co.uk/<replace with groupname>
+nameserver /getblueshift.com/<replace with groupname>
+nameserver /litix.io/<replace with groupname>
+nameserver /mobile-collector.newrelic.com/<replace with groupname>
+nameserver /discovery.uplynk.com/<replace with groupname>
 # > Paramount+ !Against AU!
-nameserver /paramountplus.com$ $ssl_preread_server_name:443;
-nameserver /cbsi.live.ott.irdeto.com$ $ssl_preread_server_name:443;
-nameserver /cbsplaylistserver.aws.syncbak.com$ $ssl_preread_server_name:443;
-nameserver /cbsservice.aws.syncbak.com$ $ssl_preread_server_name:443;
-nameserver /link.theplatform.com$ $ssl_preread_server_name:443;
-nameserver /cbsaavideo.com$ $ssl_preread_server_name:443;
-nameserver /cbsi.com$ $ssl_preread_server_name:443;
-nameserver /cbsivideo.com$ $ssl_preread_server_name:443;
-nameserver /pplusstatic.com$ $ssl_preread_server_name:443;
+nameserver /paramountplus.com/<replace with groupname>
+nameserver /cbsi.live.ott.irdeto.com/<replace with groupname>
+nameserver /cbsplaylistserver.aws.syncbak.com/<replace with groupname>
+nameserver /cbsservice.aws.syncbak.com/<replace with groupname>
+nameserver /link.theplatform.com/<replace with groupname>
+nameserver /cbsaavideo.com/<replace with groupname>
+nameserver /cbsi.com/<replace with groupname>
+nameserver /cbsivideo.com/<replace with groupname>
+nameserver /pplusstatic.com/<replace with groupname>
 # > Peacock TV
-nameserver /peacocktv.com$ $ssl_preread_server_name:443;
-nameserver /peacock.com$ $ssl_preread_server_name:443;
+nameserver /peacocktv.com/<replace with groupname>
+nameserver /peacock.com/<replace with groupname>
 # > Popcornflix
-nameserver /popcornflix.com$ $ssl_preread_server_name:443;
-nameserver /popcornflix-prod.cloud.seachange.com$ $ssl_preread_server_name:443;
+nameserver /popcornflix.com/<replace with groupname>
+nameserver /popcornflix-prod.cloud.seachange.com/<replace with groupname>
 # > Crunchyroll
-nameserver /c.evidon.com$ $ssl_preread_server_name:443;
+nameserver /c.evidon.com/<replace with groupname>
 # > Directv Stream
-nameserver /atttvnow.com$ $ssl_preread_server_name:443;
+nameserver /atttvnow.com/<replace with groupname>
 # > KBS American
-nameserver /kbs.co.kr$ $ssl_preread_server_name:443;
+nameserver /kbs.co.kr/<replace with groupname>
 # > KOCOWA
-nameserver /kocowa.com$ $ssl_preread_server_name:443;
+nameserver /kocowa.com/<replace with groupname>
 # > F1TV
-nameserver /f1prodlive.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /formula1.com$ $ssl_preread_server_name:443;
+nameserver /f1prodlive.akamaized.net/<replace with groupname>
+nameserver /formula1.com/<replace with groupname>
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
-nameserver /rakuten.tv$ $ssl_preread_server_name:443;
+nameserver /rakuten.tv/<replace with groupname>
 # > EU:Funimation !Against US/AU!
-nameserver /funimation.com$ $ssl_preread_server_name:443;
+nameserver /funimation.com/<replace with groupname>
 # > EU:SkyShowTime
-nameserver /skyshowtimeuk.data.adobedc.net$ $ssl_preread_server_name:443;
-nameserver /skyshowtime.com$ $ssl_preread_server_name:443;
-nameserver /cssott.com$ $ssl_preread_server_name:443;
-nameserver /4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com$ $ssl_preread_server_name:443;
+nameserver /skyshowtimeuk.data.adobedc.net/<replace with groupname>
+nameserver /skyshowtime.com/<replace with groupname>
+nameserver /cssott.com/<replace with groupname>
+nameserver /4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com/<replace with groupname>
 # > EU:HBO Max
-nameserver /max.com$ $ssl_preread_server_name:443;
-nameserver /cinemax.com$ $ssl_preread_server_name:443;
-nameserver /forthethrone.com$ $ssl_preread_server_name:443;
-nameserver /hbo.com$ $ssl_preread_server_name:443;
-nameserver /hbomax.com$ $ssl_preread_server_name:443;
-nameserver /hbomaxcdn.com$ $ssl_preread_server_name:443;
-nameserver /maxgo.com$ $ssl_preread_server_name:443;
+nameserver /max.com/<replace with groupname>
+nameserver /cinemax.com/<replace with groupname>
+nameserver /forthethrone.com/<replace with groupname>
+nameserver /hbo.com/<replace with groupname>
+nameserver /hbomax.com/<replace with groupname>
+nameserver /hbomaxcdn.com/<replace with groupname>
+nameserver /maxgo.com/<replace with groupname>
 # > EuroSport
-nameserver /europe-fastly-mediashield-live-prod.cdn.h264.io$ $ssl_preread_server_name:443;
-nameserver /akamai.prod-live.h264.io$ $ssl_preread_server_name:443;
-nameserver /eurosport-dlvr-ott.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /eu3-prod-images.disco-api.com$ $ssl_preread_server_name:443;
-nameserver /eu3-prod.disco-api.com$ $ssl_preread_server_name:443;
-nameserver /eurosportplayer.com$ $ssl_preread_server_name:443;
-nameserver /eurosport.com$ $ssl_preread_server_name:443;
-nameserver /eurosport.fr$ $ssl_preread_server_name:443;
-nameserver /eurosport.es$ $ssl_preread_server_name:443;
-nameserver /eurosport.ro$ $ssl_preread_server_name:443;
-nameserver /eurosport.io$ $ssl_preread_server_name:443;
-nameserver /eurosport.ru$ $ssl_preread_server_name:443;
-nameserver /media-shield.live.eurosport.map.fastly.net$ $ssl_preread_server_name:443;
-nameserver /eurosport-dlvr-ott-vod.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /europe-fastly-mediashield-live-prod.cdn.h264.io/<replace with groupname>
+nameserver /akamai.prod-live.h264.io/<replace with groupname>
+nameserver /eurosport-dlvr-ott.akamaized.net/<replace with groupname>
+nameserver /eu3-prod-images.disco-api.com/<replace with groupname>
+nameserver /eu3-prod.disco-api.com/<replace with groupname>
+nameserver /eurosportplayer.com/<replace with groupname>
+nameserver /eurosport.com/<replace with groupname>
+nameserver /eurosport.fr/<replace with groupname>
+nameserver /eurosport.es/<replace with groupname>
+nameserver /eurosport.ro/<replace with groupname>
+nameserver /eurosport.io/<replace with groupname>
+nameserver /eurosport.ru/<replace with groupname>
+nameserver /media-shield.live.eurosport.map.fastly.net/<replace with groupname>
+nameserver /eurosport-dlvr-ott-vod.akamaized.net/<replace with groupname>
 # > ViaPlay
-nameserver /i-viaplay-com.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /viaplay.com$ $ssl_preread_server_name:443;
-nameserver /viaplay.pl$ $ssl_preread_server_name:443;
-nameserver /mtg-api.com$ $ssl_preread_server_name:443;
-# > GB:Sky GO $ $ssl_preread_server_name:443;SkyGONZ$ $ssl_preread_server_name:443;
-nameserver /sky.com$ $ssl_preread_server_name:443;
+nameserver /i-viaplay-com.akamaized.net/<replace with groupname>
+nameserver /viaplay.com/<replace with groupname>
+nameserver /viaplay.pl/<replace with groupname>
+nameserver /mtg-api.com/<replace with groupname>
+# > GB:Sky GO /<replace with groupname>SkyGONZ/<replace with groupname>
+nameserver /sky.com/<replace with groupname>
 # > GB:BritBox !Against US/AU!
-nameserver /vod-dash-ntham-comm-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /vod-hls-ntham-comm-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /britbox.com$ $ssl_preread_server_name:443;
-nameserver /d2z3p34itxwaj7.cloudfront.net$ $ssl_preread_server_name:443;
+nameserver /vod-dash-ntham-comm-live.akamaized.net/<replace with groupname>
+nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
+nameserver /vod-hls-ntham-comm-live.akamaized.net/<replace with groupname>
+nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
+nameserver /britbox.com/<replace with groupname>
+nameserver /d2z3p34itxwaj7.cloudfront.net/<replace with groupname>
 # > GB:ITV Hub
-nameserver /itvpnpmobile-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /itv.com$ $ssl_preread_server_name:443;
-nameserver /itvstatic.com$ $ssl_preread_server_name:443;
+nameserver /itvpnpmobile-a.akamaihd.net/<replace with groupname>
+nameserver /itv.com/<replace with groupname>
+nameserver /itvstatic.com/<replace with groupname>
 # > GB:Channel 4 **
-nameserver /channel4.com$ $ssl_preread_server_name:443;
+nameserver /channel4.com/<replace with groupname>
 # > GB:Channel 5 **
-nameserver /channel5.com$ $ssl_preread_server_name:443;
+nameserver /channel5.com/<replace with groupname>
 # > GB:BBC
-nameserver /aod-dash-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /aod-hls-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /as-dash-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /as-hls-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-dash-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-dash-ww-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-hls-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-sub-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-thumb-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vod-thumb-ww-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /vs-cmaf-push-uk-live.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /bbc$ $ssl_preread_server_name:443;
-nameserver /bbc.co$ $ssl_preread_server_name:443;
-nameserver /bbc.co.uk$ $ssl_preread_server_name:443;
-nameserver /bbc.com$ $ssl_preread_server_name:443;
-nameserver /bbc.in$ $ssl_preread_server_name:443;
-nameserver /bbc.net.uk$ $ssl_preread_server_name:443;
-nameserver /bbcchinese.com$ $ssl_preread_server_name:443;
-nameserver /bbcfmt.hs.llnwd.net$ $ssl_preread_server_name:443;
-nameserver /bbcfmt.s.llnwi.net$ $ssl_preread_server_name:443;
-nameserver /bbci.co$ $ssl_preread_server_name:443;
-nameserver /bbci.co.uk$ $ssl_preread_server_name:443;
-nameserver /bbcmedia.co.uk$ $ssl_preread_server_name:443;
-nameserver /bbcpersian.com$ $ssl_preread_server_name:443;
-nameserver /bbcverticals.com$ $ssl_preread_server_name:443;
-nameserver /bidi.net.uk$ $ssl_preread_server_name:443;
+nameserver /aod-dash-uk-live.akamaized.net/<replace with groupname>
+nameserver /aod-hls-uk-live.akamaized.net/<replace with groupname>
+nameserver /as-dash-uk-live.akamaized.net/<replace with groupname>
+nameserver /as-hls-uk-live.akamaized.net/<replace with groupname>
+nameserver /vod-dash-uk-live.akamaized.net/<replace with groupname>
+nameserver /vod-dash-ww-live.akamaized.net/<replace with groupname>
+nameserver /vod-hls-uk-live.akamaized.net/<replace with groupname>
+nameserver /vod-sub-uk-live.akamaized.net/<replace with groupname>
+nameserver /vod-thumb-uk-live.akamaized.net/<replace with groupname>
+nameserver /vod-thumb-ww-live.akamaized.net/<replace with groupname>
+nameserver /vs-cmaf-push-uk-live.akamaized.net/<replace with groupname>
+nameserver /bbc/<replace with groupname>
+nameserver /bbc.co/<replace with groupname>
+nameserver /bbc.co.uk/<replace with groupname>
+nameserver /bbc.com/<replace with groupname>
+nameserver /bbc.in/<replace with groupname>
+nameserver /bbc.net.uk/<replace with groupname>
+nameserver /bbcchinese.com/<replace with groupname>
+nameserver /bbcfmt.hs.llnwd.net/<replace with groupname>
+nameserver /bbcfmt.s.llnwi.net/<replace with groupname>
+nameserver /bbci.co/<replace with groupname>
+nameserver /bbci.co.uk/<replace with groupname>
+nameserver /bbcmedia.co.uk/<replace with groupname>
+nameserver /bbcpersian.com/<replace with groupname>
+nameserver /bbcverticals.com/<replace with groupname>
+nameserver /bidi.net.uk/<replace with groupname>
 # > GB:Discovery+ !Against AU!
-nameserver /content-ause1-ur-discovery1.uplynk.com$ $ssl_preread_server_name:443;
-nameserver /disco-api.com$ $ssl_preread_server_name:443;
-nameserver /discoveryplus.com$ $ssl_preread_server_name:443;
-nameserver /x-default-stgec.uplynk.com$ $ssl_preread_server_name:443;
-nameserver /discovery.com$ $ssl_preread_server_name:443;
-nameserver /discoveryplus.co.uk$ $ssl_preread_server_name:443;
-nameserver /getblueshift.com$ $ssl_preread_server_name:443;
-nameserver /litix.io$ $ssl_preread_server_name:443;
-nameserver /mobile-collector.newrelic.com$ $ssl_preread_server_name:443;
-nameserver /discovery.uplynk.com$ $ssl_preread_server_name:443;
+nameserver /content-ause1-ur-discovery1.uplynk.com/<replace with groupname>
+nameserver /disco-api.com/<replace with groupname>
+nameserver /discoveryplus.com/<replace with groupname>
+nameserver /x-default-stgec.uplynk.com/<replace with groupname>
+nameserver /discovery.com/<replace with groupname>
+nameserver /discoveryplus.co.uk/<replace with groupname>
+nameserver /getblueshift.com/<replace with groupname>
+nameserver /litix.io/<replace with groupname>
+nameserver /mobile-collector.newrelic.com/<replace with groupname>
+nameserver /discovery.uplynk.com/<replace with groupname>
 # > FR:Salto
-nameserver /salto.fr$ $ssl_preread_server_name:443;
+nameserver /salto.fr/<replace with groupname>
 # > FR:Canal+
-nameserver /canalplus.com$ $ssl_preread_server_name:443;
+nameserver /canalplus.com/<replace with groupname>
 # > FR:Molotov
-nameserver /molotov.tv$ $ssl_preread_server_name:443;
+nameserver /molotov.tv/<replace with groupname>
 # > DE:Joyn
-nameserver /joyn.de$ $ssl_preread_server_name:443;
+nameserver /joyn.de/<replace with groupname>
 # > DE:Sky
-nameserver /sky.de$ $ssl_preread_server_name:443;
-nameserver /edge.api.brightcove.com$ $ssl_preread_server_name:443;
+nameserver /sky.de/<replace with groupname>
+nameserver /edge.api.brightcove.com/<replace with groupname>
 # > DE:ZDF
-nameserver /zdf.de$ $ssl_preread_server_name:443;
+nameserver /zdf.de/<replace with groupname>
 # > NL:videoland
-nameserver /videoland.com$ $ssl_preread_server_name:443;
+nameserver /videoland.com/<replace with groupname>
 # > NL:NPO
-nameserver /npo.nl$ $ssl_preread_server_name:443;
+nameserver /npo.nl/<replace with groupname>
 # > RU:Amediateka
-nameserver /amediateka.ru$ $ssl_preread_server_name:443;
+nameserver /amediateka.ru/<replace with groupname>
 # > UA:MEGOGO
-nameserver /megogo.net$ $ssl_preread_server_name:443;
-nameserver /vcdn.biz$ $ssl_preread_server_name:443;
+nameserver /megogo.net/<replace with groupname>
+nameserver /vcdn.biz/<replace with groupname>
 # > CH:Sky
-nameserver /sky.ch$ $ssl_preread_server_name:443;
-nameserver /zahs.tv$ $ssl_preread_server_name:443;
+nameserver /sky.ch/<replace with groupname>
+nameserver /zahs.tv/<replace with groupname>
+# > TR:digiturkplay
+nameserver /digiturkplay.com/<replace with groupname>
+nameserver /dt-int-gurme-hls.mncdn.com/<replace with groupname>
+nameserver /dt-live-int.akamaized.net/<replace with groupname>
 
 # ---------- > Hong Kong Media
 # > Now E 
-nameserver /nowe.com$ $ssl_preread_server_name:443;
-nameserver /nowestatic.com$ $ssl_preread_server_name:443;
+nameserver /nowe.com/<replace with groupname>
+nameserver /nowestatic.com/<replace with groupname>
 # > Now TV
-nameserver /now.com$ $ssl_preread_server_name:443;
+nameserver /now.com/<replace with groupname>
 # > Viu.TV
 #include Viu.com
-nameserver /viu.now.com$ $ssl_preread_server_name:443;
-nameserver /viu.tv$ $ssl_preread_server_name:443;
+nameserver /viu.now.com/<replace with groupname>
+nameserver /viu.tv/<replace with groupname>
 # > MyTVSuper
-nameserver /mytvsuper.com$ $ssl_preread_server_name:443;
-nameserver /mytvsuperlimited.hb.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /mytvsuperlimited.sc.omtrdc.net$ $ssl_preread_server_name:443;
-nameserver /tvb.com$ $ssl_preread_server_name:443;
+nameserver /mytvsuper.com/<replace with groupname>
+nameserver /mytvsuperlimited.hb.omtrdc.net/<replace with groupname>
+nameserver /mytvsuperlimited.sc.omtrdc.net/<replace with groupname>
+nameserver /tvb.com/<replace with groupname>
 # > HBO GO Asia
-nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /bcbolthboa-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /dai3fd1oh325y.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /hboasia1-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia2-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia3-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia4-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia5-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasialive.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /hbogoprod-vod.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /hbolb.onwardsmg.com$ $ssl_preread_server_name:443;
-nameserver /hbounify-prod.evergent.com$ $ssl_preread_server_name:443;
-nameserver /hbogo.co.th$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.com$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.hk$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.id$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.ph$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.sg$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.tw$ $ssl_preread_server_name:443;
+nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/<replace with groupname>
+nameserver /bcbolthboa-a.akamaihd.net/<replace with groupname>
+nameserver /dai3fd1oh325y.cloudfront.net/<replace with groupname>
+nameserver /hboasia1-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia2-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia3-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia4-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia5-i.akamaihd.net/<replace with groupname>
+nameserver /hboasialive.akamaized.net/<replace with groupname>
+nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
+nameserver /hbolb.onwardsmg.com/<replace with groupname>
+nameserver /hbounify-prod.evergent.com/<replace with groupname>
+nameserver /hbogo.co.th/<replace with groupname>
+nameserver /hbogoasia.com/<replace with groupname>
+nameserver /hbogoasia.hk/<replace with groupname>
+nameserver /hbogoasia.id/<replace with groupname>
+nameserver /hbogoasia.ph/<replace with groupname>
+nameserver /hbogoasia.sg/<replace with groupname>
+nameserver /hbogoasia.tw/<replace with groupname>
 # > HOY TV
-nameserver /hoy.tv$ $ssl_preread_server_name:443;
+nameserver /hoy.tv/<replace with groupname>
 # > BiliBili 
-nameserver /bilibili.com$ $ssl_preread_server_name:443;
+nameserver /bilibili.com/<replace with groupname>
 
 
 
 # ---------- > South America Media
 # Star+
-nameserver /starplus.com$ $ssl_preread_server_name:443;
-nameserver /starott.com$ $ssl_preread_server_name:443;
-nameserver /star.api.edge.bamgrid.com$ $ssl_preread_server_name:443;
-nameserver /star.connections.edge.bamgrid.com$ $ssl_preread_server_name:443;
-nameserver /star.content.edge.bamgrid.com$ $ssl_preread_server_name:443;
-nameserver /star.playback.edge.bamgrid.com$ $ssl_preread_server_name:443;
+nameserver /starplus.com/<replace with groupname>
+nameserver /starott.com/<replace with groupname>
+nameserver /star.api.edge.bamgrid.com/<replace with groupname>
+nameserver /star.connections.edge.bamgrid.com/<replace with groupname>
+nameserver /star.content.edge.bamgrid.com/<replace with groupname>
+nameserver /star.playback.edge.bamgrid.com/<replace with groupname>
 # > HBO 
-nameserver /cinemax.com$ $ssl_preread_server_name:443;
-nameserver /forthethrone.com$ $ssl_preread_server_name:443;
-nameserver /hbo.com$ $ssl_preread_server_name:443;
-nameserver /hbogo.com$ $ssl_preread_server_name:443;
-nameserver /hbomax.com$ $ssl_preread_server_name:443;
-nameserver /hbomaxcdn.com$ $ssl_preread_server_name:443;
-nameserver /hbonow.com$ $ssl_preread_server_name:443;
-nameserver /maxgo.com$ $ssl_preread_server_name:443;
+nameserver /cinemax.com/<replace with groupname>
+nameserver /forthethrone.com/<replace with groupname>
+nameserver /hbo.com/<replace with groupname>
+nameserver /hbogo.com/<replace with groupname>
+nameserver /hbomax.com/<replace with groupname>
+nameserver /hbomaxcdn.com/<replace with groupname>
+nameserver /hbonow.com/<replace with groupname>
+nameserver /maxgo.com/<replace with groupname>
 # > DirecTV
-nameserver /directvgo.com$ $ssl_preread_server_name:443;
+nameserver /directvgo.com/<replace with groupname>
 # > Funimation !Against US/EU/AU!
-nameserver /funimation.com$ $ssl_preread_server_name:443;
+nameserver /funimation.com/<replace with groupname>
 
 # ---------- > Indian Media
-nameserver /discoveryplus.in$ $ssl_preread_server_name:443;
+nameserver /discoveryplus.in/<replace with groupname>
 
 # ---------- > Korean Media
 # > Wavve
-nameserver /wavve.com$ $ssl_preread_server_name:443;
-nameserver /pooq.co.kr$ $ssl_preread_server_name:443;
+nameserver /wavve.com/<replace with groupname>
+nameserver /pooq.co.kr/<replace with groupname>
 # > Tving
-nameserver /tving.com$ $ssl_preread_server_name:443;
+nameserver /tving.com/<replace with groupname>
 # > Coupang Play
-nameserver /coupangplay.com$ $ssl_preread_server_name:443;
+nameserver /coupangplay.com/<replace with groupname>
 # > Naver TV
-nameserver /naver.com$ $ssl_preread_server_name:443;
-nameserver /navercorp.com$ $ssl_preread_server_name:443;
-nameserver /pstatic.net$ $ssl_preread_server_name:443;
-nameserver /smartmediarep.com$ $ssl_preread_server_name:443;
+nameserver /naver.com/<replace with groupname>
+nameserver /navercorp.com/<replace with groupname>
+nameserver /pstatic.net/<replace with groupname>
+nameserver /smartmediarep.com/<replace with groupname>
 # > Afreeca TV
-nameserver /afreecatv.com$ $ssl_preread_server_name:443;
+nameserver /afreecatv.com/<replace with groupname>
 # > KBS Domestic
-nameserver /kbs.co.kr$ $ssl_preread_server_name:443;
+nameserver /kbs.co.kr/<replace with groupname>
 
 # ---------- > ? media
 # > Setanta Sports
-nameserver /setantasports.com$ $ssl_preread_server_name:443;
-nameserver /imggaming.com$ $ssl_preread_server_name:443;
-nameserver /diceplatform.com$ $ssl_preread_server_name:443;
-nameserver /dicelaboratory.com$ $ssl_preread_server_name:443;
-nameserver /pndsn.com$ $ssl_preread_server_name:443;
-nameserver /imggaming.s3-eu-west-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /ux1kpaebv0.execute-api.eu-west-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /1ok961aaca.execute-api.eu-west-1.amazonaws.com$ $ssl_preread_server_name:443;
+nameserver /setantasports.com/<replace with groupname>
+nameserver /imggaming.com/<replace with groupname>
+nameserver /diceplatform.com/<replace with groupname>
+nameserver /dicelaboratory.com/<replace with groupname>
+nameserver /pndsn.com/<replace with groupname>
+nameserver /imggaming.s3-eu-west-1.amazonaws.com/<replace with groupname>
+nameserver /ux1kpaebv0.execute-api.eu-west-1.amazonaws.com/<replace with groupname>
+nameserver /1ok961aaca.execute-api.eu-west-1.amazonaws.com/<replace with groupname>
 
 # ---------- > SouthEastAsia media
 # > HBO GO Asia
-nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com$ $ssl_preread_server_name:443;
-nameserver /bcbolthboa-a.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /dai3fd1oh325y.cloudfront.net$ $ssl_preread_server_name:443;
-nameserver /hboasia1-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia2-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia3-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia4-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasia5-i.akamaihd.net$ $ssl_preread_server_name:443;
-nameserver /hboasialive.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /hbogoprod-vod.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /hbolb.onwardsmg.com$ $ssl_preread_server_name:443;
-nameserver /hbounify-prod.evergent.com$ $ssl_preread_server_name:443;
-nameserver /hbogo.co.th$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.com$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.hk$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.id$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.ph$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.sg$ $ssl_preread_server_name:443;
-nameserver /hbogoasia.tw$ $ssl_preread_server_name:443;
+nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/<replace with groupname>
+nameserver /bcbolthboa-a.akamaihd.net/<replace with groupname>
+nameserver /dai3fd1oh325y.cloudfront.net/<replace with groupname>
+nameserver /hboasia1-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia2-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia3-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia4-i.akamaihd.net/<replace with groupname>
+nameserver /hboasia5-i.akamaihd.net/<replace with groupname>
+nameserver /hboasialive.akamaized.net/<replace with groupname>
+nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
+nameserver /hbolb.onwardsmg.com/<replace with groupname>
+nameserver /hbounify-prod.evergent.com/<replace with groupname>
+nameserver /hbogo.co.th/<replace with groupname>
+nameserver /hbogoasia.com/<replace with groupname>
+nameserver /hbogoasia.hk/<replace with groupname>
+nameserver /hbogoasia.id/<replace with groupname>
+nameserver /hbogoasia.ph/<replace with groupname>
+nameserver /hbogoasia.sg/<replace with groupname>
+nameserver /hbogoasia.tw/<replace with groupname>
 # > B-Global
-nameserver /bilibili.tv$ $ssl_preread_server_name:443;
+nameserver /bilibili.tv/<replace with groupname>
 # > SG:meWATCH
-nameserver /mewatch.sg$ $ssl_preread_server_name:443;
+nameserver /mewatch.sg/<replace with groupname>
 # > SG:StarHub
-nameserver /starhubgo.com$ $ssl_preread_server_name:443;
-nameserver /failoverstarhub.akamaized.net$ $ssl_preread_server_name:443;
-nameserver /scvm1sc0-ssm.anycast.nagra.com$ $ssl_preread_server_name:443;
-nameserver /starhubtvplus.com$ $ssl_preread_server_name:443;
+nameserver /starhubgo.com/<replace with groupname>
+nameserver /failoverstarhub.akamaized.net/<replace with groupname>
+nameserver /scvm1sc0-ssm.anycast.nagra.com/<replace with groupname>
+nameserver /starhubtvplus.com/<replace with groupname>
 # > TH:TrueID 
-nameserver /trueid.net$ $ssl_preread_server_name:443;
+nameserver /trueid.net/<replace with groupname>
 # > TH:AIS Play
-nameserver /aisplay.ais.co.th$ $ssl_preread_server_name:443;
-nameserver /ais-vidnt.com$ $ssl_preread_server_name:443;
+nameserver /aisplay.ais.co.th/<replace with groupname>
+nameserver /ais-vidnt.com/<replace with groupname>
 # > ID:Vidio
-nameserver /geo-id-media-001-vidio-com.akamaized.net$ $ssl_preread_server_name:443;
+nameserver /geo-id-media-001-vidio-com.akamaized.net/<replace with groupname>
 # > VN:MYTV
-nameserver /mytv.vn$ $ssl_preread_server_name:443;
+nameserver /mytv.vn/<replace with groupname>
 # > VN:Clip TV
-nameserver /cliptv.vn$ $ssl_preread_server_name:443;
+nameserver /cliptv.vn/<replace with groupname>
 # > VN:Galaxy Play
-nameserver /glxplay.io$ $ssl_preread_server_name:443;
+nameserver /glxplay.io/<replace with groupname>
 # > VN:K+
-nameserver /solocoo.tv$ $ssl_preread_server_name:443;
+nameserver /solocoo.tv/<replace with groupname>
 # > MY:sooka
-nameserver /sooka.my$ $ssl_preread_server_name:443;
-nameserver /kaltura.com$ $ssl_preread_server_name:443;
-nameserver /1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com$ $ssl_preread_server_name:443;
+nameserver /sooka.my/<replace with groupname>
+nameserver /kaltura.com/<replace with groupname>
+nameserver /1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com/<replace with groupname>
 # > IN:MXPlayer
-nameserver /mxplayer.in$ $ssl_preread_server_name:443;
+nameserver /mxplayer.in/<replace with groupname>
 # > IN:Tata Play
-nameserver /tataplay.com$ $ssl_preread_server_name:443;
+nameserver /tataplay.com/<replace with groupname>
 # > UAE:shahid
-nameserver /mbc.net$ $ssl_preread_server_name:443;
-nameserver /npaw.com$ $ssl_preread_server_name:443;
-nameserver /shahid.net$ $ssl_preread_server_name:443;
+nameserver /mbc.net/<replace with groupname>
+nameserver /npaw.com/<replace with groupname>
+nameserver /shahid.net/<replace with groupname>
 
 # ---------- > Others
 # > Openai
-nameserver /openai.com$ $ssl_preread_server_name:443;
-nameserver /chatgpt.com$ $ssl_preread_server_name:443;
-nameserver /oaistatic.com$ $ssl_preread_server_name:443;
-nameserver /oaiusercontent.com$ $ssl_preread_server_name:443;
+nameserver /openai.com/<replace with groupname>
+nameserver /chatgpt.com/<replace with groupname>
+nameserver /oaistatic.com/<replace with groupname>
+nameserver /oaiusercontent.com/<replace with groupname>
 # > ExHantai/E-hentai
-nameserver /exhentai.org$ $ssl_preread_server_name:443;
-nameserver /e-hentai.org$ $ssl_preread_server_name:443;
+nameserver /exhentai.org/<replace with groupname>
+nameserver /e-hentai.org/<replace with groupname>
 # > Claude 2
-nameserver /anthropic.com$ $ssl_preread_server_name:443;
-nameserver /claude.ai$ $ssl_preread_server_name:443;
+nameserver /anthropic.com/<replace with groupname>
+nameserver /claude.ai/<replace with groupname>
 # > Google Bard
-nameserver /bard.google.com$ $ssl_preread_server_name:443;
+nameserver /bard.google.com/<replace with groupname>
 # > Microsoft Copilot For Image Generates
-nameserver /copilot.microsoft.com$ $ssl_preread_server_name:443;
+nameserver /copilot.microsoft.com/<replace with groupname>
 
 # ---------- > China Media
 # > Youtube
-nameserver /ggpht.cn$ $ssl_preread_server_name:443;
-nameserver /ggpht.com$ $ssl_preread_server_name:443;
-#nameserver /googlevideo.com$ $ssl_preread_server_name:443;
-nameserver /gvt2.com$ $ssl_preread_server_name:443;
-nameserver /withyoutube.com$ $ssl_preread_server_name:443;
-nameserver /youtube-nocookie.com$ $ssl_preread_server_name:443;
-nameserver /youtube.com$ $ssl_preread_server_name:443;
-nameserver /youtubeeducation.com$ $ssl_preread_server_name:443;
-nameserver /youtubefanfest.com$ $ssl_preread_server_name:443;
-nameserver /youtubegaming.com$ $ssl_preread_server_name:443;
-nameserver /youtubego.com$ $ssl_preread_server_name:443;
-nameserver /youtubei.googleapis.com$ $ssl_preread_server_name:443;
-nameserver /youtubekids.com$ $ssl_preread_server_name:443;
-nameserver /youtubemobilesupport.com$ $ssl_preread_server_name:443;
-nameserver /ytimg.com$ $ssl_preread_server_name:443;
+nameserver /youtube.com/<replace with groupname>
+nameserver /youtubei.googleapis.com/<replace with groupname>
 # > BiliBili
-nameserver /bilibili.com$ $ssl_preread_server_name:443;
+nameserver /bilibili.com/<replace with groupname>
 # > Netease Cloud Music
-nameserver /music.163.com$ $ssl_preread_server_name:443;
-nameserver /music.126.net$ $ssl_preread_server_name:443;
+nameserver /music.163.com/<replace with groupname>
+nameserver /music.126.net/<replace with groupname>
 # > iQiyi
-nameserver /71.am$ $ssl_preread_server_name:443;
-nameserver /71.am.com$ $ssl_preread_server_name:443;
-nameserver /71edge.com$ $ssl_preread_server_name:443;
-nameserver /71edge.net$ $ssl_preread_server_name:443;
-nameserver /aianno.cn$ $ssl_preread_server_name:443;
-nameserver /aianno.com$ $ssl_preread_server_name:443;
-nameserver /aiqiyicloud-mgmt.com$ $ssl_preread_server_name:443;
-nameserver /aiqiyicloud.com$ $ssl_preread_server_name:443;
-nameserver /aiqiyicloud.net$ $ssl_preread_server_name:443;
-nameserver /baiying.com$ $ssl_preread_server_name:443;
-nameserver /gitv.cn$ $ssl_preread_server_name:443;
-nameserver /gitv.tv$ $ssl_preread_server_name:443;
-nameserver /ibkstore.com$ $ssl_preread_server_name:443;
-nameserver /iq.com$ $ssl_preread_server_name:443;
-nameserver /iqiyi.com$ $ssl_preread_server_name:443;
-nameserver /iqiyi.demo.uwp$ $ssl_preread_server_name:443;
-nameserver /iqiyiedge.com$ $ssl_preread_server_name:443;
-nameserver /iqiyiedge.net$ $ssl_preread_server_name:443;
-nameserver /iqiyipic.com$ $ssl_preread_server_name:443;
-nameserver /jiangbing.cn$ $ssl_preread_server_name:443;
-nameserver /pps.tv$ $ssl_preread_server_name:443;
-nameserver /ppsimg.com$ $ssl_preread_server_name:443;
-nameserver /ppstream.cn$ $ssl_preread_server_name:443;
-nameserver /ppstream.com$ $ssl_preread_server_name:443;
-nameserver /ppstream.com.cn$ $ssl_preread_server_name:443;
-nameserver /ppstream.net$ $ssl_preread_server_name:443;
-nameserver /ppstream.net.cn$ $ssl_preread_server_name:443;
-nameserver /ppsurl.com$ $ssl_preread_server_name:443;
-nameserver /qiyi.cn$ $ssl_preread_server_name:443;
-nameserver /qiyi.com$ $ssl_preread_server_name:443;
-nameserver /qiyipic.com$ $ssl_preread_server_name:443;
-nameserver /qy.com$ $ssl_preread_server_name:443;
-nameserver /qy.net$ $ssl_preread_server_name:443;
-nameserver /suike.cn$ $ssl_preread_server_name:443;
+nameserver /71.am/<replace with groupname>
+nameserver /71.am.com/<replace with groupname>
+nameserver /71edge.com/<replace with groupname>
+nameserver /71edge.net/<replace with groupname>
+nameserver /aianno.cn/<replace with groupname>
+nameserver /aianno.com/<replace with groupname>
+nameserver /aiqiyicloud-mgmt.com/<replace with groupname>
+nameserver /aiqiyicloud.com/<replace with groupname>
+nameserver /aiqiyicloud.net/<replace with groupname>
+nameserver /baiying.com/<replace with groupname>
+nameserver /gitv.cn/<replace with groupname>
+nameserver /gitv.tv/<replace with groupname>
+nameserver /ibkstore.com/<replace with groupname>
+nameserver /iq.com/<replace with groupname>
+nameserver /iqiyi.com/<replace with groupname>
+nameserver /iqiyi.demo.uwp/<replace with groupname>
+nameserver /iqiyiedge.com/<replace with groupname>
+nameserver /iqiyiedge.net/<replace with groupname>
+nameserver /iqiyipic.com/<replace with groupname>
+nameserver /jiangbing.cn/<replace with groupname>
+nameserver /pps.tv/<replace with groupname>
+nameserver /ppsimg.com/<replace with groupname>
+nameserver /ppstream.cn/<replace with groupname>
+nameserver /ppstream.com/<replace with groupname>
+nameserver /ppstream.com.cn/<replace with groupname>
+nameserver /ppstream.net/<replace with groupname>
+nameserver /ppstream.net.cn/<replace with groupname>
+nameserver /ppsurl.com/<replace with groupname>
+nameserver /qiyi.cn/<replace with groupname>
+nameserver /qiyi.com/<replace with groupname>
+nameserver /qiyipic.com/<replace with groupname>
+nameserver /qy.com/<replace with groupname>
+nameserver /qy.net/<replace with groupname>
+nameserver /suike.cn/<replace with groupname>
 # > Youku
-nameserver /soku.com$ $ssl_preread_server_name:443;
-nameserver /youku.com$ $ssl_preread_server_name:443;
-nameserver /ykimg.com$ $ssl_preread_server_name:443;
+nameserver /soku.com/<replace with groupname>
+nameserver /youku.com/<replace with groupname>
+nameserver /ykimg.com/<replace with groupname>
 
 
 
