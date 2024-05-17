@@ -1,1 +1,875 @@
+# ---------- > Global Plaform
+# > DAZN
+[/dazn-api.com/]<DNS>
+[/dazn.com/]<DNS>
+[/dazndn.com/]<DNS>
+[/indazn.com/]<DNS>
+[/d151l6v8er5bdm.cloudfront.net/]<DNS>
+[/d1sgwhnao7452x.cloudfront.net/]<DNS>
+[/dcalivedazn.akamaized.net/]<DNS>
+[/dcblivedazn.akamaized.net/]<DNS>
+# > Hotstar
+[/hotstar.com/]<DNS>
+[/hotstarext.com/]<DNS>
+# > Disney+
+[/disney.connections.edge.bamgrid.com/]<DNS>
+[/disney.api.edge.bamgrid.com/]<DNS>
+[/disney-plus.net/]<DNS>
+[/disneyplus.com/]<DNS>
+[/dssott.com/]<DNS>
+[/disneynow.com/]<DNS>
+[/disneystreaming.com/]<DNS>
+[/cdn.registerdisney.go.com/]<DNS>
+# > Netflix
+[/netflix.com/]<DNS>
+[/netflix.net/]<DNS>
+[/nflximg.com/]<DNS>
+[/nflximg.net/]<DNS>
+[/nflxvideo.net/]<DNS>
+[/nflxext.com/]<DNS>
+[/nflxso.net/]<DNS>
+# > Amazon Prime Video:
+[/d1v5ir2lpwr8os.cloudfront.net/]<DNS>
+[/d22qjgkvxw22r6.cloudfront.net/]<DNS>
+[/d25xi40x97liuc.cloudfront.net/]<DNS>
+[/d27xxe7juh1us6.cloudfront.net/]<DNS>
+[/dmqdd6hw24ucf.cloudfront.net/]<DNS>
+[/aiv-cdn.net/]<DNS>
+[/aiv-delivery.net/]<DNS>
+[/amazonvideo.com/]<DNS>
+[/atv-ext-eu.amazon.com/]<DNS>
+[/atv-ext-fe.amazon.com/]<DNS>
+[/atv-ext.amazon.com/]<DNS>
+[/atv-ps-eu.amazon.co.uk/]<DNS>
+[/atv-ps-eu.amazon.com/]<DNS>
+[/atv-ps-fe.amazon.co.jp/]<DNS>
+[/atv-ps-fe.amazon.com/]<DNS>
+[/atv-ps.amazon.com/]<DNS>
+[/primevideo.com/]<DNS>
+[/pv-cdn.net/]<DNS>
+[/video.a2z.com/]<DNS>
+# > TVBAnywhere+
+[/tvbanywhere.com/]<DNS>
+[/tvbanywhere.com.sg/]<DNS>
+[/tvb.com/]<DNS>
+[/tvb.com.au/]<DNS>
+[/tvbc.com.cn/]<DNS>
+[/tvbeventpower.com.hk/]<DNS>
+[/tvbusa.com/]<DNS>
+[/tvbweekly.com/]<DNS>
+[/tvmedia.net.au/]<DNS>
+# > Viu.com
+[/cognito-identity.us-east-1.amazonaws.com/]<DNS>
+[/d1k2us671qcoau.cloudfront.net/]<DNS>
+[/d2anahhhmp1ffz.cloudfront.net/]<DNS>
+[/dfp6rglgjqszk.cloudfront.net/]<DNS>
+[/d3o7oi00quuwqu.cloudfront.net/]<DNS>
+[/mobileanalytics.us-east-1.amazonaws.com/]<DNS>
+[/viu.com/]<DNS>
+# > Steam Store
+[/steampowered.com/]<DNS>
+# > Youtube
+[/youtube.com/]<DNS>
+[/youtubei.googleapis.com/]<DNS>
+# > iQiyi
+[/71.am/]<DNS>
+[/iq.com/]<DNS>
+[/iqiyi.com/]<DNS>
+[/iqiyipic.com/]<DNS>
+[/pps.tv/]<DNS>
+[/ppsimg.com/]<DNS>
+[/qiyi.com/]<DNS>
+[/qiyipic.com/]<DNS>
+[/qy.net/]<DNS>
+# > Tiktok
+[/byteoversea.com/]<DNS>
+[/ibytedtos.com/]<DNS>
+[/ipstatp.com/]<DNS>
+[/muscdn.com/]<DNS>
+[/musical.ly/]<DNS>
+[/tiktok.com/]<DNS>
+[/tik-tokapi.com/]<DNS>
+[/tiktokcdn.com/]<DNS>
+[/tiktokv.com/]<DNS>
+
+# ---------- > Taiwan Media
+# > KKTV
+[/kfs.io/]<DNS>
+[/kktv-theater.kk.stream/]<DNS>
+[/kkbox.com/]<DNS>
+[/kkbox.com.tw/]<DNS>
+[/kktv.com.tw/]<DNS>
+[/kktv.me/]<DNS>
+# > LiTV
+[/litv.tv/]<DNS>
+[/litvfreemobile-hichannel.cdn.hinet.net/]<DNS>
+# > MyVideo
+[/cdn.plyr.io/]<DNS>
+[/myvideo.net.tw/]<DNS>
+# > 4GTV
+[/4gtv.tv/]<DNS>
+[/4gtvfreepc-cds.cdn.hinet.net/]<DNS>
+[/4gtvfreepcvod-cds.cdn.hinet.net/]<DNS>
+[/4gtvpc-cds.cdn.hinet.net/]<DNS>
+[/4gtvpcvod-cds.cdn.hinet.net/]<DNS>
+# > LineTV.TW
+[/d3c7rimkq79yfu.cloudfront.net/]<DNS>
+[/linetv.tw/]<DNS>
+# > Hami Video
+[/cdn.hinet.net/]<DNS>
+[/hamivideo.hinet.net/]<DNS>
+[/scc.ott.hinet.net/]<DNS>
+# > CatchPlay+
+[/catchplay.com/]<DNS>
+[/d2ivmxp5z2ww0n.cloudfront.net/]<DNS>
+[/ols-ww100-cp.akamaized.net/]<DNS>
+[/tra-www000-cp.akamaized.net/]<DNS>
+# > HBO GO Asia
+[/44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/]<DNS>
+[/bcbolthboa-a.akamaihd.net/]<DNS>
+[/dai3fd1oh325y.cloudfront.net/]<DNS>
+[/hboasia1-i.akamaihd.net/]<DNS>
+[/hboasia2-i.akamaihd.net/]<DNS>
+[/hboasia3-i.akamaihd.net/]<DNS>
+[/hboasia4-i.akamaihd.net/]<DNS>
+[/hboasia5-i.akamaihd.net/]<DNS>
+[/hboasialive.akamaized.net/]<DNS>
+[/hbogoprod-vod.akamaized.net/]<DNS>
+[/hbolb.onwardsmg.com/]<DNS>
+[/hbounify-prod.evergent.com/]<DNS>
+[/hbogo.co.th/]<DNS>
+[/hbogoasia.com/]<DNS>
+[/hbogoasia.hk/]<DNS>
+[/hbogoasia.id/]<DNS>
+[/hbogoasia.ph/]<DNS>
+[/hbogoasia.sg/]<DNS>
+[/hbogoasia.tw/]<DNS>
+# > Bahamut Anime
+[/bahamut.com.tw/]<DNS>
+[/gamer.com.tw/]<DNS>
+[/gamer-cds.cdn.hinet.net/]<DNS>
+[/gamer2-cds.cdn.hinet.net/]<DNS>
+# > BiliBili
+[/bilibili.com/]<DNS>
+
+# ---------- > Canada Media
+# > CBC Gem
+[/cbc.ca/]<DNS>
+[/cbchd1dynamicads-i.akamaihd.net/]<DNS>
+[/cbclivedai5-i.akamaihd.net/]<DNS>
+[/cbcnewshd-f.akamaihd.net/]<DNS>
+[/cbcrcott-gem-key.akamaized.net/]<DNS>
+[/cbcrcott-gem.akamaized.net/]<DNS>
+[/go-mpulse.net/]<DNS>
+[/theplatform.com/]<DNS>
+# > Crave TV
+[/crave.ca/]<DNS>
+[/go-mpulse.net/]<DNS>
+[/9c9media.com/]<DNS>
+
+# ---------- > Japan Media
+# > DMM
+[/dmm-extension.com/]<DNS>
+[/dmm.co.jp/]<DNS>
+[/dmm.com/]<DNS>
+[/videomarket.jp/]<DNS>
+[/p-smith.com/]<DNS>
+[/vmdash-cenc.akamaized.net/]<DNS>
+[/img.vm-movie.jp/]<DNS>
+# > Abema
+[/abema.io/]<DNS>
+[/abema.tv/]<DNS>
+[/ds-linear-abematv.akamaized.net/]<DNS>
+[/linear-abematv.akamaized.net/]<DNS>
+[/ds-vod-abematv.akamaized.net/]<DNS>
+[/vod-abematv.akamaized.net/]<DNS>
+[/ameba.jp/]<DNS>
+[/hayabusa.io/]<DNS>
+[/vod-abematv.akamaized.net/]<DNS>
+[/bucketeer.jp/]<DNS>
+[/abema.adx.promo/]<DNS>
+[/hayabusa.media/]<DNS>
+[/abema-tv.com/]<DNS>
+# > NicoNico
+[/dmc.nico/]<DNS>
+[/nicovideo.jp/]<DNS>
+[/nimg.jp/]<DNS>
+# > Music.jp
+[/music.jp/]<DNS>
+[/music-book.jp/]<DNS>
+# > Telasa
+[/telasa.jp/]<DNS>
+[/kddi-video.com/]<DNS>
+[/videopass.jp/]<DNS>
+[/d2lmsumy47c8as.cloudfront.net/]<DNS>
+# > Paravi
+[/paravi.jp/]<DNS>
+# > U-NEXT
+[/unext.jp/]<DNS>
+[/nxtv.jp/]<DNS>
+# > Hulu Japan
+[/happyon.jp/]<DNS>
+[/hulu.jp/]<DNS>
+[/prod.hjholdings.tv/]<DNS>
+[/streaks.jp/]<DNS>
+[/yb.uncn.jp/]<DNS>
+[/hjholdings.jp/]<DNS>
+# > TVer
+[/tver.jp/]<DNS>
+[/edge.api.brightcove.com/]<DNS>
+# [/players.brightcove.net/]<DNS>
+[/gorin.jp/]<DNS>
+[/screens-lab.jp/]<DNS>
+[/tver.co.jp/]<DNS>
+[/dogatch.jp/]<DNS>
+# > GYAO!
+[/gyao.yahoo.co.jp/]<DNS>
+# > WOWOW
+[/wowow.co.jp/]<DNS>
+# > Videomarket
+[/videomarket.jp/]<DNS>
+# > Fuji TV
+[/fujitv.co.jp/]<DNS>
+[/stream.ne.jp/]<DNS>
+# > Radiko
+[/radiko.jp/]<DNS>
+[/radionikkei.jp/]<DNS>
+[/smartstream.ne.jp/]<DNS>
+# > Karaoke@DAM
+[/clubdam.com/]<DNS>
+# > J:com On Demand
+[/id.zaq.ne.jp/]<DNS>
+# > Games
+[/cygames.jp/]<DNS>
+[/konosubafd.jp/]<DNS>
+[/colorfulpalette.org/]<DNS>
+[/worldflipper.jp/]<DNS>
+[/jujutsuphanpara.jp/]<DNS>
+# > Reads 
+[/data-cloudauthoring.magazine.rakuten.co.jp/]<DNS>
+
+# ---------- > Oceania Media
+# > NBA TV !Against US!
+[/nba.com/]<DNS>
+[/neulion-a.akamaihd.net/]<DNS>
+[/nlnbamdnyc-a.akamaihd.net/]<DNS>
+[/sdk.iad-03.braze.com/]<DNS>
+[/nbaprop.sc.omtrdc.net/]<DNS>
+[/nlnbaqos.neulion.com/]<DNS>
+[/watchnba.cdnfastly.endeavorstreaming.net/]<DNS>
+[/nbaapi.neulion.com/]<DNS>
+[/nba-api-cdn.opin.media/]<DNS>
+[/neulionqos-a.akamaihd.net/]<DNS>
+[/neulion.com/]<DNS>
+[/nbaprop.tt.omtrdc.net/]<DNS>
+[/lion-nba-msl.akamaized.net/]<DNS>
+[/nbanlds19vod.akamaized.net/]<DNS>
+# > Acorn TV !Against US!
+[/edge.api.brightcove.com/]<DNS>
+[/api.rlje.net/]<DNS>
+[/boltdns.net/]<DNS>
+[/acorn.tv/]<DNS>
+# > SHOWTIME !Against US!
+[/sho.com/]<DNS>
+[/showtime.com/]<DNS>
+[/showtimeanytime.com/]<DNS>
+# > BritBox !Against US/EU!
+[/vod-dash-ntham-comm-live.akamaized.net/]<DNS>
+[/vod-dash-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
+[/vod-hls-ntham-comm-live.akamaized.net/]<DNS>
+[/vod-hls-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
+[/britbox.com/]<DNS>
+[/d2z3p34itxwaj7.cloudfront.net/]<DNS>
+# > Funimation !Against US/EU!
+[/funimation.com/]<DNS>
+[/funimationsvc.com/]<DNS>
+# > Paramount+ !Against US!
+[/paramountplus.com/]<DNS>
+[/cbsi.live.ott.irdeto.com/]<DNS>
+[/cbsplaylistserver.aws.syncbak.com/]<DNS>
+[/cbsservice.aws.syncbak.com/]<DNS>
+[/link.theplatform.com/]<DNS>
+[/cbsaavideo.com/]<DNS>
+[/cbsi.com/]<DNS>
+[/cbsivideo.com/]<DNS>
+[/pplusstatic.com/]<DNS>
+# > AU:Stan
+[/stan.com.au/]<DNS>
+[/stan.video/]<DNS>
+[/streamcoimg-a.akamaihd.net/]<DNS>
+[/live01-stan.akamaized.net/]<DNS>
+[/live02-stan.akamaized.net/]<DNS>
+# > AU:Binge/Kayo Sports
+[/streamotion.com.au/]<DNS>
+# > AU:Docplay
+[/docplay.com/]<DNS>
+[/0c86e2d1-madman-com-au.akamaized.net/]<DNS>
+[/ff1be285-madman-com-au.akamaized.net/]<DNS>
+[/5a929471-madman-com-au.akamaized.net/]<DNS>
+[/879ed873-madman-com-au.akamaized.net/]<DNS>
+# > AU:7plus
+[/7plus.com.au/]<DNS>
+[/npc-live-sevennetwork.akamaized.net/]<DNS>
+[/7plus-sevennetwork.akamaized.net/]<DNS>
+[/seven.demdex.net/]<DNS>
+[/cdn.7livecloud.io/]<DNS>
+# > AU:9 now
+[/nine.com.au/]<DNS>
+[/9now.com.au/]<DNS>
+[/edge.api.brightcove.com/]<DNS>
+[/p-9now.akamaized.net/]<DNS>
+[/9now-livestreams.akamaized.net/]<DNS>
+[/9cdn.net/]<DNS>
+[/9nation.com.au/]<DNS>
+[/9news.com.au/]<DNS>
+[/9now.com.au/]<DNS>
+[/freeviewplus.net.au/]<DNS>
+[/mi9.com.au/]<DNS>
+[/mi9cdn.com/]<DNS>
+[/nine.com.au/]<DNS>
+[/nineentertainment.com.au/]<DNS>
+[/nineentertainmentco.com.au/]<DNS>
+[/ninemediaroom.com.au/]<DNS>
+[/ninemsn.com.au/]<DNS>
+[/static9.net.au/]<DNS>
+[/yourtv.com.au/]<DNS>
+# > AU:10 play
+[/10play.com.au/]<DNS>
+[/global.ssl.fastly.net/]<DNS>
+[/airspace-cdn.cbsviedo.com/]<DNS>
+[/net10-livestream-keys.play.cbsi.video/]<DNS>
+[/net10-livestream.play.cbsi.video/]<DNS>
+[/d25m2gzplgnf0.cloudfront.net/]<DNS>
+# > AU:ABC iView
+[/iview.abc.net.au/]<DNS>
+[/abc-iview-mediapackagestreams-2.akamaized.net/]<DNS>
+# > AU:Optus
+[/optus.com.au/]<DNS>
+[/optusdigital.com/]<DNS>
+[/optusnet.com.au/]<DNS>
+[/optussport.tv/]<DNS>
+[/optusvideo.tv/]<DNS>
+[/tls1.yospace.com/]<DNS>
+[/bln1.yospace.com/]<DNS>
+[/d3rj5p7u4c4icq.cloudfront.net/]<DNS>
+[/mgd0ee5iankkv3gidl14rm7c0.litix.io/]<DNS>
+[/93e30b04-drm-widevine-licensing.axprod.net/]<DNS>
+# > AU:SBS on Demand
+[/sbsod.com/]<DNS>
+[/sbs.com.au/]<DNS>
+[/videocdn-sbs.akamaized.net/]<DNS>
+[/sbsvoddai-vh.akamaihd.net/]<DNS>
+[/sbsvodns-vh.akamaihd.net/]<DNS>
+[/sbs-live-dai.akamaized.net/]<DNS>
+[/sbs-live.akamaized.net/]<DNS>
+[/sbs-live-dai.akamaized.net/]<DNS>
+# > NZ:Neon TV
+[/neontv.co.nz/]<DNS>
+# > NZ:SkyGO NZ
+[/sky.co.nz/]<DNS>
+[/prod-skyonelive.akamaized.net/]<DNS>
+[/skysportnow.co.nz/]<DNS>
+[/imggaming.com/]<DNS>
+[/pndsn.com/]<DNS>
+# > NZ:ThreeNow
+[/fullscreen.nz/]<DNS>
+# > NZ:Maori TV
+#
+
+# ---------- > North America Media
+# > FOX
+[/x-live-fox-stgec.uplynk.com/]<DNS>
+[/fox.com/]<DNS>
+[/foxdcg.com/]<DNS>
+[/theplatform.com/]<DNS>
+[/cdn-fox-networks-group-green.akamaized.net/]<DNS>
+[/d3cv4a9a9wh0bt.cloudfront.net/]<DNS>
+[/foxsports01-i.akamaihd.net/]<DNS>
+[/foxsports02-i.akamaihd.net/]<DNS>
+[/foxsports03-i.akamaihd.net/]<DNS>
+# > HuluUSA
+[/assetshuluimcom-a.akamaihd.net/]<DNS>
+[/cws-hulu.conviva.com/]<DNS>
+[/hulu.com/]<DNS>
+[/hulu.hb.omtrdc.net/]<DNS>
+[/hulu.sc.omtrdc.net/]<DNS>
+[/huluad.com/]<DNS>
+[/huluqa.com/]<DNS>
+[/hulustream.com/]<DNS>
+# > NFL
+[/nfl.com/]<DNS>
+# > ESPN+
+[/espn.api.edge.bamgrid.com/]<DNS>
+[/espn.hb.omtrdc.net/]<DNS>
+[/espndotcom.tt.omtrdc.net/]<DNS>
+[/dtci.co/]<DNS>
+[/dtci.technology/]<DNS>
+[/espn.co.uk/]<DNS>
+[/espn.com/]<DNS>
+[/espn.net/]<DNS>
+[/espncdn.com/]<DNS>
+[/espnqa.com/]<DNS>
+[/watchespn.com/]<DNS>
+# > Epix
+[/epix.com/]<DNS>
+# > Starz
+[/starz.com/]<DNS>
+# > Philo
+[/philo.com/]<DNS>
+# > FXNOW
+[/fxnow.fxnetworks.com/]<DNS>
+# > TLC GO
+[/geolocation.onetrust.com/]<DNS>
+# > HBO / Max
+[/max.com/]<DNS>
+[/hbo.com/]<DNS>
+[/hbogo.com/]<DNS>
+[/hbomax.com/]<DNS>
+[/hbomaxcdn.com/]<DNS>
+[/hbonow.com/]<DNS>
+[/maxgo.com/]<DNS>
+# > Shudder
+[/shudder.com/]<DNS>
+# > BritBox !Against AU/EU!
+[/vod-dash-ntham-comm-live.akamaized.net/]<DNS>
+[/vod-dash-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
+[/vod-hls-ntham-comm-live.akamaized.net/]<DNS>
+[/vod-hls-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
+[/britbox.com/]<DNS>
+[/d2z3p34itxwaj7.cloudfront.net/]<DNS>
+# > Crackle
+[/crackle.com/]<DNS>
+# > CW TV
+[/cwtv.com/]<DNS>
+# > A&E TV
+[/aetv.com/]<DNS>
+[/ccpa-service.sp-prod.net/]<DNS>
+# > NBA TV !Against AU!
+[/nba.com/]<DNS>
+[/neulion-a.akamaihd.net/]<DNS>
+[/nlnbamdnyc-a.akamaihd.net/]<DNS>
+[/sdk.iad-03.braze.com/]<DNS>
+[/nbaprop.sc.omtrdc.net/]<DNS>
+[/nlnbaqos.neulion.com/]<DNS>
+[/watchnba.cdnfastly.endeavorstreaming.net/]<DNS>
+[/nbaapi.neulion.com/]<DNS>
+[/nba-api-cdn.opin.media/]<DNS>
+[/neulionqos-a.akamaihd.net/]<DNS>
+[/neulion.com/]<DNS>
+[/nbaprop.tt.omtrdc.net/]<DNS>
+[/lion-nba-msl.akamaized.net/]<DNS>
+[/nbanlds19vod.akamaized.net/]<DNS>
+# > Fubo TV
+[/fubo.tv/]<DNS>
+# > Tubi TV
+[/tubitv.com/]<DNS>
+# > Sling TV
+[/dishworld.com/]<DNS>
+[/slinginternational.com/]<DNS>
+[/sling.com/]<DNS>
+[/movenetworks.com/]<DNS>
+[/movetv.com/]<DNS>
+# > Pluto TV
+[/pluto.tv/]<DNS>
+# > Acorn TV !Against AU!
+[/edge.api.brightcove.com/]<DNS>
+[/api.rlje.net/]<DNS>
+[/boltdns.net/]<DNS>
+[/acorn.tv/]<DNS>
+# > SHOWTIME !Against AU!
+[/sho.com/]<DNS>
+[/showtime.com/]<DNS>
+[/showtimeanytime.com/]<DNS>
+# > encoreTVB ?TVB HK? !Against JP TVer!
+[/encoretvb.com/]<DNS>
+[/bcbolt446c5271-a.akamaihd.net/]<DNS>
+[/videos-f.jwpsrv.com/]<DNS>
+[/content.jwplatform.com/]<DNS>
+[/edge.api.brightcove.com/]<DNS>
+# > Funimation !Against AU/EU!
+[/funimation.com/]<DNS>
+# > Discovery+ !Against EU!
+[/content-ause1-ur-discovery1.uplynk.com/]<DNS>
+[/disco-api.com/]<DNS>
+[/discoveryplus.com/]<DNS>
+[/x-default-stgec.uplynk.com/]<DNS>
+[/discovery.com/]<DNS>
+[/discoveryplus.co.uk/]<DNS>
+[/getblueshift.com/]<DNS>
+[/litix.io/]<DNS>
+[/mobile-collector.newrelic.com/]<DNS>
+[/discovery.uplynk.com/]<DNS>
+# > Paramount+ !Against AU!
+[/paramountplus.com/]<DNS>
+[/cbsi.live.ott.irdeto.com/]<DNS>
+[/cbsplaylistserver.aws.syncbak.com/]<DNS>
+[/cbsservice.aws.syncbak.com/]<DNS>
+[/link.theplatform.com/]<DNS>
+[/cbsaavideo.com/]<DNS>
+[/cbsi.com/]<DNS>
+[/cbsivideo.com/]<DNS>
+[/pplusstatic.com/]<DNS>
+# > Peacock TV
+[/peacocktv.com/]<DNS>
+[/peacock.com/]<DNS>
+# > Popcornflix
+[/popcornflix.com/]<DNS>
+[/popcornflix-prod.cloud.seachange.com/]<DNS>
+# > Crunchyroll
+[/c.evidon.com/]<DNS>
+# > Directv Stream
+[/atttvnow.com/]<DNS>
+# > KBS American
+[/kbs.co.kr/]<DNS>
+# > KOCOWA
+[/kocowa.com/]<DNS>
+# > F1TV
+[/f1prodlive.akamaized.net/]<DNS>
+[/formula1.com/]<DNS>
+
+# ---------- > Europe Media
+# > EU:Rakuten TV
+[/rakuten.tv/]<DNS>
+# > EU:Funimation !Against US/AU!
+[/funimation.com/]<DNS>
+# > EU:SkyShowTime
+[/skyshowtimeuk.data.adobedc.net/]<DNS>
+[/skyshowtime.com/]<DNS>
+[/cssott.com/]<DNS>
+[/4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com/]<DNS>
+# > EU:HBO Max
+[/max.com/]<DNS>
+[/cinemax.com/]<DNS>
+[/forthethrone.com/]<DNS>
+[/hbo.com/]<DNS>
+[/hbomax.com/]<DNS>
+[/hbomaxcdn.com/]<DNS>
+[/maxgo.com/]<DNS>
+# > EuroSport
+[/europe-fastly-mediashield-live-prod.cdn.h264.io/]<DNS>
+[/akamai.prod-live.h264.io/]<DNS>
+[/eurosport-dlvr-ott.akamaized.net/]<DNS>
+[/eu3-prod-images.disco-api.com/]<DNS>
+[/eu3-prod.disco-api.com/]<DNS>
+[/eurosportplayer.com/]<DNS>
+[/eurosport.com/]<DNS>
+[/eurosport.fr/]<DNS>
+[/eurosport.es/]<DNS>
+[/eurosport.ro/]<DNS>
+[/eurosport.io/]<DNS>
+[/eurosport.ru/]<DNS>
+[/media-shield.live.eurosport.map.fastly.net/]<DNS>
+[/eurosport-dlvr-ott-vod.akamaized.net/]<DNS>
+# > ViaPlay
+[/i-viaplay-com.akamaized.net/]<DNS>
+[/viaplay.com/]<DNS>
+[/viaplay.pl/]<DNS>
+[/mtg-api.com/]<DNS>
+# > GB:Sky GO /]<DNS>SkyGONZ/]<DNS>
+[/sky.com/]<DNS>
+# > GB:BritBox !Against US/AU!
+[/vod-dash-ntham-comm-live.akamaized.net/]<DNS>
+[/vod-dash-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
+[/vod-hls-ntham-comm-live.akamaized.net/]<DNS>
+[/vod-hls-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
+[/britbox.com/]<DNS>
+[/d2z3p34itxwaj7.cloudfront.net/]<DNS>
+# > GB:ITV Hub
+[/itvpnpmobile-a.akamaihd.net/]<DNS>
+[/itv.com/]<DNS>
+[/itvstatic.com/]<DNS>
+# > GB:Channel 4 **
+[/channel4.com/]<DNS>
+# > GB:Channel 5 **
+[/channel5.com/]<DNS>
+# > GB:BBC
+[/aod-dash-uk-live.akamaized.net/]<DNS>
+[/aod-hls-uk-live.akamaized.net/]<DNS>
+[/as-dash-uk-live.akamaized.net/]<DNS>
+[/as-hls-uk-live.akamaized.net/]<DNS>
+[/vod-dash-uk-live.akamaized.net/]<DNS>
+[/vod-dash-ww-live.akamaized.net/]<DNS>
+[/vod-hls-uk-live.akamaized.net/]<DNS>
+[/vod-sub-uk-live.akamaized.net/]<DNS>
+[/vod-thumb-uk-live.akamaized.net/]<DNS>
+[/vod-thumb-ww-live.akamaized.net/]<DNS>
+[/vs-cmaf-push-uk-live.akamaized.net/]<DNS>
+[/bbc/]<DNS>
+[/bbc.co/]<DNS>
+[/bbc.co.uk/]<DNS>
+[/bbc.com/]<DNS>
+[/bbc.in/]<DNS>
+[/bbc.net.uk/]<DNS>
+[/bbcchinese.com/]<DNS>
+[/bbcfmt.hs.llnwd.net/]<DNS>
+[/bbcfmt.s.llnwi.net/]<DNS>
+[/bbci.co/]<DNS>
+[/bbci.co.uk/]<DNS>
+[/bbcmedia.co.uk/]<DNS>
+[/bbcpersian.com/]<DNS>
+[/bbcverticals.com/]<DNS>
+[/bidi.net.uk/]<DNS>
+# > GB:Discovery+ !Against AU!
+[/content-ause1-ur-discovery1.uplynk.com/]<DNS>
+[/disco-api.com/]<DNS>
+[/discoveryplus.com/]<DNS>
+[/x-default-stgec.uplynk.com/]<DNS>
+[/discovery.com/]<DNS>
+[/discoveryplus.co.uk/]<DNS>
+[/getblueshift.com/]<DNS>
+[/litix.io/]<DNS>
+[/mobile-collector.newrelic.com/]<DNS>
+[/discovery.uplynk.com/]<DNS>
+# > FR:Salto
+[/salto.fr/]<DNS>
+# > FR:Canal+
+[/canalplus.com/]<DNS>
+# > FR:Molotov
+[/molotov.tv/]<DNS>
+# > DE:Joyn
+[/joyn.de/]<DNS>
+# > DE:Sky
+[/sky.de/]<DNS>
+[/edge.api.brightcove.com/]<DNS>
+# > DE:ZDF
+[/zdf.de/]<DNS>
+# > NL:videoland
+[/videoland.com/]<DNS>
+# > NL:NPO
+[/npo.nl/]<DNS>
+# > RU:Amediateka
+[/amediateka.ru/]<DNS>
+# > UA:MEGOGO
+[/megogo.net/]<DNS>
+[/vcdn.biz/]<DNS>
+# > CH:Sky
+[/sky.ch/]<DNS>
+[/zahs.tv/]<DNS>
+# > TR:digiturkplay
+[/digiturkplay.com/]<DNS>
+[/dt-int-gurme-hls.mncdn.com/]<DNS>
+[/dt-live-int.akamaized.net/]<DNS>
+
+# ---------- > Hong Kong Media
+# > Now E 
+[/nowe.com/]<DNS>
+[/nowestatic.com/]<DNS>
+# > Now TV
+[/now.com/]<DNS>
+# > Viu.TV
+#include Viu.com
+[/viu.now.com/]<DNS>
+[/viu.tv/]<DNS>
+# > MyTVSuper
+[/mytvsuper.com/]<DNS>
+[/mytvsuperlimited.hb.omtrdc.net/]<DNS>
+[/mytvsuperlimited.sc.omtrdc.net/]<DNS>
+[/tvb.com/]<DNS>
+# > HBO GO Asia
+[/44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/]<DNS>
+[/bcbolthboa-a.akamaihd.net/]<DNS>
+[/dai3fd1oh325y.cloudfront.net/]<DNS>
+[/hboasia1-i.akamaihd.net/]<DNS>
+[/hboasia2-i.akamaihd.net/]<DNS>
+[/hboasia3-i.akamaihd.net/]<DNS>
+[/hboasia4-i.akamaihd.net/]<DNS>
+[/hboasia5-i.akamaihd.net/]<DNS>
+[/hboasialive.akamaized.net/]<DNS>
+[/hbogoprod-vod.akamaized.net/]<DNS>
+[/hbolb.onwardsmg.com/]<DNS>
+[/hbounify-prod.evergent.com/]<DNS>
+[/hbogo.co.th/]<DNS>
+[/hbogoasia.com/]<DNS>
+[/hbogoasia.hk/]<DNS>
+[/hbogoasia.id/]<DNS>
+[/hbogoasia.ph/]<DNS>
+[/hbogoasia.sg/]<DNS>
+[/hbogoasia.tw/]<DNS>
+# > HOY TV
+[/hoy.tv/]<DNS>
+# > BiliBili 
+[/bilibili.com/]<DNS>
+
+
+
+# ---------- > South America Media
+# Star+
+[/starplus.com/]<DNS>
+[/starott.com/]<DNS>
+[/star.api.edge.bamgrid.com/]<DNS>
+[/star.connections.edge.bamgrid.com/]<DNS>
+[/star.content.edge.bamgrid.com/]<DNS>
+[/star.playback.edge.bamgrid.com/]<DNS>
+# > HBO 
+[/cinemax.com/]<DNS>
+[/forthethrone.com/]<DNS>
+[/hbo.com/]<DNS>
+[/hbogo.com/]<DNS>
+[/hbomax.com/]<DNS>
+[/hbomaxcdn.com/]<DNS>
+[/hbonow.com/]<DNS>
+[/maxgo.com/]<DNS>
+# > DirecTV
+[/directvgo.com/]<DNS>
+# > Funimation !Against US/EU/AU!
+[/funimation.com/]<DNS>
+
+# ---------- > Indian Media
+[/discoveryplus.in/]<DNS>
+
+# ---------- > Korean Media
+# > Wavve
+[/wavve.com/]<DNS>
+[/pooq.co.kr/]<DNS>
+# > Tving
+[/tving.com/]<DNS>
+# > Coupang Play
+[/coupangplay.com/]<DNS>
+# > Naver TV
+[/naver.com/]<DNS>
+[/navercorp.com/]<DNS>
+[/pstatic.net/]<DNS>
+[/smartmediarep.com/]<DNS>
+# > Afreeca TV
+[/afreecatv.com/]<DNS>
+# > KBS Domestic
+[/kbs.co.kr/]<DNS>
+
+# ---------- > ? media
+# > Setanta Sports
+[/setantasports.com/]<DNS>
+[/imggaming.com/]<DNS>
+[/diceplatform.com/]<DNS>
+[/dicelaboratory.com/]<DNS>
+[/pndsn.com/]<DNS>
+[/imggaming.s3-eu-west-1.amazonaws.com/]<DNS>
+[/ux1kpaebv0.execute-api.eu-west-1.amazonaws.com/]<DNS>
+[/1ok961aaca.execute-api.eu-west-1.amazonaws.com/]<DNS>
+
+# ---------- > SouthEastAsia media
+# > HBO GO Asia
+[/44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/]<DNS>
+[/bcbolthboa-a.akamaihd.net/]<DNS>
+[/dai3fd1oh325y.cloudfront.net/]<DNS>
+[/hboasia1-i.akamaihd.net/]<DNS>
+[/hboasia2-i.akamaihd.net/]<DNS>
+[/hboasia3-i.akamaihd.net/]<DNS>
+[/hboasia4-i.akamaihd.net/]<DNS>
+[/hboasia5-i.akamaihd.net/]<DNS>
+[/hboasialive.akamaized.net/]<DNS>
+[/hbogoprod-vod.akamaized.net/]<DNS>
+[/hbolb.onwardsmg.com/]<DNS>
+[/hbounify-prod.evergent.com/]<DNS>
+[/hbogo.co.th/]<DNS>
+[/hbogoasia.com/]<DNS>
+[/hbogoasia.hk/]<DNS>
+[/hbogoasia.id/]<DNS>
+[/hbogoasia.ph/]<DNS>
+[/hbogoasia.sg/]<DNS>
+[/hbogoasia.tw/]<DNS>
+# > B-Global
+[/bilibili.tv/]<DNS>
+# > SG:meWATCH
+[/mewatch.sg/]<DNS>
+# > SG:StarHub
+[/starhubgo.com/]<DNS>
+[/failoverstarhub.akamaized.net/]<DNS>
+[/scvm1sc0-ssm.anycast.nagra.com/]<DNS>
+[/starhubtvplus.com/]<DNS>
+# > TH:TrueID 
+[/trueid.net/]<DNS>
+# > TH:AIS Play
+[/aisplay.ais.co.th/]<DNS>
+[/ais-vidnt.com/]<DNS>
+# > ID:Vidio
+[/geo-id-media-001-vidio-com.akamaized.net/]<DNS>
+# > VN:MYTV
+[/mytv.vn/]<DNS>
+# > VN:Clip TV
+[/cliptv.vn/]<DNS>
+# > VN:Galaxy Play
+[/glxplay.io/]<DNS>
+# > VN:K+
+[/solocoo.tv/]<DNS>
+# > MY:sooka
+[/sooka.my/]<DNS>
+[/kaltura.com/]<DNS>
+[/1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com/]<DNS>
+# > IN:MXPlayer
+[/mxplayer.in/]<DNS>
+# > IN:Tata Play
+[/tataplay.com/]<DNS>
+# > UAE:shahid
+[/mbc.net/]<DNS>
+[/npaw.com/]<DNS>
+[/shahid.net/]<DNS>
+
+# ---------- > Others
+# > Openai
+[/openai.com/]<DNS>
+[/chatgpt.com/]<DNS>
+[/oaistatic.com/]<DNS>
+[/oaiusercontent.com/]<DNS>
+# > ExHantai/E-hentai
+[/exhentai.org/]<DNS>
+[/e-hentai.org/]<DNS>
+# > Claude 2
+[/anthropic.com/]<DNS>
+[/claude.ai/]<DNS>
+# > Google Bard
+[/bard.google.com/]<DNS>
+# > Microsoft Copilot For Image Generates
+[/copilot.microsoft.com/]<DNS>
+
+# ---------- > China Media
+# > Youtube
+[/youtube.com/]<DNS>
+[/youtubei.googleapis.com/]<DNS>
+# > BiliBili
+[/bilibili.com/]<DNS>
+# > Netease Cloud Music
+[/music.163.com/]<DNS>
+[/music.126.net/]<DNS>
+# > iQiyi
+[/71.am/]<DNS>
+[/71.am.com/]<DNS>
+[/71edge.com/]<DNS>
+[/71edge.net/]<DNS>
+[/aianno.cn/]<DNS>
+[/aianno.com/]<DNS>
+[/aiqiyicloud-mgmt.com/]<DNS>
+[/aiqiyicloud.com/]<DNS>
+[/aiqiyicloud.net/]<DNS>
+[/baiying.com/]<DNS>
+[/gitv.cn/]<DNS>
+[/gitv.tv/]<DNS>
+[/ibkstore.com/]<DNS>
+[/iq.com/]<DNS>
+[/iqiyi.com/]<DNS>
+[/iqiyi.demo.uwp/]<DNS>
+[/iqiyiedge.com/]<DNS>
+[/iqiyiedge.net/]<DNS>
+[/iqiyipic.com/]<DNS>
+[/jiangbing.cn/]<DNS>
+[/pps.tv/]<DNS>
+[/ppsimg.com/]<DNS>
+[/ppstream.cn/]<DNS>
+[/ppstream.com/]<DNS>
+[/ppstream.com.cn/]<DNS>
+[/ppstream.net/]<DNS>
+[/ppstream.net.cn/]<DNS>
+[/ppsurl.com/]<DNS>
+[/qiyi.cn/]<DNS>
+[/qiyi.com/]<DNS>
+[/qiyipic.com/]<DNS>
+[/qy.com/]<DNS>
+[/qy.net/]<DNS>
+[/suike.cn/]<DNS>
+# > Youku
+[/soku.com/]<DNS>
+[/youku.com/]<DNS>
+[/ykimg.com/]<DNS>
+
+
+
 
