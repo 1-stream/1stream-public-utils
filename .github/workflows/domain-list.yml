@@ -15,8 +15,10 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Create local changes
       run: |
-        cat stream.list | sed 's/~^(.*|)/nameserver \//g' | sed 's/\\././g' | sed 's/$ $ssl_preread_server_name:443;/\/<replace with groupname>/g' > stream.smartdns.list
-        cat stream.list | sed 's/~^(.*|)/\"domain:/g' | sed 's/\\././g' | sed 's/$ $ssl_preread_server_name:443;/",/g' > stream.xray.list
+        cat stream.list | sed 's/~^(.*|)/nameserver \//g' | sed 's/\\././g' | sed 's/$;/\/<replace with groupname>/g'  > stream.smartdns.list
+        cat stream.list | sed 's/~^(.*|)/\"domain:/g' | sed 's/\\././g' | sed 's/$;/",/g' > stream.xray.list
+        cat stream.list | sed -z 's/$;\r\n~^(\.\*|)/ ./g' |  sed 's/\\././g' | sed 's/~^(.*|)/server_name ./g' | sed 's/\$//g'  > stream.nginx.list
+        cat stream.list | sed 's/~^(.*|)/[\//g' | sed 's/\\././g' | sed 's/$;/\/]<DNS>/g'   > stream.adg.list
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
