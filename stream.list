@@ -71,6 +71,10 @@
 # > Youtube
 ~^(.*|)youtube\.com$;
 ~^(.*|)youtubei\.googleapis\.com$;
+# > Google Search
+~^(.*|)google\.com$;
+# > Instagram
+~^(.*|)instagram\.com$;
 # > iQiyi
 ~^(.*|)71\.am$;
 ~^(.*|)iq\.com$;
@@ -91,6 +95,7 @@
 ~^(.*|)tik-tokapi\.com$;
 ~^(.*|)tiktokcdn\.com$;
 ~^(.*|)tiktokv\.com$;
+
 
 # ---------- > Taiwan Media
 # > KKTV
@@ -776,6 +781,11 @@
 ~^(.*|)failoverstarhub\.akamaized\.net$;
 ~^(.*|)scvm1sc0-ssm\.anycast\.nagra\.com$;
 ~^(.*|)starhubtvplus\.com$;
+# > CatchPlay+
+~^(.*|)catchplay\.com$;
+~^(.*|)d2ivmxp5z2ww0n\.cloudfront\.net$;
+~^(.*|)ols-ww100-cp\.akamaized\.net$;
+~^(.*|)tra-www000-cp\.akamaized\.net$;
 # > TH:TrueID 
 ~^(.*|)trueid\.net$;
 # > TH:AIS Play
