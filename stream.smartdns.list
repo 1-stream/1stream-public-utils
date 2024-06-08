@@ -71,6 +71,10 @@ nameserver /steampowered.com/<replace with groupname>
 # > Youtube
 nameserver /youtube.com/<replace with groupname>
 nameserver /youtubei.googleapis.com/<replace with groupname>
+# > Google Search
+nameserver /google.com/<replace with groupname>
+# > Instagram
+nameserver /instagram.com/<replace with groupname>
 # > iQiyi
 nameserver /71.am/<replace with groupname>
 nameserver /iq.com/<replace with groupname>
@@ -91,6 +95,7 @@ nameserver /tiktok.com/<replace with groupname>
 nameserver /tik-tokapi.com/<replace with groupname>
 nameserver /tiktokcdn.com/<replace with groupname>
 nameserver /tiktokv.com/<replace with groupname>
+
 
 # ---------- > Taiwan Media
 # > KKTV
@@ -776,6 +781,11 @@ nameserver /starhubgo.com/<replace with groupname>
 nameserver /failoverstarhub.akamaized.net/<replace with groupname>
 nameserver /scvm1sc0-ssm.anycast.nagra.com/<replace with groupname>
 nameserver /starhubtvplus.com/<replace with groupname>
+# > CatchPlay+
+nameserver /catchplay.com/<replace with groupname>
+nameserver /d2ivmxp5z2ww0n.cloudfront.net/<replace with groupname>
+nameserver /ols-ww100-cp.akamaized.net/<replace with groupname>
+nameserver /tra-www000-cp.akamaized.net/<replace with groupname>
 # > TH:TrueID 
 nameserver /trueid.net/<replace with groupname>
 # > TH:AIS Play

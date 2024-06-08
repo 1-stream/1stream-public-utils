@@ -71,6 +71,10 @@
 # > Youtube
 [/youtube.com/]<DNS>
 [/youtubei.googleapis.com/]<DNS>
+# > Google Search
+[/google.com/]<DNS>
+# > Instagram
+[/instagram.com/]<DNS>
 # > iQiyi
 [/71.am/]<DNS>
 [/iq.com/]<DNS>
@@ -91,6 +95,7 @@
 [/tik-tokapi.com/]<DNS>
 [/tiktokcdn.com/]<DNS>
 [/tiktokv.com/]<DNS>
+
 
 # ---------- > Taiwan Media
 # > KKTV
@@ -776,6 +781,11 @@
 [/failoverstarhub.akamaized.net/]<DNS>
 [/scvm1sc0-ssm.anycast.nagra.com/]<DNS>
 [/starhubtvplus.com/]<DNS>
+# > CatchPlay+
+[/catchplay.com/]<DNS>
+[/d2ivmxp5z2ww0n.cloudfront.net/]<DNS>
+[/ols-ww100-cp.akamaized.net/]<DNS>
+[/tra-www000-cp.akamaized.net/]<DNS>
 # > TH:TrueID 
 [/trueid.net/]<DNS>
 # > TH:AIS Play

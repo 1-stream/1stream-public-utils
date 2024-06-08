@@ -17,10 +17,15 @@ server_name .cognito-identity.us-east-1.amazonaws.com .d1k2us671qcoau.cloudfront
 server_name .steampowered.com;
 # > Youtube
 server_name .youtube.com .youtubei.googleapis.com;
+# > Google Search
+server_name .google.com;
+# > Instagram
+server_name .instagram.com;
 # > iQiyi
 server_name .71.am .iq.com .iqiyi.com .iqiyipic.com .pps.tv .ppsimg.com .qiyi.com .qiyipic.com .qy.net;
 # > Tiktok
 server_name .byteoversea.com .ibytedtos.com .ipstatp.com .muscdn.com .musical.ly .tiktok.com .tik-tokapi.com .tiktokcdn.com .tiktokv.com;
+
 
 # ---------- > Taiwan Media
 # > KKTV
@@ -307,6 +312,8 @@ server_name .bilibili.tv;
 server_name .mewatch.sg;
 # > SG:StarHub
 server_name .starhubgo.com .failoverstarhub.akamaized.net .scvm1sc0-ssm.anycast.nagra.com .starhubtvplus.com;
+# > CatchPlay+
+server_name .catchplay.com .d2ivmxp5z2ww0n.cloudfront.net .ols-ww100-cp.akamaized.net .tra-www000-cp.akamaized.net;
 # > TH:TrueID 
 server_name .trueid.net;
 # > TH:AIS Play

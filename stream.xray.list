@@ -71,6 +71,10 @@
 # > Youtube
 "domain:youtube.com",
 "domain:youtubei.googleapis.com",
+# > Google Search
+"domain:google.com",
+# > Instagram
+"domain:instagram.com",
 # > iQiyi
 "domain:71.am",
 "domain:iq.com",
@@ -91,6 +95,7 @@
 "domain:tik-tokapi.com",
 "domain:tiktokcdn.com",
 "domain:tiktokv.com",
+
 
 # ---------- > Taiwan Media
 # > KKTV
@@ -776,6 +781,11 @@
 "domain:failoverstarhub.akamaized.net",
 "domain:scvm1sc0-ssm.anycast.nagra.com",
 "domain:starhubtvplus.com",
+# > CatchPlay+
+"domain:catchplay.com",
+"domain:d2ivmxp5z2ww0n.cloudfront.net",
+"domain:ols-ww100-cp.akamaized.net",
+"domain:tra-www000-cp.akamaized.net",
 # > TH:TrueID 
 "domain:trueid.net",
 # > TH:AIS Play
