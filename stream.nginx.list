@@ -344,8 +344,8 @@ server_name .openai.com .chatgpt.com .oaistatic.com .oaiusercontent.com;
 server_name .exhentai.org .e-hentai.org;
 # > Claude 2
 server_name .anthropic.com .claude.ai;
-# > Google Bard
-server_name .bard.google.com;
+# > Google Gemini
+server_name .gemini.google.com .proactivebackend-pa.googleapis.com;
 # > Microsoft Copilot For Image Generates
 server_name .copilot.microsoft.com;
 

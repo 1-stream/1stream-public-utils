@@ -826,8 +826,9 @@ nameserver /e-hentai.org/<replace with groupname>
 # > Claude 2
 nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>
-# > Google Bard
-nameserver /bard.google.com/<replace with groupname>
+# > Google Gemini
+nameserver /gemini.google.com/<replace with groupname>
+nameserver /proactivebackend-pa.googleapis.com/<replace with groupname>
 # > Microsoft Copilot For Image Generates
 nameserver /copilot.microsoft.com/<replace with groupname>
 

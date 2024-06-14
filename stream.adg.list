@@ -826,8 +826,9 @@
 # > Claude 2
 [/anthropic.com/]<DNS>
 [/claude.ai/]<DNS>
-# > Google Bard
-[/bard.google.com/]<DNS>
+# > Google Gemini
+[/gemini.google.com/]<DNS>
+[/proactivebackend-pa.googleapis.com/]<DNS>
 # > Microsoft Copilot For Image Generates
 [/copilot.microsoft.com/]<DNS>
 

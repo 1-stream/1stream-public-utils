@@ -826,8 +826,9 @@
 # > Claude 2
 "domain:anthropic.com",
 "domain:claude.ai",
-# > Google Bard
-"domain:bard.google.com",
+# > Google Gemini
+"domain:gemini.google.com",
+"domain:proactivebackend-pa.googleapis.com",
 # > Microsoft Copilot For Image Generates
 "domain:copilot.microsoft.com",
 
