@@ -826,8 +826,9 @@
 # > Claude 2
 ~^(.*|)anthropic\.com$;
 ~^(.*|)claude\.ai$;
-# > Google Bard
-~^(.*|)bard\.google\.com$;
+# > Google Gemini
+~^(.*|)gemini\.google\.com$;
+~^(.*|)proactivebackend-pa\.googleapis\.com$;
 # > Microsoft Copilot For Image Generates
 ~^(.*|)copilot\.microsoft\.com$;
 
