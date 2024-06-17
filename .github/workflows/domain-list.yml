@@ -13,12 +13,20 @@ jobs:
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Install sing-box
+      run: |
+        wget -qO- https://github.com/SagerNet/sing-box/releases/download/v${VER}/sing-box-${VER}-linux-amd64.tar.gz \
+          | tar xvz --strip-components=1 -C /usr/local/bin sing-box-${VER}-linux-amd64/sing-box
+      env:
+        VER: 1.9.3
     - name: Create local changes
       run: |
         cat stream.list | sed 's/~^(.*|)/nameserver \//g' | sed 's/\\././g' | sed 's/$;/\/<replace with groupname>/g'  > stream.smartdns.list
         cat stream.list | sed 's/~^(.*|)/\"domain:/g' | sed 's/\\././g' | sed 's/$;/",/g' > stream.xray.list
         cat stream.list | sed -z 's/$;\r\n~^(\.\*|)/ ./g' |  sed 's/\\././g' | sed 's/~^(.*|)/server_name ./g' | sed 's/\$//g'  > stream.nginx.list
         cat stream.list | sed 's/~^(.*|)/[\//g' | sed 's/\\././g' | sed 's/$;/\/]<DNS>/g'   > stream.adg.list
+        cat stream.list | sed -n '/^~/s/^.//p' | jq -Rs 'split(";\r\n")|{"version":1,"rules":[{"domain_regex":map(select(.!=""))}]}' > /tmp/stream.json
+        sing-box rule-set compile --output stream.sing-box.srs /tmp/stream.json
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
