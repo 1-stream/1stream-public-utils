@@ -531,6 +531,8 @@
 # > F1TV
 ~^(.*|)f1prodlive\.akamaized\.net$;
 ~^(.*|)formula1\.com$;
+# > jtbc
+~^(.*|)jtbc\.co\.kr$;
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -631,6 +633,8 @@
 ~^(.*|)canalplus\.com$;
 # > FR:Molotov
 ~^(.*|)molotov\.tv$;
+# > FR:France.tv
+~^(.*|)ftven\.fr$;
 # > DE:Joyn
 ~^(.*|)joyn\.de$;
 # > DE:Sky
