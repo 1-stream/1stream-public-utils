@@ -531,6 +531,8 @@
 # > F1TV
 "domain:f1prodlive.akamaized.net",
 "domain:formula1.com",
+# > jtbc
+"domain:jtbc.co.kr",
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -631,6 +633,8 @@
 "domain:canalplus.com",
 # > FR:Molotov
 "domain:molotov.tv",
+# > FR:France.tv
+"domain:ftven.fr",
 # > DE:Joyn
 "domain:joyn.de",
 # > DE:Sky

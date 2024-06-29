@@ -531,6 +531,8 @@ nameserver /kocowa.com/<replace with groupname>
 # > F1TV
 nameserver /f1prodlive.akamaized.net/<replace with groupname>
 nameserver /formula1.com/<replace with groupname>
+# > jtbc
+nameserver /jtbc.co.kr/<replace with groupname>
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -631,6 +633,8 @@ nameserver /salto.fr/<replace with groupname>
 nameserver /canalplus.com/<replace with groupname>
 # > FR:Molotov
 nameserver /molotov.tv/<replace with groupname>
+# > FR:France.tv
+nameserver /ftven.fr/<replace with groupname>
 # > DE:Joyn
 nameserver /joyn.de/<replace with groupname>
 # > DE:Sky

@@ -531,6 +531,8 @@
 # > F1TV
 [/f1prodlive.akamaized.net/]<DNS>
 [/formula1.com/]<DNS>
+# > jtbc
+[/jtbc.co.kr/]<DNS>
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -631,6 +633,8 @@
 [/canalplus.com/]<DNS>
 # > FR:Molotov
 [/molotov.tv/]<DNS>
+# > FR:France.tv
+[/ftven.fr/]<DNS>
 # > DE:Joyn
 [/joyn.de/]<DNS>
 # > DE:Sky

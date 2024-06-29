@@ -201,6 +201,8 @@ server_name .kbs.co.kr;
 server_name .kocowa.com;
 # > F1TV
 server_name .f1prodlive.akamaized.net .formula1.com;
+# > jtbc
+server_name .jtbc.co.kr;
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -234,6 +236,8 @@ server_name .salto.fr;
 server_name .canalplus.com;
 # > FR:Molotov
 server_name .molotov.tv;
+# > FR:France.tv
+server_name .ftven.fr;
 # > DE:Joyn
 server_name .joyn.de;
 # > DE:Sky
