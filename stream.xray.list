@@ -531,8 +531,6 @@
 # > F1TV
 "domain:f1prodlive.akamaized.net",
 "domain:formula1.com",
-# > jtbc
-"domain:jtbc.co.kr",
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -743,6 +741,8 @@
 "domain:afreecatv.com",
 # > KBS Domestic
 "domain:kbs.co.kr",
+# > jtbc
+"domain:jtbc.co.kr",
 
 # ---------- > ? media
 # > Setanta Sports
@@ -818,7 +818,7 @@
 "domain:npaw.com",
 "domain:shahid.net",
 
-# ---------- > Others
+# ---------- > AI Platform
 # > Openai
 "domain:openai.com",
 "domain:chatgpt.com",
@@ -833,6 +833,10 @@
 # > Google Gemini
 "domain:gemini.google.com",
 "domain:proactivebackend-pa.googleapis.com",
+# > Google AiStudio
+"domain:aistudio.google.com",
+"domain:alkalimakersuite-pa.clients6.google.com",
+"domain:generativelanguage.googleapis.com",
 # > Microsoft Copilot For Image Generates
 "domain:copilot.microsoft.com",
 

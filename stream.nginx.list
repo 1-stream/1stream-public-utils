@@ -201,8 +201,6 @@ server_name .kbs.co.kr;
 server_name .kocowa.com;
 # > F1TV
 server_name .f1prodlive.akamaized.net .formula1.com;
-# > jtbc
-server_name .jtbc.co.kr;
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -302,6 +300,8 @@ server_name .naver.com .navercorp.com .pstatic.net .smartmediarep.com;
 server_name .afreecatv.com;
 # > KBS Domestic
 server_name .kbs.co.kr;
+# > jtbc
+server_name .jtbc.co.kr;
 
 # ---------- > ? media
 # > Setanta Sports
@@ -341,7 +341,7 @@ server_name .tataplay.com;
 # > UAE:shahid
 server_name .mbc.net .npaw.com .shahid.net;
 
-# ---------- > Others
+# ---------- > AI Platform
 # > Openai
 server_name .openai.com .chatgpt.com .oaistatic.com .oaiusercontent.com;
 # > ExHantai/E-hentai
@@ -350,6 +350,8 @@ server_name .exhentai.org .e-hentai.org;
 server_name .anthropic.com .claude.ai;
 # > Google Gemini
 server_name .gemini.google.com .proactivebackend-pa.googleapis.com;
+# > Google AiStudio
+server_name .aistudio.google.com .alkalimakersuite-pa.clients6.google.com .generativelanguage.googleapis.com;
 # > Microsoft Copilot For Image Generates
 server_name .copilot.microsoft.com;
 

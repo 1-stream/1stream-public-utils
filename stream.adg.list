@@ -531,8 +531,6 @@
 # > F1TV
 [/f1prodlive.akamaized.net/]<DNS>
 [/formula1.com/]<DNS>
-# > jtbc
-[/jtbc.co.kr/]<DNS>
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -743,6 +741,8 @@
 [/afreecatv.com/]<DNS>
 # > KBS Domestic
 [/kbs.co.kr/]<DNS>
+# > jtbc
+[/jtbc.co.kr/]<DNS>
 
 # ---------- > ? media
 # > Setanta Sports
@@ -818,7 +818,7 @@
 [/npaw.com/]<DNS>
 [/shahid.net/]<DNS>
 
-# ---------- > Others
+# ---------- > AI Platform
 # > Openai
 [/openai.com/]<DNS>
 [/chatgpt.com/]<DNS>
@@ -833,6 +833,10 @@
 # > Google Gemini
 [/gemini.google.com/]<DNS>
 [/proactivebackend-pa.googleapis.com/]<DNS>
+# > Google AiStudio
+[/aistudio.google.com/]<DNS>
+[/alkalimakersuite-pa.clients6.google.com/]<DNS>
+[/generativelanguage.googleapis.com/]<DNS>
 # > Microsoft Copilot For Image Generates
 [/copilot.microsoft.com/]<DNS>
 

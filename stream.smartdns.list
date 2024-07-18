@@ -531,8 +531,6 @@ nameserver /kocowa.com/<replace with groupname>
 # > F1TV
 nameserver /f1prodlive.akamaized.net/<replace with groupname>
 nameserver /formula1.com/<replace with groupname>
-# > jtbc
-nameserver /jtbc.co.kr/<replace with groupname>
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -743,6 +741,8 @@ nameserver /smartmediarep.com/<replace with groupname>
 nameserver /afreecatv.com/<replace with groupname>
 # > KBS Domestic
 nameserver /kbs.co.kr/<replace with groupname>
+# > jtbc
+nameserver /jtbc.co.kr/<replace with groupname>
 
 # ---------- > ? media
 # > Setanta Sports
@@ -818,7 +818,7 @@ nameserver /mbc.net/<replace with groupname>
 nameserver /npaw.com/<replace with groupname>
 nameserver /shahid.net/<replace with groupname>
 
-# ---------- > Others
+# ---------- > AI Platform
 # > Openai
 nameserver /openai.com/<replace with groupname>
 nameserver /chatgpt.com/<replace with groupname>
@@ -833,6 +833,10 @@ nameserver /claude.ai/<replace with groupname>
 # > Google Gemini
 nameserver /gemini.google.com/<replace with groupname>
 nameserver /proactivebackend-pa.googleapis.com/<replace with groupname>
+# > Google AiStudio
+nameserver /aistudio.google.com/<replace with groupname>
+nameserver /alkalimakersuite-pa.clients6.google.com/<replace with groupname>
+nameserver /generativelanguage.googleapis.com/<replace with groupname>
 # > Microsoft Copilot For Image Generates
 nameserver /copilot.microsoft.com/<replace with groupname>
 
