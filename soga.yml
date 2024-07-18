@@ -525,5 +525,10 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     # > Claude 2
     - domain:anthropic.com
     - domain:claude.ai
-    # > Google Bard
-    - domain:bard.google.com
+    # > Google Gemini
+    - domain:gemini.google.com
+    - domain:proactivebackend-pa.googleapis.com
+    # > Google AiStudio
+    - domain:aistudio.google.com
+    - domain:alkalimakersuite-pa.clients6.google.com
+    - domain:generativelanguage.googleapis.com
