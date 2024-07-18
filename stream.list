@@ -531,8 +531,6 @@
 # > F1TV
 ~^(.*|)f1prodlive\.akamaized\.net$;
 ~^(.*|)formula1\.com$;
-# > jtbc
-~^(.*|)jtbc\.co\.kr$;
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
@@ -743,6 +741,8 @@
 ~^(.*|)afreecatv\.com$;
 # > KBS Domestic
 ~^(.*|)kbs\.co\.kr$;
+# > jtbc
+~^(.*|)jtbc\.co\.kr$;
 
 # ---------- > ? media
 # > Setanta Sports
@@ -818,7 +818,7 @@
 ~^(.*|)npaw\.com$;
 ~^(.*|)shahid\.net$;
 
-# ---------- > Others
+# ---------- > AI Platform
 # > Openai
 ~^(.*|)openai\.com$;
 ~^(.*|)chatgpt\.com$;
@@ -833,6 +833,10 @@
 # > Google Gemini
 ~^(.*|)gemini\.google\.com$;
 ~^(.*|)proactivebackend-pa\.googleapis\.com$;
+# > Google AiStudio
+~^(.*|)aistudio\.google\.com$;
+~^(.*|)alkalimakersuite-pa\.clients6\.google\.com$;
+~^(.*|)generativelanguage\.googleapis\.com$;
 # > Microsoft Copilot For Image Generates
 ~^(.*|)copilot\.microsoft\.com$;
 
