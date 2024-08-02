@@ -56,14 +56,14 @@ server_name .cbc.ca .cbchd1dynamicads-i.akamaihd.net .cbclivedai5-i.akamaihd.net
 server_name .crave.ca .go-mpulse.net .9c9media.com;
 
 # ---------- > Japan Media
+# > NHK+
+server_name .nhk.jp;
 # > DMM
 server_name .dmm-extension.com .dmm.co.jp .dmm.com .videomarket.jp .p-smith.com .vmdash-cenc.akamaized.net .img.vm-movie.jp;
 # > Abema
 server_name .abema.io .abema.tv .ds-linear-abematv.akamaized.net .linear-abematv.akamaized.net .ds-vod-abematv.akamaized.net .vod-abematv.akamaized.net .ameba.jp .hayabusa.io .vod-abematv.akamaized.net .bucketeer.jp .abema.adx.promo .hayabusa.media .abema-tv.com;
 # > NicoNico
 server_name .dmc.nico .nicovideo.jp .nimg.jp;
-# > Music.jp
-server_name .music.jp .music-book.jp;
 # > Telasa
 server_name .telasa.jp .kddi-video.com .videopass.jp .d2lmsumy47c8as.cloudfront.net;
 # > Paravi
@@ -81,6 +81,8 @@ server_name .gyao.yahoo.co.jp;
 server_name .wowow.co.jp;
 # > Videomarket
 server_name .videomarket.jp;
+# > D Anime Store
+server_name .animestore.docomo.ne.jp;
 # > Fuji TV
 server_name .fujitv.co.jp .stream.ne.jp;
 # > Radiko
@@ -89,8 +91,18 @@ server_name .radiko.jp .radionikkei.jp .smartstream.ne.jp;
 server_name .clubdam.com;
 # > J:com On Demand
 server_name .id.zaq.ne.jp;
+# > AnimeFesta
+server_name .api-animefesta.iowl.jp;
+# > Lemino
+server_name .if.lemino.docomo.ne.jp;
+# > Rakuten TV JP
+server_name .rakuten.co.jp;
 # > Games
 server_name .cygames.jp .konosubafd.jp .colorfulpalette.org .worldflipper.jp .jujutsuphanpara.jp;
+# > Mora
+server_name .mora.jp;
+# > Music.jp
+server_name .music.jp .music-book.jp;
 # > Reads 
 server_name .data-cloudauthoring.magazine.rakuten.co.jp;
 

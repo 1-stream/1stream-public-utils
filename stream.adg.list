@@ -173,6 +173,8 @@
 [/9c9media.com/]<DNS>
 
 # ---------- > Japan Media
+# > NHK+
+[/nhk.jp/]<DNS>
 # > DMM
 [/dmm-extension.com/]<DNS>
 [/dmm.co.jp/]<DNS>
@@ -199,9 +201,6 @@
 [/dmc.nico/]<DNS>
 [/nicovideo.jp/]<DNS>
 [/nimg.jp/]<DNS>
-# > Music.jp
-[/music.jp/]<DNS>
-[/music-book.jp/]<DNS>
 # > Telasa
 [/telasa.jp/]<DNS>
 [/kddi-video.com/]<DNS>
@@ -233,6 +232,8 @@
 [/wowow.co.jp/]<DNS>
 # > Videomarket
 [/videomarket.jp/]<DNS>
+# > D Anime Store
+[/animestore.docomo.ne.jp/]<DNS>
 # > Fuji TV
 [/fujitv.co.jp/]<DNS>
 [/stream.ne.jp/]<DNS>
@@ -244,12 +245,23 @@
 [/clubdam.com/]<DNS>
 # > J:com On Demand
 [/id.zaq.ne.jp/]<DNS>
+# > AnimeFesta
+[/api-animefesta.iowl.jp/]<DNS>
+# > Lemino
+[/if.lemino.docomo.ne.jp/]<DNS>
+# > Rakuten TV JP
+[/rakuten.co.jp/]<DNS>
 # > Games
 [/cygames.jp/]<DNS>
 [/konosubafd.jp/]<DNS>
 [/colorfulpalette.org/]<DNS>
 [/worldflipper.jp/]<DNS>
 [/jujutsuphanpara.jp/]<DNS>
+# > Mora
+[/mora.jp/]<DNS>
+# > Music.jp
+[/music.jp/]<DNS>
+[/music-book.jp/]<DNS>
 # > Reads 
 [/data-cloudauthoring.magazine.rakuten.co.jp/]<DNS>
 

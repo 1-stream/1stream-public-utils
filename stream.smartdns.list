@@ -173,6 +173,8 @@ nameserver /go-mpulse.net/<replace with groupname>
 nameserver /9c9media.com/<replace with groupname>
 
 # ---------- > Japan Media
+# > NHK+
+nameserver /nhk.jp/<replace with groupname>
 # > DMM
 nameserver /dmm-extension.com/<replace with groupname>
 nameserver /dmm.co.jp/<replace with groupname>
@@ -199,9 +201,6 @@ nameserver /abema-tv.com/<replace with groupname>
 nameserver /dmc.nico/<replace with groupname>
 nameserver /nicovideo.jp/<replace with groupname>
 nameserver /nimg.jp/<replace with groupname>
-# > Music.jp
-nameserver /music.jp/<replace with groupname>
-nameserver /music-book.jp/<replace with groupname>
 # > Telasa
 nameserver /telasa.jp/<replace with groupname>
 nameserver /kddi-video.com/<replace with groupname>
@@ -233,6 +232,8 @@ nameserver /gyao.yahoo.co.jp/<replace with groupname>
 nameserver /wowow.co.jp/<replace with groupname>
 # > Videomarket
 nameserver /videomarket.jp/<replace with groupname>
+# > D Anime Store
+nameserver /animestore.docomo.ne.jp/<replace with groupname>
 # > Fuji TV
 nameserver /fujitv.co.jp/<replace with groupname>
 nameserver /stream.ne.jp/<replace with groupname>
@@ -244,12 +245,23 @@ nameserver /smartstream.ne.jp/<replace with groupname>
 nameserver /clubdam.com/<replace with groupname>
 # > J:com On Demand
 nameserver /id.zaq.ne.jp/<replace with groupname>
+# > AnimeFesta
+nameserver /api-animefesta.iowl.jp/<replace with groupname>
+# > Lemino
+nameserver /if.lemino.docomo.ne.jp/<replace with groupname>
+# > Rakuten TV JP
+nameserver /rakuten.co.jp/<replace with groupname>
 # > Games
 nameserver /cygames.jp/<replace with groupname>
 nameserver /konosubafd.jp/<replace with groupname>
 nameserver /colorfulpalette.org/<replace with groupname>
 nameserver /worldflipper.jp/<replace with groupname>
 nameserver /jujutsuphanpara.jp/<replace with groupname>
+# > Mora
+nameserver /mora.jp/<replace with groupname>
+# > Music.jp
+nameserver /music.jp/<replace with groupname>
+nameserver /music-book.jp/<replace with groupname>
 # > Reads 
 nameserver /data-cloudauthoring.magazine.rakuten.co.jp/<replace with groupname>
 

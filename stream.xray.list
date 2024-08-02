@@ -173,6 +173,8 @@
 "domain:9c9media.com",
 
 # ---------- > Japan Media
+# > NHK+
+"domain:nhk.jp",
 # > DMM
 "domain:dmm-extension.com",
 "domain:dmm.co.jp",
@@ -199,9 +201,6 @@
 "domain:dmc.nico",
 "domain:nicovideo.jp",
 "domain:nimg.jp",
-# > Music.jp
-"domain:music.jp",
-"domain:music-book.jp",
 # > Telasa
 "domain:telasa.jp",
 "domain:kddi-video.com",
@@ -233,6 +232,8 @@
 "domain:wowow.co.jp",
 # > Videomarket
 "domain:videomarket.jp",
+# > D Anime Store
+"domain:animestore.docomo.ne.jp",
 # > Fuji TV
 "domain:fujitv.co.jp",
 "domain:stream.ne.jp",
@@ -244,12 +245,23 @@
 "domain:clubdam.com",
 # > J:com On Demand
 "domain:id.zaq.ne.jp",
+# > AnimeFesta
+"domain:api-animefesta.iowl.jp",
+# > Lemino
+"domain:if.lemino.docomo.ne.jp",
+# > Rakuten TV JP
+"domain:rakuten.co.jp",
 # > Games
 "domain:cygames.jp",
 "domain:konosubafd.jp",
 "domain:colorfulpalette.org",
 "domain:worldflipper.jp",
 "domain:jujutsuphanpara.jp",
+# > Mora
+"domain:mora.jp",
+# > Music.jp
+"domain:music.jp",
+"domain:music-book.jp",
 # > Reads 
 "domain:data-cloudauthoring.magazine.rakuten.co.jp",
 
