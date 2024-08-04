@@ -19,7 +19,7 @@ jobs:
         cat stream.list | sed 's/~^(.*|)/\"domain:/g' | sed 's/\\././g' | sed 's/$;/",/g' > stream.xray.list
         cat stream.list | sed -z 's/$;\r\n~^(\.\*|)/ ./g' |  sed 's/\\././g' | sed 's/~^(.*|)/server_name ./g' | sed 's/\$//g'  > stream.nginx.list
         cat stream.list | sed 's/~^(.*|)/[\//g' | sed 's/\\././g' | sed 's/$;/\/]<DNS>/g'   > stream.adg.list
-        cat stream.list | sed 's/~^(.*|)//g' | sed 's/\\.//g' | sed 's/$;//g'   > stream.text.list
+        cat stream.list | sed 's/~^(.*|)//g' | sed 's/\\././g' | sed 's/$;//g'   > stream.text.list
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
