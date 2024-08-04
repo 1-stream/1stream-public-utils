@@ -1,905 +1,905 @@
 # ---------- > Global Plaform
 # > DAZN
-dazn-apicom
-dazncom
-dazndncom
-indazncom
-d151l6v8er5bdmcloudfrontnet
-d1sgwhnao7452xcloudfrontnet
-dcalivedaznakamaizednet
-dcblivedaznakamaizednet
+dazn-api.com
+dazn.com
+dazndn.com
+indazn.com
+d151l6v8er5bdm.cloudfront.net
+d1sgwhnao7452x.cloudfront.net
+dcalivedazn.akamaized.net
+dcblivedazn.akamaized.net
 # > Hotstar
-hotstarcom
-hotstarextcom
+hotstar.com
+hotstarext.com
 # > Disney+
-disneyconnectionsedgebamgridcom
-disneyapiedgebamgridcom
-disney-plusnet
-disneypluscom
-dssottcom
-disneynowcom
-disneystreamingcom
-cdnregisterdisneygocom
+disney.connections.edge.bamgrid.com
+disney.api.edge.bamgrid.com
+disney-plus.net
+disneyplus.com
+dssott.com
+disneynow.com
+disneystreaming.com
+cdn.registerdisney.go.com
 # > Netflix
-netflixcom
-netflixnet
-nflximgcom
-nflximgnet
-nflxvideonet
-nflxextcom
-nflxsonet
+netflix.com
+netflix.net
+nflximg.com
+nflximg.net
+nflxvideo.net
+nflxext.com
+nflxso.net
 # > Amazon Prime Video:
-d1v5ir2lpwr8oscloudfrontnet
-d22qjgkvxw22r6cloudfrontnet
-d25xi40x97liuccloudfrontnet
-d27xxe7juh1us6cloudfrontnet
-dmqdd6hw24ucfcloudfrontnet
-aiv-cdnnet
-aiv-deliverynet
-amazonvideocom
-atv-ext-euamazoncom
-atv-ext-feamazoncom
-atv-extamazoncom
-atv-ps-euamazoncouk
-atv-ps-euamazoncom
-atv-ps-feamazoncojp
-atv-ps-feamazoncom
-atv-psamazoncom
-primevideocom
-pv-cdnnet
-videoa2zcom
+d1v5ir2lpwr8os.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+aiv-cdn.net
+aiv-delivery.net
+amazonvideo.com
+atv-ext-eu.amazon.com
+atv-ext-fe.amazon.com
+atv-ext.amazon.com
+atv-ps-eu.amazon.co.uk
+atv-ps-eu.amazon.com
+atv-ps-fe.amazon.co.jp
+atv-ps-fe.amazon.com
+atv-ps.amazon.com
+primevideo.com
+pv-cdn.net
+video.a2z.com
 # > TVBAnywhere+
-tvbanywherecom
-tvbanywherecomsg
-tvbcom
-tvbcomau
-tvbccomcn
-tvbeventpowercom.hk
-tvbusacom
-tvbweeklycom
-tvmedianetau
+tvbanywhere.com
+tvbanywhere.com.sg
+tvb.com
+tvb.com.au
+tvbc.com.cn
+tvbeventpower.com.hk
+tvbusa.com
+tvbweekly.com
+tvmedia.net.au
 # > Viu.com
-cognito-identityus-east-1amazonawscom
-d1k2us671qcoaucloudfrontnet
-d2anahhhmp1ffzcloudfrontnet
-dfp6rglgjqszkcloudfrontnet
-d3o7oi00quuwqucloudfrontnet
-mobileanalyticsus-east-1amazonawscom
-viucom
+cognito-identity.us-east-1.amazonaws.com
+d1k2us671qcoau.cloudfront.net
+d2anahhhmp1ffz.cloudfront.net
+dfp6rglgjqszk.cloudfront.net
+d3o7oi00quuwqu.cloudfront.net
+mobileanalytics.us-east-1.amazonaws.com
+viu.com
 # > Steam Store
-steampoweredcom
+steampowered.com
 # > Youtube
-youtubecom
-youtubeigoogleapiscom
+youtube.com
+youtubei.googleapis.com
 # > Google Search
-googlecom
+google.com
 # > Instagram
-instagramcom
+instagram.com
 # > iQiyi
-71am
-iqcom
-iqiyicom
-iqiyipiccom
-ppstv
-ppsimgcom
-qiyicom
-qiyipiccom
-qynet
+71.am
+iq.com
+iqiyi.com
+iqiyipic.com
+pps.tv
+ppsimg.com
+qiyi.com
+qiyipic.com
+qy.net
 # > Tiktok
-byteoverseacom
-ibytedtoscom
-ipstatpcom
-muscdncom
-musically
-tiktokcom
-tik-tokapicom
-tiktokcdncom
-tiktokvcom
+byteoversea.com
+ibytedtos.com
+ipstatp.com
+muscdn.com
+musical.ly
+tiktok.com
+tik-tokapi.com
+tiktokcdn.com
+tiktokv.com
 
 
 # ---------- > Taiwan Media
 # > KKTV
-kfsio
-kktv-theaterkkstream
-kkboxcom
-kkboxcomtw
-kktvcomtw
-kktvme
+kfs.io
+kktv-theater.kk.stream
+kkbox.com
+kkbox.com.tw
+kktv.com.tw
+kktv.me
 # > LiTV
-litvtv
-litvfreemobile-hichannelcdnhinetnet
+litv.tv
+litvfreemobile-hichannel.cdn.hinet.net
 # > MyVideo
-cdnplyrio
-myvideonettw
+cdn.plyr.io
+myvideo.net.tw
 # > 4GTV
-4gtvtv
-4gtvfreepc-cdscdnhinetnet
-4gtvfreepcvod-cdscdnhinetnet
-4gtvpc-cdscdnhinetnet
-4gtvpcvod-cdscdnhinetnet
+4gtv.tv
+4gtvfreepc-cds.cdn.hinet.net
+4gtvfreepcvod-cds.cdn.hinet.net
+4gtvpc-cds.cdn.hinet.net
+4gtvpcvod-cds.cdn.hinet.net
 # > LineTV.TW
-d3c7rimkq79yfucloudfrontnet
-linetvtw
+d3c7rimkq79yfu.cloudfront.net
+linetv.tw
 # > Hami Video
-cdnhinetnet
-hamivideohinetnet
-sccotthinetnet
+cdn.hinet.net
+hamivideo.hinet.net
+scc.ott.hinet.net
 # > CatchPlay+
-catchplaycom
-d2ivmxp5z2ww0ncloudfrontnet
-ols-ww100-cpakamaizednet
-tra-www000-cpakamaizednet
+catchplay.com
+d2ivmxp5z2ww0n.cloudfront.net
+ols-ww100-cp.akamaized.net
+tra-www000-cp.akamaized.net
 # > HBO GO Asia
-44wilhpljfexecute-apiap-southeast-1amazonawscom
-bcbolthboa-aakamaihdnet
-dai3fd1oh325ycloudfrontnet
-hboasia1-iakamaihdnet
-hboasia2-iakamaihdnet
-hboasia3-iakamaihdnet
-hboasia4-iakamaihdnet
-hboasia5-iakamaihdnet
-hboasialiveakamaizednet
-hbogoprod-vodakamaizednet
-hbolbonwardsmgcom
-hbounify-prodevergentcom
-hbogocoth
-hbogoasiacom
-hbogoasiahk
-hbogoasiaid
-hbogoasiaph
-hbogoasiasg
-hbogoasiatw
+44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+bcbolthboa-a.akamaihd.net
+dai3fd1oh325y.cloudfront.net
+hboasia1-i.akamaihd.net
+hboasia2-i.akamaihd.net
+hboasia3-i.akamaihd.net
+hboasia4-i.akamaihd.net
+hboasia5-i.akamaihd.net
+hboasialive.akamaized.net
+hbogoprod-vod.akamaized.net
+hbolb.onwardsmg.com
+hbounify-prod.evergent.com
+hbogo.co.th
+hbogoasia.com
+hbogoasia.hk
+hbogoasia.id
+hbogoasia.ph
+hbogoasia.sg
+hbogoasia.tw
 # > Bahamut Anime
-bahamutcomtw
-gamercomtw
-gamer-cdscdnhinetnet
-gamer2-cdscdnhinetnet
+bahamut.com.tw
+gamer.com.tw
+gamer-cds.cdn.hinet.net
+gamer2-cds.cdn.hinet.net
 # > BiliBili
-bilibilicom
+bilibili.com
 
 # ---------- > Canada Media
 # > CBC Gem
-cbcca
-cbchd1dynamicads-iakamaihdnet
-cbclivedai5-iakamaihdnet
-cbcnewshd-fakamaihdnet
-cbcrcott-gem-keyakamaizednet
-cbcrcott-gemakamaizednet
-go-mpulsenet
-theplatformcom
+cbc.ca
+cbchd1dynamicads-i.akamaihd.net
+cbclivedai5-i.akamaihd.net
+cbcnewshd-f.akamaihd.net
+cbcrcott-gem-key.akamaized.net
+cbcrcott-gem.akamaized.net
+go-mpulse.net
+theplatform.com
 # > Crave TV
-craveca
-go-mpulsenet
-9c9mediacom
+crave.ca
+go-mpulse.net
+9c9media.com
 
 # ---------- > Japan Media
 # > NHK+
-nhkjp
+nhk.jp
 # > DMM
-dmm-extensioncom
-dmmcojp
-dmmcom
-videomarketjp
-p-smithcom
-vmdash-cencakamaizednet
-imgvm-moviejp
+dmm-extension.com
+dmm.co.jp
+dmm.com
+videomarket.jp
+p-smith.com
+vmdash-cenc.akamaized.net
+img.vm-movie.jp
 # > Abema
-abemaio
-abematv
-ds-linear-abematvakamaizednet
-linear-abematvakamaizednet
-ds-vod-abematvakamaizednet
-vod-abematvakamaizednet
-amebajp
-hayabusaio
-vod-abematvakamaizednet
-bucketeerjp
-abemaadxpromo
-hayabusamedia
-abema-tvcom
+abema.io
+abema.tv
+ds-linear-abematv.akamaized.net
+linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
+vod-abematv.akamaized.net
+ameba.jp
+hayabusa.io
+vod-abematv.akamaized.net
+bucketeer.jp
+abema.adx.promo
+hayabusa.media
+abema-tv.com
 # > NicoNico
-dmcnico
-nicovideojp
-nimgjp
+dmc.nico
+nicovideo.jp
+nimg.jp
 # > Telasa
-telasajp
-kddi-videocom
-videopassjp
-d2lmsumy47c8ascloudfrontnet
+telasa.jp
+kddi-video.com
+videopass.jp
+d2lmsumy47c8as.cloudfront.net
 # > Paravi
-paravijp
+paravi.jp
 # > U-NEXT
-unextjp
-nxtvjp
+unext.jp
+nxtv.jp
 # > Hulu Japan
-happyonjp
-hulujp
-prodhjholdingstv
-streaksjp
-ybuncnjp
-hjholdingsjp
+happyon.jp
+hulu.jp
+prod.hjholdings.tv
+streaks.jp
+yb.uncn.jp
+hjholdings.jp
 # > TVer
-tverjp
-edgeapibrightcovecom
-# playersbrightcovenet
-gorinjp
-screens-labjp
-tvercojp
-dogatchjp
+tver.jp
+edge.api.brightcove.com
+# players.brightcove.net
+gorin.jp
+screens-lab.jp
+tver.co.jp
+dogatch.jp
 # > GYAO!
-gyaoyahoocojp
+gyao.yahoo.co.jp
 # > WOWOW
-wowowcojp
+wowow.co.jp
 # > Videomarket
-videomarketjp
+videomarket.jp
 # > D Anime Store
-animestoredocomonejp
+animestore.docomo.ne.jp
 # > Fuji TV
-fujitvcojp
-streamnejp
+fujitv.co.jp
+stream.ne.jp
 # > Radiko
-radikojp
-radionikkeijp
-smartstreamnejp
+radiko.jp
+radionikkei.jp
+smartstream.ne.jp
 # > Karaoke@DAM
-clubdamcom
+clubdam.com
 # > J:com On Demand
-idzaqnejp
+id.zaq.ne.jp
 # > AnimeFesta
-api-animefestaiowljp
+api-animefesta.iowl.jp
 # > Lemino
-ifleminodocomonejp
+if.lemino.docomo.ne.jp
 # > Rakuten TV JP
-rakutencojp
+rakuten.co.jp
 # > Games
-cygamesjp
-konosubafdjp
-colorfulpaletteorg
-worldflipperjp
-jujutsuphanparajp
+cygames.jp
+konosubafd.jp
+colorfulpalette.org
+worldflipper.jp
+jujutsuphanpara.jp
 # > Mora
-morajp
+mora.jp
 # > Music.jp
-musicjp
-music-bookjp
+music.jp
+music-book.jp
 # > Reads 
-data-cloudauthoringmagazinerakutencojp
+data-cloudauthoring.magazine.rakuten.co.jp
 
 # ---------- > Oceania Media
 # > NBA TV !Against US!
-nbacom
-neulion-aakamaihdnet
-nlnbamdnyc-aakamaihdnet
-sdk.iad-03brazecom
-nbapropscomtrdcnet
-nlnbaqosneulioncom
-watchnbacdnfastlyendeavorstreamingnet
-nbaapineulioncom
-nba-api-cdnopinmedia
-neulionqos-aakamaihdnet
-neulioncom
-nbapropttomtrdcnet
-lion-nba-mslakamaizednet
-nbanlds19vodakamaizednet
+nba.com
+neulion-a.akamaihd.net
+nlnbamdnyc-a.akamaihd.net
+sdk.iad-03.braze.com
+nbaprop.sc.omtrdc.net
+nlnbaqos.neulion.com
+watchnba.cdnfastly.endeavorstreaming.net
+nbaapi.neulion.com
+nba-api-cdn.opin.media
+neulionqos-a.akamaihd.net
+neulion.com
+nbaprop.tt.omtrdc.net
+lion-nba-msl.akamaized.net
+nbanlds19vod.akamaized.net
 # > Acorn TV !Against US!
-edgeapibrightcovecom
-apirljenet
-boltdnsnet
-acorntv
+edge.api.brightcove.com
+api.rlje.net
+boltdns.net
+acorn.tv
 # > SHOWTIME !Against US!
-shocom
-showtimecom
-showtimeanytimecom
+sho.com
+showtime.com
+showtimeanytime.com
 # > BritBox !Against US/EU!
-vod-dash-ntham-comm-liveakamaizednet
-vod-dash-ntham-commlivecfmdbbcicouk
-vod-hls-ntham-comm-liveakamaizednet
-vod-hls-ntham-commlivecfmdbbcicouk
-britboxcom
-d2z3p34itxwaj7cloudfrontnet
+vod-dash-ntham-comm-live.akamaized.net
+vod-dash-ntham-comm.live.cf.md.bbci.co.uk
+vod-hls-ntham-comm-live.akamaized.net
+vod-hls-ntham-comm.live.cf.md.bbci.co.uk
+britbox.com
+d2z3p34itxwaj7.cloudfront.net
 # > Funimation !Against US/EU!
-funimationcom
-funimationsvccom
+funimation.com
+funimationsvc.com
 # > Paramount+ !Against US!
-paramountpluscom
-cbsiliveottirdetocom
-cbsplaylistserverawssyncbakcom
-cbsserviceawssyncbakcom
-linktheplatformcom
-cbsaavideocom
-cbsicom
-cbsivideocom
-pplusstaticcom
+paramountplus.com
+cbsi.live.ott.irdeto.com
+cbsplaylistserver.aws.syncbak.com
+cbsservice.aws.syncbak.com
+link.theplatform.com
+cbsaavideo.com
+cbsi.com
+cbsivideo.com
+pplusstatic.com
 # > AU:Stan
-stancomau
-stanvideo
-streamcoimg-aakamaihdnet
-live01-stanakamaizednet
-live02-stanakamaizednet
+stan.com.au
+stan.video
+streamcoimg-a.akamaihd.net
+live01-stan.akamaized.net
+live02-stan.akamaized.net
 # > AU:Binge/Kayo Sports
-streamotioncomau
+streamotion.com.au
 # > AU:Docplay
-docplaycom
-0c86e2d1-madman-com-auakamaizednet
-ff1be285-madman-com-auakamaizednet
-5a929471-madman-com-auakamaizednet
-879ed873-madman-com-auakamaizednet
+docplay.com
+0c86e2d1-madman-com-au.akamaized.net
+ff1be285-madman-com-au.akamaized.net
+5a929471-madman-com-au.akamaized.net
+879ed873-madman-com-au.akamaized.net
 # > AU:7plus
-7pluscomau
-npc-live-sevennetworkakamaizednet
-7plus-sevennetworkakamaizednet
-sevendemdexnet
-cdn7livecloudio
+7plus.com.au
+npc-live-sevennetwork.akamaized.net
+7plus-sevennetwork.akamaized.net
+seven.demdex.net
+cdn.7livecloud.io
 # > AU:9 now
-ninecomau
-9nowcomau
-edgeapibrightcovecom
-p-9nowakamaizednet
-9now-livestreamsakamaizednet
-9cdnnet
-9nationcomau
-9newscomau
-9nowcomau
-freeviewplusnetau
-mi9comau
-mi9cdncom
-ninecomau
-nineentertainmentcomau
-nineentertainmentcocomau
-ninemediaroomcomau
-ninemsncomau
-static9netau
-yourtvcomau
+nine.com.au
+9now.com.au
+edge.api.brightcove.com
+p-9now.akamaized.net
+9now-livestreams.akamaized.net
+9cdn.net
+9nation.com.au
+9news.com.au
+9now.com.au
+freeviewplus.net.au
+mi9.com.au
+mi9cdn.com
+nine.com.au
+nineentertainment.com.au
+nineentertainmentco.com.au
+ninemediaroom.com.au
+ninemsn.com.au
+static9.net.au
+yourtv.com.au
 # > AU:10 play
-10playcomau
-globalsslfastlynet
-airspace-cdncbsviedocom
-net10-livestream-keysplaycbsivideo
-net10-livestreamplaycbsivideo
-d25m2gzplgnf0cloudfrontnet
+10play.com.au
+global.ssl.fastly.net
+airspace-cdn.cbsviedo.com
+net10-livestream-keys.play.cbsi.video
+net10-livestream.play.cbsi.video
+d25m2gzplgnf0.cloudfront.net
 # > AU:ABC iView
-iviewabcnetau
-abc-iview-mediapackagestreams-2akamaizednet
+iview.abc.net.au
+abc-iview-mediapackagestreams-2.akamaized.net
 # > AU:Optus
-optuscomau
-optusdigitalcom
-optusnetcomau
-optussporttv
-optusvideotv
-tls1yospacecom
-bln1yospacecom
-d3rj5p7u4c4icqcloudfrontnet
-mgd0ee5iankkv3gidl14rm7c0litixio
-93e30b04-drm-widevine-licensingaxprodnet
+optus.com.au
+optusdigital.com
+optusnet.com.au
+optussport.tv
+optusvideo.tv
+tls1.yospace.com
+bln1.yospace.com
+d3rj5p7u4c4icq.cloudfront.net
+mgd0ee5iankkv3gidl14rm7c0.litix.io
+93e30b04-drm-widevine-licensing.axprod.net
 # > AU:SBS on Demand
-sbsodcom
-sbscomau
-videocdn-sbsakamaizednet
-sbsvoddai-vhakamaihdnet
-sbsvodns-vhakamaihdnet
-sbs-live-daiakamaizednet
-sbs-liveakamaizednet
-sbs-live-daiakamaizednet
+sbsod.com
+sbs.com.au
+videocdn-sbs.akamaized.net
+sbsvoddai-vh.akamaihd.net
+sbsvodns-vh.akamaihd.net
+sbs-live-dai.akamaized.net
+sbs-live.akamaized.net
+sbs-live-dai.akamaized.net
 # > NZ:Neon TV
-neontvconz
+neontv.co.nz
 # > NZ:SkyGO NZ
-skyconz
-prod-skyoneliveakamaizednet
-skysportnowconz
-imggamingcom
-pndsncom
+sky.co.nz
+prod-skyonelive.akamaized.net
+skysportnow.co.nz
+imggaming.com
+pndsn.com
 # > NZ:ThreeNow
-fullscreennz
+fullscreen.nz
 # > NZ:Maori TV
 #
 
 # ---------- > North America Media
 # > FOX
-x-live-fox-stgecuplynkcom
-foxcom
-foxdcgcom
-theplatformcom
-cdn-fox-networks-group-greenakamaizednet
-d3cv4a9a9wh0btcloudfrontnet
-foxsports01-iakamaihdnet
-foxsports02-iakamaihdnet
-foxsports03-iakamaihdnet
+x-live-fox-stgec.uplynk.com
+fox.com
+foxdcg.com
+theplatform.com
+cdn-fox-networks-group-green.akamaized.net
+d3cv4a9a9wh0bt.cloudfront.net
+foxsports01-i.akamaihd.net
+foxsports02-i.akamaihd.net
+foxsports03-i.akamaihd.net
 # > HuluUSA
-assetshuluimcom-aakamaihdnet
-cws-huluconvivacom
-hulucom
-huluhbomtrdcnet
-huluscomtrdcnet
-huluadcom
-huluqacom
-hulustreamcom
+assetshuluimcom-a.akamaihd.net
+cws-hulu.conviva.com
+hulu.com
+hulu.hb.omtrdc.net
+hulu.sc.omtrdc.net
+huluad.com
+huluqa.com
+hulustream.com
 # > NFL
-nflcom
+nfl.com
 # > ESPN+
-espnapiedgebamgridcom
-espnhbomtrdcnet
-espndotcomttomtrdcnet
-dtcico
-dtcitechnology
-espncouk
-espncom
-espnnet
-espncdncom
-espnqacom
-watchespncom
+espn.api.edge.bamgrid.com
+espn.hb.omtrdc.net
+espndotcom.tt.omtrdc.net
+dtci.co
+dtci.technology
+espn.co.uk
+espn.com
+espn.net
+espncdn.com
+espnqa.com
+watchespn.com
 # > Epix
-epixcom
+epix.com
 # > Starz
-starzcom
+starz.com
 # > Philo
-philocom
+philo.com
 # > FXNOW
-fxnowfxnetworkscom
+fxnow.fxnetworks.com
 # > TLC GO
-geolocationonetrustcom
+geolocation.onetrust.com
 # > HBO / Max
-maxcom
-hbocom
-hbogocom
-hbomaxcom
-hbomaxcdncom
-hbonowcom
-maxgocom
+max.com
+hbo.com
+hbogo.com
+hbomax.com
+hbomaxcdn.com
+hbonow.com
+maxgo.com
 # > Shudder
-shuddercom
+shudder.com
 # > BritBox !Against AU/EU!
-vod-dash-ntham-comm-liveakamaizednet
-vod-dash-ntham-commlivecfmdbbcicouk
-vod-hls-ntham-comm-liveakamaizednet
-vod-hls-ntham-commlivecfmdbbcicouk
-britboxcom
-d2z3p34itxwaj7cloudfrontnet
+vod-dash-ntham-comm-live.akamaized.net
+vod-dash-ntham-comm.live.cf.md.bbci.co.uk
+vod-hls-ntham-comm-live.akamaized.net
+vod-hls-ntham-comm.live.cf.md.bbci.co.uk
+britbox.com
+d2z3p34itxwaj7.cloudfront.net
 # > Crackle
-cracklecom
+crackle.com
 # > CW TV
-cwtvcom
+cwtv.com
 # > A&E TV
-aetvcom
-ccpa-servicesp-prodnet
+aetv.com
+ccpa-service.sp-prod.net
 # > NBA TV !Against AU!
-nbacom
-neulion-aakamaihdnet
-nlnbamdnyc-aakamaihdnet
-sdk.iad-03brazecom
-nbapropscomtrdcnet
-nlnbaqosneulioncom
-watchnbacdnfastlyendeavorstreamingnet
-nbaapineulioncom
-nba-api-cdnopinmedia
-neulionqos-aakamaihdnet
-neulioncom
-nbapropttomtrdcnet
-lion-nba-mslakamaizednet
-nbanlds19vodakamaizednet
+nba.com
+neulion-a.akamaihd.net
+nlnbamdnyc-a.akamaihd.net
+sdk.iad-03.braze.com
+nbaprop.sc.omtrdc.net
+nlnbaqos.neulion.com
+watchnba.cdnfastly.endeavorstreaming.net
+nbaapi.neulion.com
+nba-api-cdn.opin.media
+neulionqos-a.akamaihd.net
+neulion.com
+nbaprop.tt.omtrdc.net
+lion-nba-msl.akamaized.net
+nbanlds19vod.akamaized.net
 # > Fubo TV
-fubotv
+fubo.tv
 # > Tubi TV
-tubitvcom
+tubitv.com
 # > Sling TV
-dishworldcom
-slinginternationalcom
-slingcom
-movenetworkscom
-movetvcom
+dishworld.com
+slinginternational.com
+sling.com
+movenetworks.com
+movetv.com
 # > Pluto TV
-plutotv
+pluto.tv
 # > Acorn TV !Against AU!
-edgeapibrightcovecom
-apirljenet
-boltdnsnet
-acorntv
+edge.api.brightcove.com
+api.rlje.net
+boltdns.net
+acorn.tv
 # > SHOWTIME !Against AU!
-shocom
-showtimecom
-showtimeanytimecom
+sho.com
+showtime.com
+showtimeanytime.com
 # > encoreTVB ?TVB HK? !Against JP TVer!
-encoretvbcom
-bcbolt446c5271-aakamaihdnet
-videos-fjwpsrvcom
-contentjwplatformcom
-edgeapibrightcovecom
+encoretvb.com
+bcbolt446c5271-a.akamaihd.net
+videos-f.jwpsrv.com
+content.jwplatform.com
+edge.api.brightcove.com
 # > Funimation !Against AU/EU!
-funimationcom
+funimation.com
 # > Discovery+ !Against EU!
-content-ause1-ur-discovery1.uplynkcom
-disco-apicom
-discoverypluscom
-x-default-stgecuplynkcom
-discoverycom
-discoverypluscouk
-getblueshiftcom
-litixio
-mobile-collectornewreliccom
-discoveryuplynkcom
+content-ause1-ur-discovery1.uplynk.com
+disco-api.com
+discoveryplus.com
+x-default-stgec.uplynk.com
+discovery.com
+discoveryplus.co.uk
+getblueshift.com
+litix.io
+mobile-collector.newrelic.com
+discovery.uplynk.com
 # > Paramount+ !Against AU!
-paramountpluscom
-cbsiliveottirdetocom
-cbsplaylistserverawssyncbakcom
-cbsserviceawssyncbakcom
-linktheplatformcom
-cbsaavideocom
-cbsicom
-cbsivideocom
-pplusstaticcom
+paramountplus.com
+cbsi.live.ott.irdeto.com
+cbsplaylistserver.aws.syncbak.com
+cbsservice.aws.syncbak.com
+link.theplatform.com
+cbsaavideo.com
+cbsi.com
+cbsivideo.com
+pplusstatic.com
 # > Peacock TV
-peacocktvcom
-peacockcom
+peacocktv.com
+peacock.com
 # > Popcornflix
-popcornflixcom
-popcornflix-prodcloudseachangecom
+popcornflix.com
+popcornflix-prod.cloud.seachange.com
 # > Crunchyroll
-cevidoncom
+c.evidon.com
 # > Directv Stream
-atttvnowcom
+atttvnow.com
 # > KBS American
-kbscokr
+kbs.co.kr
 # > KOCOWA
-kocowacom
+kocowa.com
 # > F1TV
-f1prodliveakamaizednet
-formula1com
+f1prodlive.akamaized.net
+formula1.com
 
 # ---------- > Europe Media
 # > EU:Rakuten TV
-rakutentv
+rakuten.tv
 # > EU:Funimation !Against US/AU!
-funimationcom
+funimation.com
 # > EU:SkyShowTime
-skyshowtimeukdataadobedcnet
-skyshowtimecom
-cssottcom
-4ac1dd56e493354be504f063e4ae3440a13c6776cwsconvivacom
+skyshowtimeuk.data.adobedc.net
+skyshowtime.com
+cssott.com
+4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com
 # > EU:HBO Max
-maxcom
-cinemaxcom
-forthethronecom
-hbocom
-hbomaxcom
-hbomaxcdncom
-maxgocom
+max.com
+cinemax.com
+forthethrone.com
+hbo.com
+hbomax.com
+hbomaxcdn.com
+maxgo.com
 # > EuroSport
-europe-fastly-mediashield-live-prodcdnh264io
-akamaiprod-liveh264io
-eurosport-dlvr-ottakamaizednet
-eu3-prod-imagesdisco-apicom
-eu3-proddisco-apicom
-eurosportplayercom
-eurosportcom
-eurosportfr
-eurosportes
-eurosportro
-eurosportio
-eurosportru
-media-shieldliveeurosportmapfastlynet
-eurosport-dlvr-ott-vodakamaizednet
+europe-fastly-mediashield-live-prod.cdn.h264.io
+akamai.prod-live.h264.io
+eurosport-dlvr-ott.akamaized.net
+eu3-prod-images.disco-api.com
+eu3-prod.disco-api.com
+eurosportplayer.com
+eurosport.com
+eurosport.fr
+eurosport.es
+eurosport.ro
+eurosport.io
+eurosport.ru
+media-shield.live.eurosport.map.fastly.net
+eurosport-dlvr-ott-vod.akamaized.net
 # > ViaPlay
-i-viaplay-comakamaizednet
-viaplaycom
-viaplaypl
-mtg-apicom
+i-viaplay-com.akamaized.net
+viaplay.com
+viaplay.pl
+mtg-api.com
 # > GB:Sky GO SkyGONZ
-skycom
+sky.com
 # > GB:BritBox !Against US/AU!
-vod-dash-ntham-comm-liveakamaizednet
-vod-dash-ntham-commlivecfmdbbcicouk
-vod-hls-ntham-comm-liveakamaizednet
-vod-hls-ntham-commlivecfmdbbcicouk
-britboxcom
-d2z3p34itxwaj7cloudfrontnet
+vod-dash-ntham-comm-live.akamaized.net
+vod-dash-ntham-comm.live.cf.md.bbci.co.uk
+vod-hls-ntham-comm-live.akamaized.net
+vod-hls-ntham-comm.live.cf.md.bbci.co.uk
+britbox.com
+d2z3p34itxwaj7.cloudfront.net
 # > GB:ITV Hub
-itvpnpmobile-aakamaihdnet
-itvcom
-itvstaticcom
+itvpnpmobile-a.akamaihd.net
+itv.com
+itvstatic.com
 # > GB:Channel 4 **
-channel4com
+channel4.com
 # > GB:Channel 5 **
-channel5com
+channel5.com
 # > GB:BBC
-aod-dash-uk-liveakamaizednet
-aod-hls-uk-liveakamaizednet
-as-dash-uk-liveakamaizednet
-as-hls-uk-liveakamaizednet
-vod-dash-uk-liveakamaizednet
-vod-dash-ww-liveakamaizednet
-vod-hls-uk-liveakamaizednet
-vod-sub-uk-liveakamaizednet
-vod-thumb-uk-liveakamaizednet
-vod-thumb-ww-liveakamaizednet
-vs-cmaf-push-uk-liveakamaizednet
+aod-dash-uk-live.akamaized.net
+aod-hls-uk-live.akamaized.net
+as-dash-uk-live.akamaized.net
+as-hls-uk-live.akamaized.net
+vod-dash-uk-live.akamaized.net
+vod-dash-ww-live.akamaized.net
+vod-hls-uk-live.akamaized.net
+vod-sub-uk-live.akamaized.net
+vod-thumb-uk-live.akamaized.net
+vod-thumb-ww-live.akamaized.net
+vs-cmaf-push-uk-live.akamaized.net
 bbc
-bbcco
-bbccouk
-bbccom
-bbcin
-bbcnetuk
-bbcchinesecom
-bbcfmthsllnwdnet
-bbcfmtsllnwinet
-bbcico
-bbcicouk
-bbcmediacouk
-bbcpersiancom
-bbcverticalscom
-bidinetuk
+bbc.co
+bbc.co.uk
+bbc.com
+bbc.in
+bbc.net.uk
+bbcchinese.com
+bbcfmt.hs.llnwd.net
+bbcfmt.s.llnwi.net
+bbci.co
+bbci.co.uk
+bbcmedia.co.uk
+bbcpersian.com
+bbcverticals.com
+bidi.net.uk
 # > GB:Discovery+ !Against AU!
-content-ause1-ur-discovery1.uplynkcom
-disco-apicom
-discoverypluscom
-x-default-stgecuplynkcom
-discoverycom
-discoverypluscouk
-getblueshiftcom
-litixio
-mobile-collectornewreliccom
-discoveryuplynkcom
+content-ause1-ur-discovery1.uplynk.com
+disco-api.com
+discoveryplus.com
+x-default-stgec.uplynk.com
+discovery.com
+discoveryplus.co.uk
+getblueshift.com
+litix.io
+mobile-collector.newrelic.com
+discovery.uplynk.com
 # > FR:Salto
-saltofr
+salto.fr
 # > FR:Canal+
-canalpluscom
+canalplus.com
 # > FR:Molotov
-molotovtv
+molotov.tv
 # > FR:France.tv
-ftvenfr
+ftven.fr
 # > DE:Joyn
-joynde
+joyn.de
 # > DE:Sky
-skyde
-edgeapibrightcovecom
+sky.de
+edge.api.brightcove.com
 # > DE:ZDF
-zdfde
+zdf.de
 # > NL:videoland
-videolandcom
+videoland.com
 # > NL:NPO
-nponl
+npo.nl
 # > RU:Amediateka
-amediatekaru
+amediateka.ru
 # > UA:MEGOGO
-megogonet
-vcdnbiz
+megogo.net
+vcdn.biz
 # > CH:Sky
 sky.ch
 zahs.tv
 # > TR:digiturkplay
-digiturkplaycom
-dt-int-gurme-hlsmncdncom
-dt-live-intakamaizednet
+digiturkplay.com
+dt-int-gurme-hls.mncdn.com
+dt-live-int.akamaized.net
 
 # ---------- > Hong Kong Media
 # > Now E 
-nowecom
-nowestaticcom
+nowe.com
+nowestatic.com
 # > Now TV
-nowcom
+now.com
 # > Viu.TV
 #include Viu.com
-viunowcom
-viutv
+viu.now.com
+viu.tv
 # > MyTVSuper
-mytvsupercom
-mytvsuperlimitedhbomtrdcnet
-mytvsuperlimitedscomtrdcnet
-tvbcom
+mytvsuper.com
+mytvsuperlimited.hb.omtrdc.net
+mytvsuperlimited.sc.omtrdc.net
+tvb.com
 # > HBO GO Asia
-44wilhpljfexecute-apiap-southeast-1amazonawscom
-bcbolthboa-aakamaihdnet
-dai3fd1oh325ycloudfrontnet
-hboasia1-iakamaihdnet
-hboasia2-iakamaihdnet
-hboasia3-iakamaihdnet
-hboasia4-iakamaihdnet
-hboasia5-iakamaihdnet
-hboasialiveakamaizednet
-hbogoprod-vodakamaizednet
-hbolbonwardsmgcom
-hbounify-prodevergentcom
-hbogocoth
-hbogoasiacom
-hbogoasiahk
-hbogoasiaid
-hbogoasiaph
-hbogoasiasg
-hbogoasiatw
+44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+bcbolthboa-a.akamaihd.net
+dai3fd1oh325y.cloudfront.net
+hboasia1-i.akamaihd.net
+hboasia2-i.akamaihd.net
+hboasia3-i.akamaihd.net
+hboasia4-i.akamaihd.net
+hboasia5-i.akamaihd.net
+hboasialive.akamaized.net
+hbogoprod-vod.akamaized.net
+hbolb.onwardsmg.com
+hbounify-prod.evergent.com
+hbogo.co.th
+hbogoasia.com
+hbogoasia.hk
+hbogoasia.id
+hbogoasia.ph
+hbogoasia.sg
+hbogoasia.tw
 # > HOY TV
-hoytv
+hoy.tv
 # > BiliBili 
-bilibilicom
+bilibili.com
 
 
 
 # ---------- > South America Media
 # Star+
-starpluscom
-starottcom
-starapiedgebamgridcom
-starconnectionsedgebamgridcom
-starcontentedgebamgridcom
-starplaybackedgebamgridcom
+starplus.com
+starott.com
+star.api.edge.bamgrid.com
+star.connections.edge.bamgrid.com
+star.content.edge.bamgrid.com
+star.playback.edge.bamgrid.com
 # > HBO 
-cinemaxcom
-forthethronecom
-hbocom
-hbogocom
-hbomaxcom
-hbomaxcdncom
-hbonowcom
-maxgocom
+cinemax.com
+forthethrone.com
+hbo.com
+hbogo.com
+hbomax.com
+hbomaxcdn.com
+hbonow.com
+maxgo.com
 # > DirecTV
-directvgocom
+directvgo.com
 # > Funimation !Against US/EU/AU!
-funimationcom
+funimation.com
 
 # ---------- > Indian Media
-discoveryplusin
+discoveryplus.in
 
 # ---------- > Korean Media
 # > Wavve
-wavvecom
-pooqcokr
+wavve.com
+pooq.co.kr
 # > Tving
-tvingcom
+tving.com
 # > Coupang Play
-coupangplaycom
+coupangplay.com
 # > Naver TV
-navercom
-navercorpcom
-pstaticnet
-smartmediarepcom
+naver.com
+navercorp.com
+pstatic.net
+smartmediarep.com
 # > Afreeca TV
-afreecatvcom
+afreecatv.com
 # > KBS Domestic
-kbscokr
+kbs.co.kr
 # > jtbc
-jtbccokr
+jtbc.co.kr
 
 # ---------- > ? media
 # > Setanta Sports
-setantasportscom
-imggamingcom
-diceplatformcom
-dicelaboratorycom
-pndsncom
-imggamings3-eu-west-1.amazonawscom
-ux1kpaebv0execute-apieu-west-1amazonaws.com
-1ok961aacaexecute-apieu-west-1amazonaws.com
+setantasports.com
+imggaming.com
+diceplatform.com
+dicelaboratory.com
+pndsn.com
+imggaming.s3-eu-west-1.amazonaws.com
+ux1kpaebv0.execute-api.eu-west-1.amazonaws.com
+1ok961aaca.execute-api.eu-west-1.amazonaws.com
 
 # ---------- > SouthEastAsia media
 # > HBO GO Asia
-44wilhpljfexecute-apiap-southeast-1amazonawscom
-bcbolthboa-aakamaihdnet
-dai3fd1oh325ycloudfrontnet
-hboasia1-iakamaihdnet
-hboasia2-iakamaihdnet
-hboasia3-iakamaihdnet
-hboasia4-iakamaihdnet
-hboasia5-iakamaihdnet
-hboasialiveakamaizednet
-hbogoprod-vodakamaizednet
-hbolbonwardsmgcom
-hbounify-prodevergentcom
-hbogocoth
-hbogoasiacom
-hbogoasiahk
-hbogoasiaid
-hbogoasiaph
-hbogoasiasg
-hbogoasiatw
+44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+bcbolthboa-a.akamaihd.net
+dai3fd1oh325y.cloudfront.net
+hboasia1-i.akamaihd.net
+hboasia2-i.akamaihd.net
+hboasia3-i.akamaihd.net
+hboasia4-i.akamaihd.net
+hboasia5-i.akamaihd.net
+hboasialive.akamaized.net
+hbogoprod-vod.akamaized.net
+hbolb.onwardsmg.com
+hbounify-prod.evergent.com
+hbogo.co.th
+hbogoasia.com
+hbogoasia.hk
+hbogoasia.id
+hbogoasia.ph
+hbogoasia.sg
+hbogoasia.tw
 # > B-Global
-bilibilitv
+bilibili.tv
 # > SG:meWATCH
-mewatchsg
+mewatch.sg
 # > SG:StarHub
-starhubgocom
-failoverstarhubakamaizednet
-scvm1sc0-ssmanycastnagracom
-starhubtvpluscom
+starhubgo.com
+failoverstarhub.akamaized.net
+scvm1sc0-ssm.anycast.nagra.com
+starhubtvplus.com
 # > CatchPlay+
-catchplaycom
-d2ivmxp5z2ww0ncloudfrontnet
-ols-ww100-cpakamaizednet
-tra-www000-cpakamaizednet
+catchplay.com
+d2ivmxp5z2ww0n.cloudfront.net
+ols-ww100-cp.akamaized.net
+tra-www000-cp.akamaized.net
 # > TH:TrueID 
-trueidnet
+trueid.net
 # > TH:AIS Play
-aisplayais.coth
-ais-vidntcom
+aisplay.ais.co.th
+ais-vidnt.com
 # > ID:Vidio
-geo-id-media-001-vidio-comakamaizednet
+geo-id-media-001-vidio-com.akamaized.net
 # > VN:MYTV
-mytvvn
+mytv.vn
 # > VN:Clip TV
-cliptvvn
+cliptv.vn
 # > VN:Galaxy Play
-glxplayio
+glxplay.io
 # > VN:K+
-solocootv
+solocoo.tv
 # > MY:sooka
-sookamy
-kalturacom
-1fad96d91f4f519fc79753650a57dad992c44af2cwsconvivacom
+sooka.my
+kaltura.com
+1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com
 # > IN:MXPlayer
-mxplayerin
+mxplayer.in
 # > IN:Tata Play
-tataplaycom
+tataplay.com
 # > UAE:shahid
-mbcnet
-npawcom
-shahidnet
+mbc.net
+npaw.com
+shahid.net
 
 # ---------- > AI Platform
 # > Openai
-openaicom
-chatgptcom
-oaistaticcom
-oaiusercontentcom
+openai.com
+chatgpt.com
+oaistatic.com
+oaiusercontent.com
 # > ExHantai/E-hentai
-exhentaiorg
-e-hentaiorg
+exhentai.org
+e-hentai.org
 # > Claude 2
-anthropiccom
-claudeai
+anthropic.com
+claude.ai
 # > Google Gemini
-geminigooglecom
-proactivebackend-pagoogleapiscom
+gemini.google.com
+proactivebackend-pa.googleapis.com
 # > Google AiStudio
-aistudiogooglecom
-alkalimakersuite-paclients6googlecom
-generativelanguagegoogleapiscom
+aistudio.google.com
+alkalimakersuite-pa.clients6.google.com
+generativelanguage.googleapis.com
 # > Microsoft Copilot For Image Generates
-copilotmicrosoftcom
+copilot.microsoft.com
 
 # ---------- > China Media
 # > Youtube
-youtubecom
-youtubeigoogleapiscom
+youtube.com
+youtubei.googleapis.com
 # > BiliBili
-bilibilicom
+bilibili.com
 # > Netease Cloud Music
-music163com
-music126net
+music.163.com
+music.126.net
 # > iQiyi
 71.am
-71.amcom
-71edgecom
-71edgenet
-aiannocn
-aiannocom
-aiqiyicloud-mgmtcom
-aiqiyicloudcom
-aiqiyicloudnet
-baiyingcom
-gitvcn
-gitvtv
-ibkstorecom
-iqcom
-iqiyicom
-iqiyidemouwp
-iqiyiedgecom
-iqiyiedgenet
-iqiyipiccom
-jiangbingcn
-ppstv
-ppsimgcom
-ppstreamcn
-ppstreamcom
-ppstreamcomcn
-ppstreamnet
-ppstreamnetcn
-ppsurlcom
-qiyicn
-qiyicom
-qiyipiccom
-qycom
-qynet
-suikecn
+71.am.com
+71edge.com
+71edge.net
+aianno.cn
+aianno.com
+aiqiyicloud-mgmt.com
+aiqiyicloud.com
+aiqiyicloud.net
+baiying.com
+gitv.cn
+gitv.tv
+ibkstore.com
+iq.com
+iqiyi.com
+iqiyi.demo.uwp
+iqiyiedge.com
+iqiyiedge.net
+iqiyipic.com
+jiangbing.cn
+pps.tv
+ppsimg.com
+ppstream.cn
+ppstream.com
+ppstream.com.cn
+ppstream.net
+ppstream.net.cn
+ppsurl.com
+qiyi.cn
+qiyi.com
+qiyipic.com
+qy.com
+qy.net
+suike.cn
 # > Youku
-sokucom
-youkucom
-ykimgcom
+soku.com
+youku.com
+ykimg.com
 
 
 
