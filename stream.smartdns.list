@@ -192,7 +192,6 @@ nameserver /ds-vod-abematv.akamaized.net/<replace with groupname>
 nameserver /vod-abematv.akamaized.net/<replace with groupname>
 nameserver /ameba.jp/<replace with groupname>
 nameserver /hayabusa.io/<replace with groupname>
-nameserver /vod-abematv.akamaized.net/<replace with groupname>
 nameserver /bucketeer.jp/<replace with groupname>
 nameserver /abema.adx.promo/<replace with groupname>
 nameserver /hayabusa.media/<replace with groupname>
@@ -825,6 +824,10 @@ nameserver /1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com/<replace wi
 nameserver /mxplayer.in/<replace with groupname>
 # > IN:Tata Play
 nameserver /tataplay.com/<replace with groupname>
+# > IN:Zee5
+nameserver /zee5.com/<replace with groupname>
+# > IN:Jio Cinema
+nameserver /content-jiovoot.voot.com/<replace with groupname>
 # > UAE:shahid
 nameserver /mbc.net/<replace with groupname>
 nameserver /npaw.com/<replace with groupname>

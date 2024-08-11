@@ -192,7 +192,6 @@ ds-vod-abematv.akamaized.net
 vod-abematv.akamaized.net
 ameba.jp
 hayabusa.io
-vod-abematv.akamaized.net
 bucketeer.jp
 abema.adx.promo
 hayabusa.media
@@ -825,6 +824,10 @@ kaltura.com
 mxplayer.in
 # > IN:Tata Play
 tataplay.com
+# > IN:Zee5
+zee5.com
+# > IN:Jio Cinema
+content-jiovoot.voot.com
 # > UAE:shahid
 mbc.net
 npaw.com

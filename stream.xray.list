@@ -192,7 +192,6 @@
 "domain:vod-abematv.akamaized.net",
 "domain:ameba.jp",
 "domain:hayabusa.io",
-"domain:vod-abematv.akamaized.net",
 "domain:bucketeer.jp",
 "domain:abema.adx.promo",
 "domain:hayabusa.media",
@@ -825,6 +824,10 @@
 "domain:mxplayer.in",
 # > IN:Tata Play
 "domain:tataplay.com",
+# > IN:Zee5
+"domain:zee5.com",
+# > IN:Jio Cinema
+"domain:content-jiovoot.voot.com",
 # > UAE:shahid
 "domain:mbc.net",
 "domain:npaw.com",

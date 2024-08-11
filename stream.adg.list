@@ -192,7 +192,6 @@
 [/vod-abematv.akamaized.net/]<DNS>
 [/ameba.jp/]<DNS>
 [/hayabusa.io/]<DNS>
-[/vod-abematv.akamaized.net/]<DNS>
 [/bucketeer.jp/]<DNS>
 [/abema.adx.promo/]<DNS>
 [/hayabusa.media/]<DNS>
@@ -825,6 +824,10 @@
 [/mxplayer.in/]<DNS>
 # > IN:Tata Play
 [/tataplay.com/]<DNS>
+# > IN:Zee5
+[/zee5.com/]<DNS>
+# > IN:Jio Cinema
+[/content-jiovoot.voot.com/]<DNS>
 # > UAE:shahid
 [/mbc.net/]<DNS>
 [/npaw.com/]<DNS>
