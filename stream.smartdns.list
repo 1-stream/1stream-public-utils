@@ -156,6 +156,8 @@ nameserver /gamer-cds.cdn.hinet.net/<replace with groupname>
 nameserver /gamer2-cds.cdn.hinet.net/<replace with groupname>
 # > BiliBili
 nameserver /bilibili.com/<replace with groupname>
+# > Friday Video
+nameserver /video.friday.tw/<replace with groupname>
 
 # ---------- > Canada Media
 # > CBC Gem
