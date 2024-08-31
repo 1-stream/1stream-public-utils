@@ -318,6 +318,7 @@
 ~^(.*|)live01-stan\.akamaized\.net$;
 ~^(.*|)live02-stan\.akamaized\.net$;
 # > AU:Binge/Kayo Sports
+~^(.*|)kayosports\.com\.au$;
 ~^(.*|)streamotion\.com\.au$;
 # > AU:Docplay
 ~^(.*|)docplay\.com$;
@@ -534,7 +535,8 @@
 ~^(.*|)popcornflix\.com$;
 ~^(.*|)popcornflix-prod\.cloud\.seachange\.com$;
 # > Crunchyroll
-~^(.*|)c\.evidon\.com$;
+~^(.*|)crunchyroll\.com$;
+~^(.*|)vrv\.co$;
 # > Directv Stream
 ~^(.*|)atttvnow\.com$;
 # > KBS American
@@ -657,6 +659,8 @@
 ~^(.*|)videoland\.com$;
 # > NL:NPO
 ~^(.*|)npo\.nl$;
+# > IT Rai Play
+~^(.*|)mediapolisvod\.rai\.it$;
 # > RU:Amediateka
 ~^(.*|)amediateka\.ru$;
 # > UA:MEGOGO
