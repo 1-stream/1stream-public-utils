@@ -318,6 +318,7 @@
 "domain:live01-stan.akamaized.net",
 "domain:live02-stan.akamaized.net",
 # > AU:Binge/Kayo Sports
+"domain:kayosports.com.au",
 "domain:streamotion.com.au",
 # > AU:Docplay
 "domain:docplay.com",
@@ -534,7 +535,8 @@
 "domain:popcornflix.com",
 "domain:popcornflix-prod.cloud.seachange.com",
 # > Crunchyroll
-"domain:c.evidon.com",
+"domain:crunchyroll.com",
+"domain:vrv.co",
 # > Directv Stream
 "domain:atttvnow.com",
 # > KBS American
@@ -657,6 +659,8 @@
 "domain:videoland.com",
 # > NL:NPO
 "domain:npo.nl",
+# > IT Rai Play
+"domain:mediapolisvod.rai.it",
 # > RU:Amediateka
 "domain:amediateka.ru",
 # > UA:MEGOGO

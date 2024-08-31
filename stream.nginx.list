@@ -124,7 +124,7 @@ server_name .paramountplus.com .cbsi.live.ott.irdeto.com .cbsplaylistserver.aws.
 # > AU:Stan
 server_name .stan.com.au .stan.video .streamcoimg-a.akamaihd.net .live01-stan.akamaized.net .live02-stan.akamaized.net;
 # > AU:Binge/Kayo Sports
-server_name .streamotion.com.au;
+server_name .kayosports.com.au .streamotion.com.au;
 # > AU:Docplay
 server_name .docplay.com .0c86e2d1-madman-com-au.akamaized.net .ff1be285-madman-com-au.akamaized.net .5a929471-madman-com-au.akamaized.net .879ed873-madman-com-au.akamaized.net;
 # > AU:7plus
@@ -206,7 +206,7 @@ server_name .peacocktv.com .peacock.com;
 # > Popcornflix
 server_name .popcornflix.com .popcornflix-prod.cloud.seachange.com;
 # > Crunchyroll
-server_name .c.evidon.com;
+server_name .crunchyroll.com .vrv.co;
 # > Directv Stream
 server_name .atttvnow.com;
 # > KBS American
@@ -260,6 +260,8 @@ server_name .zdf.de;
 server_name .videoland.com;
 # > NL:NPO
 server_name .npo.nl;
+# > IT Rai Play
+server_name .mediapolisvod.rai.it;
 # > RU:Amediateka
 server_name .amediateka.ru;
 # > UA:MEGOGO

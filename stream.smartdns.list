@@ -318,6 +318,7 @@ nameserver /streamcoimg-a.akamaihd.net/<replace with groupname>
 nameserver /live01-stan.akamaized.net/<replace with groupname>
 nameserver /live02-stan.akamaized.net/<replace with groupname>
 # > AU:Binge/Kayo Sports
+nameserver /kayosports.com.au/<replace with groupname>
 nameserver /streamotion.com.au/<replace with groupname>
 # > AU:Docplay
 nameserver /docplay.com/<replace with groupname>
@@ -534,7 +535,8 @@ nameserver /peacock.com/<replace with groupname>
 nameserver /popcornflix.com/<replace with groupname>
 nameserver /popcornflix-prod.cloud.seachange.com/<replace with groupname>
 # > Crunchyroll
-nameserver /c.evidon.com/<replace with groupname>
+nameserver /crunchyroll.com/<replace with groupname>
+nameserver /vrv.co/<replace with groupname>
 # > Directv Stream
 nameserver /atttvnow.com/<replace with groupname>
 # > KBS American
@@ -657,6 +659,8 @@ nameserver /zdf.de/<replace with groupname>
 nameserver /videoland.com/<replace with groupname>
 # > NL:NPO
 nameserver /npo.nl/<replace with groupname>
+# > IT Rai Play
+nameserver /mediapolisvod.rai.it/<replace with groupname>
 # > RU:Amediateka
 nameserver /amediateka.ru/<replace with groupname>
 # > UA:MEGOGO
