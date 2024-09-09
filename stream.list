@@ -107,7 +107,7 @@
 ~^(.*|)kktv\.me$;
 # > LiTV
 ~^(.*|)litv\.tv$;
-~^(.*|)litvfreemobile-hichannel\.cdn\.hinet\.net$;
+~^(.*|)litvfreepc\.akamaized\.net$;
 # > MyVideo
 ~^(.*|)cdn\.plyr\.io$;
 ~^(.*|)myvideo\.net\.tw$;
