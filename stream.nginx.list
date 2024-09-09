@@ -31,7 +31,7 @@ server_name .byteoversea.com .ibytedtos.com .ipstatp.com .muscdn.com .musical.ly
 # > KKTV
 server_name .kfs.io .kktv-theater.kk.stream .kkbox.com .kkbox.com.tw .kktv.com.tw .kktv.me;
 # > LiTV
-server_name .litv.tv .litvfreemobile-hichannel.cdn.hinet.net;
+server_name .litv.tv .litvfreepc.akamaized.net;
 # > MyVideo
 server_name .cdn.plyr.io .myvideo.net.tw;
 # > 4GTV

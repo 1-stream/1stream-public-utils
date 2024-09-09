@@ -107,7 +107,7 @@ nameserver /kktv.com.tw/<replace with groupname>
 nameserver /kktv.me/<replace with groupname>
 # > LiTV
 nameserver /litv.tv/<replace with groupname>
-nameserver /litvfreemobile-hichannel.cdn.hinet.net/<replace with groupname>
+nameserver /litvfreepc.akamaized.net/<replace with groupname>
 # > MyVideo
 nameserver /cdn.plyr.io/<replace with groupname>
 nameserver /myvideo.net.tw/<replace with groupname>
