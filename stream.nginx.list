@@ -168,7 +168,7 @@ server_name .fxnow.fxnetworks.com;
 # > TLC GO
 server_name .geolocation.onetrust.com;
 # > HBO / Max
-server_name .max.com .hbo.com .hbogo.com .hbomax.com .hbomaxcdn.com .hbonow.com .maxgo.com;
+server_name .max.com .hbo.com .hbogo.com .hbomax.com .hbomaxcdn.com .hbonow.com .maxgo.com .discomax.com;
 # > Shudder
 server_name .shudder.com;
 # > BritBox !Against AU/EU!

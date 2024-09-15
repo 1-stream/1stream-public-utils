@@ -447,6 +447,7 @@ nameserver /hbomax.com/<replace with groupname>
 nameserver /hbomaxcdn.com/<replace with groupname>
 nameserver /hbonow.com/<replace with groupname>
 nameserver /maxgo.com/<replace with groupname>
+nameserver /discomax.com/<replace with groupname>
 # > Shudder
 nameserver /shudder.com/<replace with groupname>
 # > BritBox !Against AU/EU!
