@@ -447,6 +447,7 @@
 ~^(.*|)hbomaxcdn\.com$;
 ~^(.*|)hbonow\.com$;
 ~^(.*|)maxgo\.com$;
+~^(.*|)discomax\.com$;
 # > Shudder
 ~^(.*|)shudder\.com$;
 # > BritBox !Against AU/EU!
