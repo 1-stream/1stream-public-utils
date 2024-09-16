@@ -24,7 +24,6 @@ function Welcome(){
     if [ "$DNS2" != '' ]; then
         echo -e '备DNS: '$DNS2''
     fi
-    echo
     read -p "是否使用TCP DNS (y/N):" tcp
     if [[ -n "${tcp}" ]]; then
         if [[ "$tcp" == 'y' ]] || [[ "$tcp" == 'Y' ]]; then
@@ -48,12 +47,12 @@ function ChangeDNS(){
     echo -e '尝试删除resolv.conf'
     rm /etc/resolv.conf
     echo -e '重新写入resolv.conf'
-    echo -e "nameserver $DNS1\n" > /etc/resolv.conf
+    echo -e "nameserver $DNS1" > /etc/resolv.conf
     if [ "$DNS2" != '' ]; then
         echo -e "nameserver $DNS2" >> /etc/resolv.conf
     fi
     echo
-    echo -e '感谢您的使用, 由于脚本执行了破坏性操作，执行脚本文件时使用参数 restore将恢复dns为8.8.8.8/1.1.1.1'
+    echo -e '感谢您的使用, 由于脚本执行了破坏性操作，执行脚本文件时使用参数restore将恢复dns为8.8.8.8/1.1.1.1'
 }
 function RestoreDNS(){
     echo -e "nameserver 8.8.8.8\nnameserver 1.1.1.1" > /etc/resolv.conf
