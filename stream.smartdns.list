@@ -192,6 +192,7 @@ nameserver /ds-linear-abematv.akamaized.net/<replace with groupname>
 nameserver /linear-abematv.akamaized.net/<replace with groupname>
 nameserver /ds-vod-abematv.akamaized.net/<replace with groupname>
 nameserver /vod-abematv.akamaized.net/<replace with groupname>
+nameserver /vod-playout-abematv.akamaized.net/<replace with groupname>
 nameserver /ameba.jp/<replace with groupname>
 nameserver /hayabusa.io/<replace with groupname>
 nameserver /bucketeer.jp/<replace with groupname>
