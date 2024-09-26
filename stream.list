@@ -854,6 +854,7 @@
 ~^(.*|)anthropic\.com$;
 ~^(.*|)claude\.ai$;
 # > Google Gemini
+~^(.*|)gemini\.google$;
 ~^(.*|)gemini\.google\.com$;
 ~^(.*|)proactivebackend-pa\.googleapis\.com$;
 # > Google AiStudio
