@@ -39,7 +39,7 @@ jobs:
             pattern=$(echo "${line}" | sed 's/~^(.*|)//g' | sed 's/\\././g' | sed 's/$;//g' )
             # 使用 jq 将规则条目添加到对应的 section 和 subsection 中
             jq --arg section "$section" --arg subsection "$subsection" --arg pattern "$pattern" \
-            '.[$section][$subsection] += [$pattern]' output.json > tmp.json && mv tmp.json output.json
+            '.[$section][$subsection] += [$pattern]' stream.list.json > tmp.json && mv tmp.json stream.list.json
           fi
         done
 
