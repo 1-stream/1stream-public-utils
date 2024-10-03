@@ -268,7 +268,7 @@ nameserver /music-book.jp/<replace with groupname>
 nameserver /data-cloudauthoring.magazine.rakuten.co.jp/<replace with groupname>
 
 # ---------- > Oceania Media
-# > NBA TV !Against US!
+# > NBA TV
 nameserver /nba.com/<replace with groupname>
 nameserver /neulion-a.akamaihd.net/<replace with groupname>
 nameserver /nlnbamdnyc-a.akamaihd.net/<replace with groupname>
@@ -283,26 +283,26 @@ nameserver /neulion.com/<replace with groupname>
 nameserver /nbaprop.tt.omtrdc.net/<replace with groupname>
 nameserver /lion-nba-msl.akamaized.net/<replace with groupname>
 nameserver /nbanlds19vod.akamaized.net/<replace with groupname>
-# > Acorn TV !Against US!
+# > Acorn TV
 nameserver /edge.api.brightcove.com/<replace with groupname>
 nameserver /api.rlje.net/<replace with groupname>
 nameserver /boltdns.net/<replace with groupname>
 nameserver /acorn.tv/<replace with groupname>
-# > SHOWTIME !Against US!
+# > SHOWTIME
 nameserver /sho.com/<replace with groupname>
 nameserver /showtime.com/<replace with groupname>
 nameserver /showtimeanytime.com/<replace with groupname>
-# > BritBox !Against US/EU!
+# > BritBox
 nameserver /vod-dash-ntham-comm-live.akamaized.net/<replace with groupname>
 nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
 nameserver /vod-hls-ntham-comm-live.akamaized.net/<replace with groupname>
 nameserver /vod-hls-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
 nameserver /britbox.com/<replace with groupname>
 nameserver /d2z3p34itxwaj7.cloudfront.net/<replace with groupname>
-# > Funimation !Against US/EU!
+# > Funimation
 nameserver /funimation.com/<replace with groupname>
 nameserver /funimationsvc.com/<replace with groupname>
-# > Paramount+ !Against US!
+# > Paramount+
 nameserver /paramountplus.com/<replace with groupname>
 nameserver /cbsi.live.ott.irdeto.com/<replace with groupname>
 nameserver /cbsplaylistserver.aws.syncbak.com/<replace with groupname>
@@ -451,7 +451,7 @@ nameserver /maxgo.com/<replace with groupname>
 nameserver /discomax.com/<replace with groupname>
 # > Shudder
 nameserver /shudder.com/<replace with groupname>
-# > BritBox !Against AU/EU!
+# > BritBox
 nameserver /vod-dash-ntham-comm-live.akamaized.net/<replace with groupname>
 nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
 nameserver /vod-hls-ntham-comm-live.akamaized.net/<replace with groupname>
@@ -465,7 +465,7 @@ nameserver /cwtv.com/<replace with groupname>
 # > A&E TV
 nameserver /aetv.com/<replace with groupname>
 nameserver /ccpa-service.sp-prod.net/<replace with groupname>
-# > NBA TV !Against AU!
+# > NBA TV
 nameserver /nba.com/<replace with groupname>
 nameserver /neulion-a.akamaihd.net/<replace with groupname>
 nameserver /nlnbamdnyc-a.akamaihd.net/<replace with groupname>
@@ -492,24 +492,24 @@ nameserver /movenetworks.com/<replace with groupname>
 nameserver /movetv.com/<replace with groupname>
 # > Pluto TV
 nameserver /pluto.tv/<replace with groupname>
-# > Acorn TV !Against AU!
+# > Acorn TV
 nameserver /edge.api.brightcove.com/<replace with groupname>
 nameserver /api.rlje.net/<replace with groupname>
 nameserver /boltdns.net/<replace with groupname>
 nameserver /acorn.tv/<replace with groupname>
-# > SHOWTIME !Against AU!
+# > SHOWTIME
 nameserver /sho.com/<replace with groupname>
 nameserver /showtime.com/<replace with groupname>
 nameserver /showtimeanytime.com/<replace with groupname>
-# > encoreTVB ?TVB HK? !Against JP TVer!
+# > encoreTVB
 nameserver /encoretvb.com/<replace with groupname>
 nameserver /bcbolt446c5271-a.akamaihd.net/<replace with groupname>
 nameserver /videos-f.jwpsrv.com/<replace with groupname>
 nameserver /content.jwplatform.com/<replace with groupname>
 nameserver /edge.api.brightcove.com/<replace with groupname>
-# > Funimation !Against AU/EU!
+# > Funimation
 nameserver /funimation.com/<replace with groupname>
-# > Discovery+ !Against EU!
+# > Discovery+
 nameserver /content-ause1-ur-discovery1.uplynk.com/<replace with groupname>
 nameserver /disco-api.com/<replace with groupname>
 nameserver /discoveryplus.com/<replace with groupname>
@@ -520,7 +520,7 @@ nameserver /getblueshift.com/<replace with groupname>
 nameserver /litix.io/<replace with groupname>
 nameserver /mobile-collector.newrelic.com/<replace with groupname>
 nameserver /discovery.uplynk.com/<replace with groupname>
-# > Paramount+ !Against AU!
+# > Paramount+
 nameserver /paramountplus.com/<replace with groupname>
 nameserver /cbsi.live.ott.irdeto.com/<replace with groupname>
 nameserver /cbsplaylistserver.aws.syncbak.com/<replace with groupname>
@@ -552,7 +552,7 @@ nameserver /formula1.com/<replace with groupname>
 # ---------- > Europe Media
 # > EU:Rakuten TV
 nameserver /rakuten.tv/<replace with groupname>
-# > EU:Funimation !Against US/AU!
+# > EU:Funimation
 nameserver /funimation.com/<replace with groupname>
 # > EU:SkyShowTime
 nameserver /skyshowtimeuk.data.adobedc.net/<replace with groupname>
@@ -589,7 +589,7 @@ nameserver /viaplay.pl/<replace with groupname>
 nameserver /mtg-api.com/<replace with groupname>
 # > GB:Sky GO /<replace with groupname>SkyGONZ/<replace with groupname>
 nameserver /sky.com/<replace with groupname>
-# > GB:BritBox !Against US/AU!
+# > GB:BritBox
 nameserver /vod-dash-ntham-comm-live.akamaized.net/<replace with groupname>
 nameserver /vod-dash-ntham-comm.live.cf.md.bbci.co.uk/<replace with groupname>
 nameserver /vod-hls-ntham-comm-live.akamaized.net/<replace with groupname>
@@ -631,7 +631,7 @@ nameserver /bbcmedia.co.uk/<replace with groupname>
 nameserver /bbcpersian.com/<replace with groupname>
 nameserver /bbcverticals.com/<replace with groupname>
 nameserver /bidi.net.uk/<replace with groupname>
-# > GB:Discovery+ !Against AU!
+# > GB:Discovery+
 nameserver /content-ause1-ur-discovery1.uplynk.com/<replace with groupname>
 nameserver /disco-api.com/<replace with groupname>
 nameserver /discoveryplus.com/<replace with groupname>
@@ -719,13 +719,6 @@ nameserver /bilibili.com/<replace with groupname>
 
 
 # ---------- > South America Media
-# Star+
-nameserver /starplus.com/<replace with groupname>
-nameserver /starott.com/<replace with groupname>
-nameserver /star.api.edge.bamgrid.com/<replace with groupname>
-nameserver /star.connections.edge.bamgrid.com/<replace with groupname>
-nameserver /star.content.edge.bamgrid.com/<replace with groupname>
-nameserver /star.playback.edge.bamgrid.com/<replace with groupname>
 # > HBO 
 nameserver /cinemax.com/<replace with groupname>
 nameserver /forthethrone.com/<replace with groupname>
@@ -737,7 +730,7 @@ nameserver /hbonow.com/<replace with groupname>
 nameserver /maxgo.com/<replace with groupname>
 # > DirecTV
 nameserver /directvgo.com/<replace with groupname>
-# > Funimation !Against US/EU/AU!
+# > Funimation
 nameserver /funimation.com/<replace with groupname>
 
 # ---------- > Indian Media

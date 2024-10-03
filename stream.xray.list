@@ -268,7 +268,7 @@
 "domain:data-cloudauthoring.magazine.rakuten.co.jp",
 
 # ---------- > Oceania Media
-# > NBA TV !Against US!
+# > NBA TV
 "domain:nba.com",
 "domain:neulion-a.akamaihd.net",
 "domain:nlnbamdnyc-a.akamaihd.net",
@@ -283,26 +283,26 @@
 "domain:nbaprop.tt.omtrdc.net",
 "domain:lion-nba-msl.akamaized.net",
 "domain:nbanlds19vod.akamaized.net",
-# > Acorn TV !Against US!
+# > Acorn TV
 "domain:edge.api.brightcove.com",
 "domain:api.rlje.net",
 "domain:boltdns.net",
 "domain:acorn.tv",
-# > SHOWTIME !Against US!
+# > SHOWTIME
 "domain:sho.com",
 "domain:showtime.com",
 "domain:showtimeanytime.com",
-# > BritBox !Against US/EU!
+# > BritBox
 "domain:vod-dash-ntham-comm-live.akamaized.net",
 "domain:vod-dash-ntham-comm.live.cf.md.bbci.co.uk",
 "domain:vod-hls-ntham-comm-live.akamaized.net",
 "domain:vod-hls-ntham-comm.live.cf.md.bbci.co.uk",
 "domain:britbox.com",
 "domain:d2z3p34itxwaj7.cloudfront.net",
-# > Funimation !Against US/EU!
+# > Funimation
 "domain:funimation.com",
 "domain:funimationsvc.com",
-# > Paramount+ !Against US!
+# > Paramount+
 "domain:paramountplus.com",
 "domain:cbsi.live.ott.irdeto.com",
 "domain:cbsplaylistserver.aws.syncbak.com",
@@ -451,7 +451,7 @@
 "domain:discomax.com",
 # > Shudder
 "domain:shudder.com",
-# > BritBox !Against AU/EU!
+# > BritBox
 "domain:vod-dash-ntham-comm-live.akamaized.net",
 "domain:vod-dash-ntham-comm.live.cf.md.bbci.co.uk",
 "domain:vod-hls-ntham-comm-live.akamaized.net",
@@ -465,7 +465,7 @@
 # > A&E TV
 "domain:aetv.com",
 "domain:ccpa-service.sp-prod.net",
-# > NBA TV !Against AU!
+# > NBA TV
 "domain:nba.com",
 "domain:neulion-a.akamaihd.net",
 "domain:nlnbamdnyc-a.akamaihd.net",
@@ -492,24 +492,24 @@
 "domain:movetv.com",
 # > Pluto TV
 "domain:pluto.tv",
-# > Acorn TV !Against AU!
+# > Acorn TV
 "domain:edge.api.brightcove.com",
 "domain:api.rlje.net",
 "domain:boltdns.net",
 "domain:acorn.tv",
-# > SHOWTIME !Against AU!
+# > SHOWTIME
 "domain:sho.com",
 "domain:showtime.com",
 "domain:showtimeanytime.com",
-# > encoreTVB ?TVB HK? !Against JP TVer!
+# > encoreTVB
 "domain:encoretvb.com",
 "domain:bcbolt446c5271-a.akamaihd.net",
 "domain:videos-f.jwpsrv.com",
 "domain:content.jwplatform.com",
 "domain:edge.api.brightcove.com",
-# > Funimation !Against AU/EU!
+# > Funimation
 "domain:funimation.com",
-# > Discovery+ !Against EU!
+# > Discovery+
 "domain:content-ause1-ur-discovery1.uplynk.com",
 "domain:disco-api.com",
 "domain:discoveryplus.com",
@@ -520,7 +520,7 @@
 "domain:litix.io",
 "domain:mobile-collector.newrelic.com",
 "domain:discovery.uplynk.com",
-# > Paramount+ !Against AU!
+# > Paramount+
 "domain:paramountplus.com",
 "domain:cbsi.live.ott.irdeto.com",
 "domain:cbsplaylistserver.aws.syncbak.com",
@@ -552,7 +552,7 @@
 # ---------- > Europe Media
 # > EU:Rakuten TV
 "domain:rakuten.tv",
-# > EU:Funimation !Against US/AU!
+# > EU:Funimation
 "domain:funimation.com",
 # > EU:SkyShowTime
 "domain:skyshowtimeuk.data.adobedc.net",
@@ -589,7 +589,7 @@
 "domain:mtg-api.com",
 # > GB:Sky GO ",SkyGONZ",
 "domain:sky.com",
-# > GB:BritBox !Against US/AU!
+# > GB:BritBox
 "domain:vod-dash-ntham-comm-live.akamaized.net",
 "domain:vod-dash-ntham-comm.live.cf.md.bbci.co.uk",
 "domain:vod-hls-ntham-comm-live.akamaized.net",
@@ -631,7 +631,7 @@
 "domain:bbcpersian.com",
 "domain:bbcverticals.com",
 "domain:bidi.net.uk",
-# > GB:Discovery+ !Against AU!
+# > GB:Discovery+
 "domain:content-ause1-ur-discovery1.uplynk.com",
 "domain:disco-api.com",
 "domain:discoveryplus.com",
@@ -719,13 +719,6 @@
 
 
 # ---------- > South America Media
-# Star+
-"domain:starplus.com",
-"domain:starott.com",
-"domain:star.api.edge.bamgrid.com",
-"domain:star.connections.edge.bamgrid.com",
-"domain:star.content.edge.bamgrid.com",
-"domain:star.playback.edge.bamgrid.com",
 # > HBO 
 "domain:cinemax.com",
 "domain:forthethrone.com",
@@ -737,7 +730,7 @@
 "domain:maxgo.com",
 # > DirecTV
 "domain:directvgo.com",
-# > Funimation !Against US/EU/AU!
+# > Funimation
 "domain:funimation.com",
 
 # ---------- > Indian Media

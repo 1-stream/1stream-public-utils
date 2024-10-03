@@ -268,7 +268,7 @@ music-book.jp
 data-cloudauthoring.magazine.rakuten.co.jp
 
 # ---------- > Oceania Media
-# > NBA TV !Against US!
+# > NBA TV
 nba.com
 neulion-a.akamaihd.net
 nlnbamdnyc-a.akamaihd.net
@@ -283,26 +283,26 @@ neulion.com
 nbaprop.tt.omtrdc.net
 lion-nba-msl.akamaized.net
 nbanlds19vod.akamaized.net
-# > Acorn TV !Against US!
+# > Acorn TV
 edge.api.brightcove.com
 api.rlje.net
 boltdns.net
 acorn.tv
-# > SHOWTIME !Against US!
+# > SHOWTIME
 sho.com
 showtime.com
 showtimeanytime.com
-# > BritBox !Against US/EU!
+# > BritBox
 vod-dash-ntham-comm-live.akamaized.net
 vod-dash-ntham-comm.live.cf.md.bbci.co.uk
 vod-hls-ntham-comm-live.akamaized.net
 vod-hls-ntham-comm.live.cf.md.bbci.co.uk
 britbox.com
 d2z3p34itxwaj7.cloudfront.net
-# > Funimation !Against US/EU!
+# > Funimation
 funimation.com
 funimationsvc.com
-# > Paramount+ !Against US!
+# > Paramount+
 paramountplus.com
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
@@ -451,7 +451,7 @@ maxgo.com
 discomax.com
 # > Shudder
 shudder.com
-# > BritBox !Against AU/EU!
+# > BritBox
 vod-dash-ntham-comm-live.akamaized.net
 vod-dash-ntham-comm.live.cf.md.bbci.co.uk
 vod-hls-ntham-comm-live.akamaized.net
@@ -465,7 +465,7 @@ cwtv.com
 # > A&E TV
 aetv.com
 ccpa-service.sp-prod.net
-# > NBA TV !Against AU!
+# > NBA TV
 nba.com
 neulion-a.akamaihd.net
 nlnbamdnyc-a.akamaihd.net
@@ -492,24 +492,24 @@ movenetworks.com
 movetv.com
 # > Pluto TV
 pluto.tv
-# > Acorn TV !Against AU!
+# > Acorn TV
 edge.api.brightcove.com
 api.rlje.net
 boltdns.net
 acorn.tv
-# > SHOWTIME !Against AU!
+# > SHOWTIME
 sho.com
 showtime.com
 showtimeanytime.com
-# > encoreTVB ?TVB HK? !Against JP TVer!
+# > encoreTVB
 encoretvb.com
 bcbolt446c5271-a.akamaihd.net
 videos-f.jwpsrv.com
 content.jwplatform.com
 edge.api.brightcove.com
-# > Funimation !Against AU/EU!
+# > Funimation
 funimation.com
-# > Discovery+ !Against EU!
+# > Discovery+
 content-ause1-ur-discovery1.uplynk.com
 disco-api.com
 discoveryplus.com
@@ -520,7 +520,7 @@ getblueshift.com
 litix.io
 mobile-collector.newrelic.com
 discovery.uplynk.com
-# > Paramount+ !Against AU!
+# > Paramount+
 paramountplus.com
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
@@ -552,7 +552,7 @@ formula1.com
 # ---------- > Europe Media
 # > EU:Rakuten TV
 rakuten.tv
-# > EU:Funimation !Against US/AU!
+# > EU:Funimation
 funimation.com
 # > EU:SkyShowTime
 skyshowtimeuk.data.adobedc.net
@@ -589,7 +589,7 @@ viaplay.pl
 mtg-api.com
 # > GB:Sky GO SkyGONZ
 sky.com
-# > GB:BritBox !Against US/AU!
+# > GB:BritBox
 vod-dash-ntham-comm-live.akamaized.net
 vod-dash-ntham-comm.live.cf.md.bbci.co.uk
 vod-hls-ntham-comm-live.akamaized.net
@@ -631,7 +631,7 @@ bbcmedia.co.uk
 bbcpersian.com
 bbcverticals.com
 bidi.net.uk
-# > GB:Discovery+ !Against AU!
+# > GB:Discovery+
 content-ause1-ur-discovery1.uplynk.com
 disco-api.com
 discoveryplus.com
@@ -719,13 +719,6 @@ bilibili.com
 
 
 # ---------- > South America Media
-# Star+
-starplus.com
-starott.com
-star.api.edge.bamgrid.com
-star.connections.edge.bamgrid.com
-star.content.edge.bamgrid.com
-star.playback.edge.bamgrid.com
 # > HBO 
 cinemax.com
 forthethrone.com
@@ -737,7 +730,7 @@ hbonow.com
 maxgo.com
 # > DirecTV
 directvgo.com
-# > Funimation !Against US/EU/AU!
+# > Funimation
 funimation.com
 
 # ---------- > Indian Media

@@ -109,17 +109,17 @@ server_name .music.jp .music-book.jp;
 server_name .data-cloudauthoring.magazine.rakuten.co.jp;
 
 # ---------- > Oceania Media
-# > NBA TV !Against US!
+# > NBA TV
 server_name .nba.com .neulion-a.akamaihd.net .nlnbamdnyc-a.akamaihd.net .sdk.iad-03.braze.com .nbaprop.sc.omtrdc.net .nlnbaqos.neulion.com .watchnba.cdnfastly.endeavorstreaming.net .nbaapi.neulion.com .nba-api-cdn.opin.media .neulionqos-a.akamaihd.net .neulion.com .nbaprop.tt.omtrdc.net .lion-nba-msl.akamaized.net .nbanlds19vod.akamaized.net;
-# > Acorn TV !Against US!
+# > Acorn TV
 server_name .edge.api.brightcove.com .api.rlje.net .boltdns.net .acorn.tv;
-# > SHOWTIME !Against US!
+# > SHOWTIME
 server_name .sho.com .showtime.com .showtimeanytime.com;
-# > BritBox !Against US/EU!
+# > BritBox
 server_name .vod-dash-ntham-comm-live.akamaized.net .vod-dash-ntham-comm.live.cf.md.bbci.co.uk .vod-hls-ntham-comm-live.akamaized.net .vod-hls-ntham-comm.live.cf.md.bbci.co.uk .britbox.com .d2z3p34itxwaj7.cloudfront.net;
-# > Funimation !Against US/EU!
+# > Funimation
 server_name .funimation.com .funimationsvc.com;
-# > Paramount+ !Against US!
+# > Paramount+
 server_name .paramountplus.com .cbsi.live.ott.irdeto.com .cbsplaylistserver.aws.syncbak.com .cbsservice.aws.syncbak.com .link.theplatform.com .cbsaavideo.com .cbsi.com .cbsivideo.com .pplusstatic.com;
 # > AU:Stan
 server_name .stan.com.au .stan.video .streamcoimg-a.akamaihd.net .live01-stan.akamaized.net .live02-stan.akamaized.net;
@@ -171,7 +171,7 @@ server_name .geolocation.onetrust.com;
 server_name .max.com .hbo.com .hbogo.com .hbomax.com .hbomaxcdn.com .hbonow.com .maxgo.com .discomax.com;
 # > Shudder
 server_name .shudder.com;
-# > BritBox !Against AU/EU!
+# > BritBox
 server_name .vod-dash-ntham-comm-live.akamaized.net .vod-dash-ntham-comm.live.cf.md.bbci.co.uk .vod-hls-ntham-comm-live.akamaized.net .vod-hls-ntham-comm.live.cf.md.bbci.co.uk .britbox.com .d2z3p34itxwaj7.cloudfront.net;
 # > Crackle
 server_name .crackle.com;
@@ -179,7 +179,7 @@ server_name .crackle.com;
 server_name .cwtv.com;
 # > A&E TV
 server_name .aetv.com .ccpa-service.sp-prod.net;
-# > NBA TV !Against AU!
+# > NBA TV
 server_name .nba.com .neulion-a.akamaihd.net .nlnbamdnyc-a.akamaihd.net .sdk.iad-03.braze.com .nbaprop.sc.omtrdc.net .nlnbaqos.neulion.com .watchnba.cdnfastly.endeavorstreaming.net .nbaapi.neulion.com .nba-api-cdn.opin.media .neulionqos-a.akamaihd.net .neulion.com .nbaprop.tt.omtrdc.net .lion-nba-msl.akamaized.net .nbanlds19vod.akamaized.net;
 # > Fubo TV
 server_name .fubo.tv;
@@ -189,17 +189,17 @@ server_name .tubitv.com;
 server_name .dishworld.com .slinginternational.com .sling.com .movenetworks.com .movetv.com;
 # > Pluto TV
 server_name .pluto.tv;
-# > Acorn TV !Against AU!
+# > Acorn TV
 server_name .edge.api.brightcove.com .api.rlje.net .boltdns.net .acorn.tv;
-# > SHOWTIME !Against AU!
+# > SHOWTIME
 server_name .sho.com .showtime.com .showtimeanytime.com;
-# > encoreTVB ?TVB HK? !Against JP TVer!
+# > encoreTVB
 server_name .encoretvb.com .bcbolt446c5271-a.akamaihd.net .videos-f.jwpsrv.com .content.jwplatform.com .edge.api.brightcove.com;
-# > Funimation !Against AU/EU!
+# > Funimation
 server_name .funimation.com;
-# > Discovery+ !Against EU!
+# > Discovery+
 server_name .content-ause1-ur-discovery1.uplynk.com .disco-api.com .discoveryplus.com .x-default-stgec.uplynk.com .discovery.com .discoveryplus.co.uk .getblueshift.com .litix.io .mobile-collector.newrelic.com .discovery.uplynk.com;
-# > Paramount+ !Against AU!
+# > Paramount+
 server_name .paramountplus.com .cbsi.live.ott.irdeto.com .cbsplaylistserver.aws.syncbak.com .cbsservice.aws.syncbak.com .link.theplatform.com .cbsaavideo.com .cbsi.com .cbsivideo.com .pplusstatic.com;
 # > Peacock TV
 server_name .peacocktv.com .peacock.com;
@@ -219,7 +219,7 @@ server_name .f1prodlive.akamaized.net .formula1.com;
 # ---------- > Europe Media
 # > EU:Rakuten TV
 server_name .rakuten.tv;
-# > EU:Funimation !Against US/AU!
+# > EU:Funimation
 server_name .funimation.com;
 # > EU:SkyShowTime
 server_name .skyshowtimeuk.data.adobedc.net .skyshowtime.com .cssott.com .4ac1dd56e493354be504f063e4ae3440a13c6776.cws.conviva.com;
@@ -230,7 +230,7 @@ server_name .europe-fastly-mediashield-live-prod.cdn.h264.io .akamai.prod-live.h
 # > ViaPlay
 server_name .i-viaplay-com.akamaized.net .viaplay.com .viaplay.pl .mtg-api.com;
 # > GB:Sky GO ;SkyGONZ .sky.com;
-# > GB:BritBox !Against US/AU!
+# > GB:BritBox
 server_name .vod-dash-ntham-comm-live.akamaized.net .vod-dash-ntham-comm.live.cf.md.bbci.co.uk .vod-hls-ntham-comm-live.akamaized.net .vod-hls-ntham-comm.live.cf.md.bbci.co.uk .britbox.com .d2z3p34itxwaj7.cloudfront.net;
 # > GB:ITV Hub
 server_name .itvpnpmobile-a.akamaihd.net .itv.com .itvstatic.com;
@@ -240,7 +240,7 @@ server_name .channel4.com;
 server_name .channel5.com;
 # > GB:BBC
 server_name .aod-dash-uk-live.akamaized.net .aod-hls-uk-live.akamaized.net .as-dash-uk-live.akamaized.net .as-hls-uk-live.akamaized.net .vod-dash-uk-live.akamaized.net .vod-dash-ww-live.akamaized.net .vod-hls-uk-live.akamaized.net .vod-sub-uk-live.akamaized.net .vod-thumb-uk-live.akamaized.net .vod-thumb-ww-live.akamaized.net .vs-cmaf-push-uk-live.akamaized.net .bbc .bbc.co .bbc.co.uk .bbc.com .bbc.in .bbc.net.uk .bbcchinese.com .bbcfmt.hs.llnwd.net .bbcfmt.s.llnwi.net .bbci.co .bbci.co.uk .bbcmedia.co.uk .bbcpersian.com .bbcverticals.com .bidi.net.uk;
-# > GB:Discovery+ !Against AU!
+# > GB:Discovery+
 server_name .content-ause1-ur-discovery1.uplynk.com .disco-api.com .discoveryplus.com .x-default-stgec.uplynk.com .discovery.com .discoveryplus.co.uk .getblueshift.com .litix.io .mobile-collector.newrelic.com .discovery.uplynk.com;
 # > FR:Salto
 server_name .salto.fr;
@@ -291,13 +291,11 @@ server_name .bilibili.com;
 
 
 # ---------- > South America Media
-# Star+
-server_name .starplus.com .starott.com .star.api.edge.bamgrid.com .star.connections.edge.bamgrid.com .star.content.edge.bamgrid.com .star.playback.edge.bamgrid.com;
 # > HBO 
 server_name .cinemax.com .forthethrone.com .hbo.com .hbogo.com .hbomax.com .hbomaxcdn.com .hbonow.com .maxgo.com;
 # > DirecTV
 server_name .directvgo.com;
-# > Funimation !Against US/EU/AU!
+# > Funimation
 server_name .funimation.com;
 
 # ---------- > Indian Media

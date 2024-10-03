@@ -268,7 +268,7 @@
 [/data-cloudauthoring.magazine.rakuten.co.jp/]<DNS>
 
 # ---------- > Oceania Media
-# > NBA TV !Against US!
+# > NBA TV
 [/nba.com/]<DNS>
 [/neulion-a.akamaihd.net/]<DNS>
 [/nlnbamdnyc-a.akamaihd.net/]<DNS>
@@ -283,26 +283,26 @@
 [/nbaprop.tt.omtrdc.net/]<DNS>
 [/lion-nba-msl.akamaized.net/]<DNS>
 [/nbanlds19vod.akamaized.net/]<DNS>
-# > Acorn TV !Against US!
+# > Acorn TV
 [/edge.api.brightcove.com/]<DNS>
 [/api.rlje.net/]<DNS>
 [/boltdns.net/]<DNS>
 [/acorn.tv/]<DNS>
-# > SHOWTIME !Against US!
+# > SHOWTIME
 [/sho.com/]<DNS>
 [/showtime.com/]<DNS>
 [/showtimeanytime.com/]<DNS>
-# > BritBox !Against US/EU!
+# > BritBox
 [/vod-dash-ntham-comm-live.akamaized.net/]<DNS>
 [/vod-dash-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
 [/vod-hls-ntham-comm-live.akamaized.net/]<DNS>
 [/vod-hls-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
 [/britbox.com/]<DNS>
 [/d2z3p34itxwaj7.cloudfront.net/]<DNS>
-# > Funimation !Against US/EU!
+# > Funimation
 [/funimation.com/]<DNS>
 [/funimationsvc.com/]<DNS>
-# > Paramount+ !Against US!
+# > Paramount+
 [/paramountplus.com/]<DNS>
 [/cbsi.live.ott.irdeto.com/]<DNS>
 [/cbsplaylistserver.aws.syncbak.com/]<DNS>
@@ -451,7 +451,7 @@
 [/discomax.com/]<DNS>
 # > Shudder
 [/shudder.com/]<DNS>
-# > BritBox !Against AU/EU!
+# > BritBox
 [/vod-dash-ntham-comm-live.akamaized.net/]<DNS>
 [/vod-dash-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
 [/vod-hls-ntham-comm-live.akamaized.net/]<DNS>
@@ -465,7 +465,7 @@
 # > A&E TV
 [/aetv.com/]<DNS>
 [/ccpa-service.sp-prod.net/]<DNS>
-# > NBA TV !Against AU!
+# > NBA TV
 [/nba.com/]<DNS>
 [/neulion-a.akamaihd.net/]<DNS>
 [/nlnbamdnyc-a.akamaihd.net/]<DNS>
@@ -492,24 +492,24 @@
 [/movetv.com/]<DNS>
 # > Pluto TV
 [/pluto.tv/]<DNS>
-# > Acorn TV !Against AU!
+# > Acorn TV
 [/edge.api.brightcove.com/]<DNS>
 [/api.rlje.net/]<DNS>
 [/boltdns.net/]<DNS>
 [/acorn.tv/]<DNS>
-# > SHOWTIME !Against AU!
+# > SHOWTIME
 [/sho.com/]<DNS>
 [/showtime.com/]<DNS>
 [/showtimeanytime.com/]<DNS>
-# > encoreTVB ?TVB HK? !Against JP TVer!
+# > encoreTVB
 [/encoretvb.com/]<DNS>
 [/bcbolt446c5271-a.akamaihd.net/]<DNS>
 [/videos-f.jwpsrv.com/]<DNS>
 [/content.jwplatform.com/]<DNS>
 [/edge.api.brightcove.com/]<DNS>
-# > Funimation !Against AU/EU!
+# > Funimation
 [/funimation.com/]<DNS>
-# > Discovery+ !Against EU!
+# > Discovery+
 [/content-ause1-ur-discovery1.uplynk.com/]<DNS>
 [/disco-api.com/]<DNS>
 [/discoveryplus.com/]<DNS>
@@ -520,7 +520,7 @@
 [/litix.io/]<DNS>
 [/mobile-collector.newrelic.com/]<DNS>
 [/discovery.uplynk.com/]<DNS>
-# > Paramount+ !Against AU!
+# > Paramount+
 [/paramountplus.com/]<DNS>
 [/cbsi.live.ott.irdeto.com/]<DNS>
 [/cbsplaylistserver.aws.syncbak.com/]<DNS>
@@ -552,7 +552,7 @@
 # ---------- > Europe Media
 # > EU:Rakuten TV
 [/rakuten.tv/]<DNS>
-# > EU:Funimation !Against US/AU!
+# > EU:Funimation
 [/funimation.com/]<DNS>
 # > EU:SkyShowTime
 [/skyshowtimeuk.data.adobedc.net/]<DNS>
@@ -589,7 +589,7 @@
 [/mtg-api.com/]<DNS>
 # > GB:Sky GO /]<DNS>SkyGONZ/]<DNS>
 [/sky.com/]<DNS>
-# > GB:BritBox !Against US/AU!
+# > GB:BritBox
 [/vod-dash-ntham-comm-live.akamaized.net/]<DNS>
 [/vod-dash-ntham-comm.live.cf.md.bbci.co.uk/]<DNS>
 [/vod-hls-ntham-comm-live.akamaized.net/]<DNS>
@@ -631,7 +631,7 @@
 [/bbcpersian.com/]<DNS>
 [/bbcverticals.com/]<DNS>
 [/bidi.net.uk/]<DNS>
-# > GB:Discovery+ !Against AU!
+# > GB:Discovery+
 [/content-ause1-ur-discovery1.uplynk.com/]<DNS>
 [/disco-api.com/]<DNS>
 [/discoveryplus.com/]<DNS>
@@ -719,13 +719,6 @@
 
 
 # ---------- > South America Media
-# Star+
-[/starplus.com/]<DNS>
-[/starott.com/]<DNS>
-[/star.api.edge.bamgrid.com/]<DNS>
-[/star.connections.edge.bamgrid.com/]<DNS>
-[/star.content.edge.bamgrid.com/]<DNS>
-[/star.playback.edge.bamgrid.com/]<DNS>
 # > HBO 
 [/cinemax.com/]<DNS>
 [/forthethrone.com/]<DNS>
@@ -737,7 +730,7 @@
 [/maxgo.com/]<DNS>
 # > DirecTV
 [/directvgo.com/]<DNS>
-# > Funimation !Against US/EU/AU!
+# > Funimation
 [/funimation.com/]<DNS>
 
 # ---------- > Indian Media
