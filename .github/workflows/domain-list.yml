@@ -20,6 +20,29 @@ jobs:
         cat stream.list | sed -z 's/$;\r\n~^(\.\*|)/ ./g' |  sed 's/\\././g' | sed 's/~^(.*|)/server_name ./g' | sed 's/\$//g'  > stream.nginx.list
         cat stream.list | sed 's/~^(.*|)/[\//g' | sed 's/\\././g' | sed 's/$;/\/]<DNS>/g'   > stream.adg.list
         cat stream.list | sed 's/~^(.*|)//g' | sed 's/\\././g' | sed 's/$;//g'   > stream.text.list
+        # 创建一个空的 JSON 文件
+        echo '{}' > stream.list.json
+        # 读取文件并转换为 JSON 结构
+        cat stream.list | tr -d "\r" | while read -r line; do
+          # 检查是否是新的分类，比如“Global Platform”
+          if [[ $line =~ ^#\ ----------\ \>\ (.+)$ ]]; then
+            section="${BASH_REMATCH[1]}"
+          fi
+          
+          # 检查是否是子分类，比如“DAZN”
+          if [[ $line =~ ^#\ \>\ (.+)$ ]]; then
+            subsection="${BASH_REMATCH[1]}"
+          fi
+          
+          # 检查是否是规则条目
+          if [[ $line =~ ^~\^(.*|)\; ]]; then
+            pattern=$(echo "${line}" | sed 's/~^(.*|)//g' | sed 's/\\././g' | sed 's/$;//g' )
+            # 使用 jq 将规则条目添加到对应的 section 和 subsection 中
+            jq --arg section "$section" --arg subsection "$subsection" --arg pattern "$pattern" \
+            '.[$section][$subsection] += [$pattern]' output.json > tmp.json && mv tmp.json output.json
+          fi
+        done
+
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
