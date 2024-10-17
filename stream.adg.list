@@ -177,6 +177,7 @@
 # ---------- > Japan Media
 # > NHK+
 [/nhk.jp/]<DNS>
+[/nhk.or.jp/]<DNS>
 # > DMM
 [/dmm-extension.com/]<DNS>
 [/dmm.co.jp/]<DNS>

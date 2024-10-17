@@ -177,6 +177,7 @@ nameserver /9c9media.com/<replace with groupname>
 # ---------- > Japan Media
 # > NHK+
 nameserver /nhk.jp/<replace with groupname>
+nameserver /nhk.or.jp/<replace with groupname>
 # > DMM
 nameserver /dmm-extension.com/<replace with groupname>
 nameserver /dmm.co.jp/<replace with groupname>

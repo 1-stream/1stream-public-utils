@@ -59,7 +59,7 @@ server_name .crave.ca .go-mpulse.net .9c9media.com;
 
 # ---------- > Japan Media
 # > NHK+
-server_name .nhk.jp;
+server_name .nhk.jp .nhk.or.jp;
 # > DMM
 server_name .dmm-extension.com .dmm.co.jp .dmm.com .videomarket.jp .p-smith.com .vmdash-cenc.akamaized.net .img.vm-movie.jp;
 # > Abema

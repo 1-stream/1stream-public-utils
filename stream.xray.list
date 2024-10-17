@@ -177,6 +177,7 @@
 # ---------- > Japan Media
 # > NHK+
 "domain:nhk.jp",
+"domain:nhk.or.jp",
 # > DMM
 "domain:dmm-extension.com",
 "domain:dmm.co.jp",
