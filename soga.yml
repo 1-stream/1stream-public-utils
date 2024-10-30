@@ -15,6 +15,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:hotstar.com
     - domain:hotstarext.com
     # > Disney+
+    - domain:disney.connections.edge.bamgrid.com
     - domain:disney.api.edge.bamgrid.com
     - domain:disney-plus.net
     - domain:disneyplus.com
@@ -30,7 +31,6 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:nflxvideo.net
     - domain:nflxext.com
     - domain:nflxso.net
-
     # ---------- > Taiwan Media
     # > KKTV
     - domain:kfs.io
@@ -41,7 +41,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:kktv.me
     # > LiTV
     - domain:litv.tv
-    - domain:litvfreemobile-hichannel.cdn.hinet.net
+    - domain:litvfreepc.akamaized.net
     # > MyVideo
     - domain:cdn.plyr.io
     - domain:myvideo.net.tw
@@ -76,8 +76,13 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:hbogoprod-vod.akamaized.net
     - domain:hbolb.onwardsmg.com
     - domain:hbounify-prod.evergent.com
+    - domain:hbogo.co.th
     - domain:hbogoasia.com
     - domain:hbogoasia.hk
+    - domain:hbogoasia.id
+    - domain:hbogoasia.ph
+    - domain:hbogoasia.sg
+    - domain:hbogoasia.tw
     # > Bahamut Anime
     - domain:bahamut.com.tw
     - domain:gamer.com.tw
@@ -85,8 +90,28 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:gamer2-cds.cdn.hinet.net
     # > BiliBili
     - domain:bilibili.com
+    # > Friday Video
+    - domain:video.friday.tw
+
+    # ---------- > Canada Media
+    # > CBC Gem
+    - domain:cbc.ca
+    - domain:cbchd1dynamicads-i.akamaihd.net
+    - domain:cbclivedai5-i.akamaihd.net
+    - domain:cbcnewshd-f.akamaihd.net
+    - domain:cbcrcott-gem-key.akamaized.net
+    - domain:cbcrcott-gem.akamaized.net
+    - domain:go-mpulse.net
+    - domain:theplatform.com
+    # > Crave TV
+    - domain:crave.ca
+    - domain:go-mpulse.net
+    - domain:9c9media.com
 
     # ---------- > Japan Media
+    # > NHK+
+    - domain:nhk.jp
+    - domain:nhk.or.jp
     # > DMM
     - domain:dmm-extension.com
     - domain:dmm.co.jp
@@ -95,7 +120,6 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:p-smith.com
     - domain:vmdash-cenc.akamaized.net
     - domain:img.vm-movie.jp
-    - domain:bam.nr-data.net
     # > Abema
     - domain:abema.io
     - domain:abema.tv
@@ -103,10 +127,9 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:linear-abematv.akamaized.net
     - domain:ds-vod-abematv.akamaized.net
     - domain:vod-abematv.akamaized.net
+    - domain:vod-playout-abematv.akamaized.net
     - domain:ameba.jp
     - domain:hayabusa.io
-    - domain:mobile-collector.newrelic.com
-    - domain:vod-abematv.akamaized.net
     - domain:bucketeer.jp
     - domain:abema.adx.promo
     - domain:hayabusa.media
@@ -115,10 +138,6 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:dmc.nico
     - domain:nicovideo.jp
     - domain:nimg.jp
-    - domain:socdm.com
-    # > Music.jp
-    - domain:music.jp
-    - domain:music-book.jp
     # > Telasa
     - domain:telasa.jp
     - domain:kddi-video.com
@@ -139,7 +158,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     # > TVer
     - domain:tver.jp
     - domain:edge.api.brightcove.com
-    #     - domain:players.brightcove.net
+    # - domain:players.brightcove.net
     - domain:gorin.jp
     - domain:screens-lab.jp
     - domain:tver.co.jp
@@ -150,6 +169,8 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:wowow.co.jp
     # > Videomarket
     - domain:videomarket.jp
+    # > D Anime Store
+    - domain:animestore.docomo.ne.jp
     # > Fuji TV
     - domain:fujitv.co.jp
     - domain:stream.ne.jp
@@ -161,12 +182,25 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:clubdam.com
     # > J:com On Demand
     - domain:id.zaq.ne.jp
+    # > AnimeFesta
+    - domain:api-animefesta.iowl.jp
+    # > Lemino
+    - domain:if.lemino.docomo.ne.jp
+    # > Rakuten TV JP
+    - domain:rakuten.co.jp
     # > Games
     - domain:cygames.jp
     - domain:konosubafd.jp
     - domain:colorfulpalette.org
     - domain:worldflipper.jp
-
+    - domain:jujutsuphanpara.jp
+    # > Mora
+    - domain:mora.jp
+    # > Music.jp
+    - domain:music.jp
+    - domain:music-book.jp
+    # > Reads 
+    - domain:data-cloudauthoring.magazine.rakuten.co.jp
     # ---------- > North America Media
     # > FOX
     - domain:x-live-fox-stgec.uplynk.com
@@ -219,9 +253,10 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:hbomaxcdn.com
     - domain:hbonow.com
     - domain:maxgo.com
+    - domain:discomax.com
     # > Shudder
     - domain:shudder.com
-    # > BritBox !Against AU/EU!
+    # > BritBox
     - domain:vod-dash-ntham-comm-live.akamaized.net
     - domain:vod-dash-ntham-comm.live.cf.md.bbci.co.uk
     - domain:vod-hls-ntham-comm-live.akamaized.net
@@ -235,7 +270,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     # > A&E TV
     - domain:aetv.com
     - domain:ccpa-service.sp-prod.net
-    # > NBA TV !Against AU!
+    # > NBA TV
     - domain:nba.com
     - domain:neulion-a.akamaihd.net
     - domain:nlnbamdnyc-a.akamaihd.net
@@ -262,24 +297,24 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:movetv.com
     # > Pluto TV
     - domain:pluto.tv
-    # > Acorn TV !Against AU!
+    # > Acorn TV
     - domain:edge.api.brightcove.com
     - domain:api.rlje.net
     - domain:boltdns.net
     - domain:acorn.tv
-    # > SHOWTIME !Against AU!
+    # > SHOWTIME
     - domain:sho.com
     - domain:showtime.com
     - domain:showtimeanytime.com
-    # > encoreTVB ?TVB HK? !Against JP TVer!
+    # > encoreTVB
     - domain:encoretvb.com
     - domain:bcbolt446c5271-a.akamaihd.net
     - domain:videos-f.jwpsrv.com
     - domain:content.jwplatform.com
     - domain:edge.api.brightcove.com
-    # > Funimation !Against AU/EU!
+    # > Funimation
     - domain:funimation.com
-    # > Discovery+ !Against EU!
+    # > Discovery+
     - domain:content-ause1-ur-discovery1.uplynk.com
     - domain:disco-api.com
     - domain:discoveryplus.com
@@ -290,7 +325,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:litix.io
     - domain:mobile-collector.newrelic.com
     - domain:discovery.uplynk.com
-    # > Paramount+ !Against AU!
+    # > Paramount+
     - domain:paramountplus.com
     - domain:cbsi.live.ott.irdeto.com
     - domain:cbsplaylistserver.aws.syncbak.com
@@ -307,7 +342,8 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:popcornflix.com
     - domain:popcornflix-prod.cloud.seachange.com
     # > Crunchyroll
-    - domain:c.evidon.com
+    - domain:crunchyroll.com
+    - domain:vrv.co
     # > Directv Stream
     - domain:atttvnow.com
     # > KBS American
@@ -321,7 +357,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     # ---------- > Europe Media
     # > EU:Rakuten TV
     - domain:rakuten.tv
-    # > EU:Funimation !Against US/AU!
+    # > EU:Funimation
     - domain:funimation.com
     # > EU:SkyShowTime
     - domain:skyshowtimeuk.data.adobedc.net
@@ -336,7 +372,29 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:hbomax.com
     - domain:hbomaxcdn.com
     - domain:maxgo.com
-    # > GB:BritBox !Against US/AU!
+    # > EuroSport
+    - domain:europe-fastly-mediashield-live-prod.cdn.h264.io
+    - domain:akamai.prod-live.h264.io
+    - domain:eurosport-dlvr-ott.akamaized.net
+    - domain:eu3-prod-images.disco-api.com
+    - domain:eu3-prod.disco-api.com
+    - domain:eurosportplayer.com
+    - domain:eurosport.com
+    - domain:eurosport.fr
+    - domain:eurosport.es
+    - domain:eurosport.ro
+    - domain:eurosport.io
+    - domain:eurosport.ru
+    - domain:media-shield.live.eurosport.map.fastly.net
+    - domain:eurosport-dlvr-ott-vod.akamaized.net
+    # > ViaPlay
+    - domain:i-viaplay-com.akamaized.net
+    - domain:viaplay.com
+    - domain:viaplay.pl
+    - domain:mtg-api.com
+    # > GB:Sky GO SkyGONZ
+    - domain:sky.com
+    # > GB:BritBox
     - domain:vod-dash-ntham-comm-live.akamaized.net
     - domain:vod-dash-ntham-comm.live.cf.md.bbci.co.uk
     - domain:vod-hls-ntham-comm-live.akamaized.net
@@ -378,7 +436,7 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:bbcpersian.com
     - domain:bbcverticals.com
     - domain:bidi.net.uk
-    # > GB:Discovery+ !Against AU!
+    # > GB:Discovery+
     - domain:content-ause1-ur-discovery1.uplynk.com
     - domain:disco-api.com
     - domain:discoveryplus.com
@@ -395,6 +453,8 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:canalplus.com
     # > FR:Molotov
     - domain:molotov.tv
+    # > FR:France.tv
+    - domain:ftven.fr
     # > DE:Joyn
     - domain:joyn.de
     # > DE:Sky
@@ -406,6 +466,8 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:videoland.com
     # > NL:NPO
     - domain:npo.nl
+    # > IT Rai Play
+    - domain:mediapolisvod.rai.it
     # > RU:Amediateka
     - domain:amediateka.ru
     # > UA:MEGOGO
@@ -414,11 +476,21 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     # > CH:Sky
     - domain:sky.ch
     - domain:zahs.tv
+    # > TR:digiturkplay
+    - domain:digiturkplay.com
+    - domain:dt-int-gurme-hls.mncdn.com
+    - domain:dt-live-int.akamaized.net
 
     # ---------- > Hong Kong Media
     # > Now E 
     - domain:nowe.com
     - domain:nowestatic.com
+    # > Now TV
+    - domain:now.com
+    # > Viu.TV
+    #include Viu.com
+    - domain:viu.now.com
+    - domain:viu.tv
     # > MyTVSuper
     - domain:mytvsuper.com
     - domain:mytvsuperlimited.hb.omtrdc.net
@@ -437,85 +509,17 @@ https://xxx.core.access.xxxxx.fun/dns-query:
     - domain:hbogoprod-vod.akamaized.net
     - domain:hbolb.onwardsmg.com
     - domain:hbounify-prod.evergent.com
+    - domain:hbogo.co.th
     - domain:hbogoasia.com
     - domain:hbogoasia.hk
-
-    # ---------- > South America Media
-    # Star+
-    - domain:starplus.com
-    - domain:starott.com
-    - domain:star.api.edge.bamgrid.com
-    - domain:star.connections.edge.bamgrid.com
-    - domain:star.content.edge.bamgrid.com
-    - domain:star.playback.edge.bamgrid.com
-
-    # ---------- > ? media
-    # > Setanta Sports
-    - domain:setantasports.com
-    - domain:imggaming.com
-    - domain:diceplatform.com
-    - domain:dicelaboratory.com
-    - domain:pndsn.com
-    - domain:imggaming.s3-eu-west-1.amazonaws.com
-    - domain:ux1kpaebv0.execute-api.eu-west-1.amazonaws.com
-    - domain:1ok961aaca.execute-api.eu-west-1.amazonaws.com
-
-    # ---------- > SouthEastAsia media
-    # > HBO GO Asia
-    - domain:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-    - domain:bcbolthboa-a.akamaihd.net
-    - domain:dai3fd1oh325y.cloudfront.net
-    - domain:hboasia1-i.akamaihd.net
-    - domain:hboasia2-i.akamaihd.net
-    - domain:hboasia3-i.akamaihd.net
-    - domain:hboasia4-i.akamaihd.net
-    - domain:hboasia5-i.akamaihd.net
-    - domain:hboasialive.akamaized.net
-    - domain:hbogoprod-vod.akamaized.net
-    - domain:hbolb.onwardsmg.com
-    - domain:hbounify-prod.evergent.com
-    - domain:hbogoasia.com
-    - domain:hbogoasia.hk
-    # > B-Global
-    - domain:bilibili.tv
-    # > SG:meWATCH
-    - domain:mewatch.sg
-    # > SG:StarHub
-    - domain:starhubgo.com
-    - domain:failoverstarhub.akamaized.net
-    - domain:scvm1sc0-ssm.anycast.nagra.com
-    - domain:starhubtvplus.com
-    # > TH:TrueID 
-    - domain:trueid.net
-    # > TH:AIS Play
-    - domain:aisplay.ais.co.th
-    - domain:ais-vidnt.com
-    # > ID:Vidio
-    - domain:geo-id-media-001-vidio-com.akamaized.net
-    # > VN:MYTV
-    - domain:mytv.vn
-    # > VN:Clip TV
-    - domain:cliptv.vn
-    # > VN:Galaxy Play
-    - domain:glxplay.io
-    # > MY:sooka
-    - domain:sooka.my
-    - domain:kaltura.com
-    - domain:1fad96d91f4f519fc79753650a57dad992c44af2.cws.conviva.com
-    - domain:fontawesome.com
-    - domain:maxcdn.icons8.com
-    - domain:kingdata.ksyun.com
-    # > MY:astro
-    - domain:astro.com.my
-    # > IN:MXPlayer
-    - domain:mxplayer.in
-    # > IN:Tata Play
-    - domain:tataplay.com
-    # > UAE:shahid
-    - domain:mbc.net
-    - domain:npaw.com
-    - domain:shahid.net
-
+    - domain:hbogoasia.id
+    - domain:hbogoasia.ph
+    - domain:hbogoasia.sg
+    - domain:hbogoasia.tw
+    # > HOY TV
+    - domain:hoy.tv
+    # > BiliBili 
+    - domain:bilibili.com
     # ---------- > Others
     # > Openai
     - domain:openai.com
