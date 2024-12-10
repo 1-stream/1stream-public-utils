@@ -839,6 +839,7 @@
 # > Openai
 [/openai.com/]<DNS>
 [/chatgpt.com/]<DNS>
+[/sora.com/]<DNS>
 [/oaistatic.com/]<DNS>
 [/oaiusercontent.com/]<DNS>
 # > ExHantai/E-hentai

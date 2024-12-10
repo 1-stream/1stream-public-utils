@@ -839,6 +839,7 @@ nameserver /shahid.net/<replace with groupname>
 # > Openai
 nameserver /openai.com/<replace with groupname>
 nameserver /chatgpt.com/<replace with groupname>
+nameserver /sora.com/<replace with groupname>
 nameserver /oaistatic.com/<replace with groupname>
 nameserver /oaiusercontent.com/<replace with groupname>
 # > ExHantai/E-hentai

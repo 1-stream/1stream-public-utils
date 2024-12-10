@@ -361,7 +361,7 @@ server_name .mbc.net .npaw.com .shahid.net;
 
 # ---------- > AI Platform
 # > Openai
-server_name .openai.com .chatgpt.com .oaistatic.com .oaiusercontent.com;
+server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.com;
 # > ExHantai/E-hentai
 server_name .exhentai.org .e-hentai.org;
 # > Claude 2

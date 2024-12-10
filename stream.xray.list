@@ -839,6 +839,7 @@
 # > Openai
 "domain:openai.com",
 "domain:chatgpt.com",
+"domain:sora.com",
 "domain:oaistatic.com",
 "domain:oaiusercontent.com",
 # > ExHantai/E-hentai
