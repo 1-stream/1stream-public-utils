@@ -839,6 +839,7 @@
 # > Openai
 ~^(.*|)openai\.com$;
 ~^(.*|)chatgpt\.com$;
+~^(.*|)sora\.com$;
 ~^(.*|)oaistatic\.com$;
 ~^(.*|)oaiusercontent\.com$;
 # > ExHantai/E-hentai
