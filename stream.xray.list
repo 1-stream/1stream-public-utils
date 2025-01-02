@@ -841,7 +841,7 @@
 "domain:chatgpt.com",
 "domain:sora.com",
 "domain:oaistatic.com",
-"domain:oaiusercontent.com",.
+"domain:oaiusercontent.com",
 # > Claude 2
 "domain:anthropic.com",
 "domain:claude.ai",

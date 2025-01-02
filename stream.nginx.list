@@ -361,7 +361,7 @@ server_name .mbc.net .npaw.com .shahid.net;
 
 # ---------- > AI Platform
 # > Openai
-server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.com;.
+server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.com;
 # > Claude 2
 server_name .anthropic.com .claude.ai;
 # > Google Gemini
