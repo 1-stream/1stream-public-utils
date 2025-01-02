@@ -841,10 +841,7 @@
 [/chatgpt.com/]<DNS>
 [/sora.com/]<DNS>
 [/oaistatic.com/]<DNS>
-[/oaiusercontent.com/]<DNS>
-# > ExHantai/E-hentai
-[/exhentai.org/]<DNS>
-[/e-hentai.org/]<DNS>
+[/oaiusercontent.com/]<DNS>.
 # > Claude 2
 [/anthropic.com/]<DNS>
 [/claude.ai/]<DNS>
@@ -857,6 +854,11 @@
 [/generativelanguage.googleapis.com/]<DNS>
 # > Microsoft Copilot For Image Generates
 [/copilot.microsoft.com/]<DNS>
+
+# ---------- > Others
+# > ExHantai/E-hentai
+[/exhentai.org/]<DNS>
+[/e-hentai.org/]<DNS>
 
 # ---------- > China Media
 # > Youtube

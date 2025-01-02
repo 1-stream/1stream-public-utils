@@ -361,9 +361,7 @@ server_name .mbc.net .npaw.com .shahid.net;
 
 # ---------- > AI Platform
 # > Openai
-server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.com;
-# > ExHantai/E-hentai
-server_name .exhentai.org .e-hentai.org;
+server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.com;.
 # > Claude 2
 server_name .anthropic.com .claude.ai;
 # > Google Gemini
@@ -372,6 +370,10 @@ server_name .gemini.google.com .proactivebackend-pa.googleapis.com;
 server_name .aistudio.google.com .alkalimakersuite-pa.clients6.google.com .generativelanguage.googleapis.com;
 # > Microsoft Copilot For Image Generates
 server_name .copilot.microsoft.com;
+
+# ---------- > Others
+# > ExHantai/E-hentai
+server_name .exhentai.org .e-hentai.org;
 
 # ---------- > China Media
 # > Youtube

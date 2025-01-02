@@ -841,10 +841,7 @@
 "domain:chatgpt.com",
 "domain:sora.com",
 "domain:oaistatic.com",
-"domain:oaiusercontent.com",
-# > ExHantai/E-hentai
-"domain:exhentai.org",
-"domain:e-hentai.org",
+"domain:oaiusercontent.com",.
 # > Claude 2
 "domain:anthropic.com",
 "domain:claude.ai",
@@ -857,6 +854,11 @@
 "domain:generativelanguage.googleapis.com",
 # > Microsoft Copilot For Image Generates
 "domain:copilot.microsoft.com",
+
+# ---------- > Others
+# > ExHantai/E-hentai
+"domain:exhentai.org",
+"domain:e-hentai.org",
 
 # ---------- > China Media
 # > Youtube

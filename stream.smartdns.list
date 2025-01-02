@@ -841,10 +841,7 @@ nameserver /openai.com/<replace with groupname>
 nameserver /chatgpt.com/<replace with groupname>
 nameserver /sora.com/<replace with groupname>
 nameserver /oaistatic.com/<replace with groupname>
-nameserver /oaiusercontent.com/<replace with groupname>
-# > ExHantai/E-hentai
-nameserver /exhentai.org/<replace with groupname>
-nameserver /e-hentai.org/<replace with groupname>
+nameserver /oaiusercontent.com/<replace with groupname>.
 # > Claude 2
 nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>
@@ -857,6 +854,11 @@ nameserver /alkalimakersuite-pa.clients6.google.com/<replace with groupname>
 nameserver /generativelanguage.googleapis.com/<replace with groupname>
 # > Microsoft Copilot For Image Generates
 nameserver /copilot.microsoft.com/<replace with groupname>
+
+# ---------- > Others
+# > ExHantai/E-hentai
+nameserver /exhentai.org/<replace with groupname>
+nameserver /e-hentai.org/<replace with groupname>
 
 # ---------- > China Media
 # > Youtube
