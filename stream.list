@@ -841,10 +841,7 @@
 ~^(.*|)chatgpt\.com$;
 ~^(.*|)sora\.com$;
 ~^(.*|)oaistatic\.com$;
-~^(.*|)oaiusercontent\.com$;
-# > ExHantai/E-hentai
-~^(.*|)exhentai\.org$;
-~^(.*|)e-hentai\.org$;
+~^(.*|)oaiusercontent\.com$;\
 # > Claude 2
 ~^(.*|)anthropic\.com$;
 ~^(.*|)claude\.ai$;
@@ -857,6 +854,11 @@
 ~^(.*|)generativelanguage\.googleapis\.com$;
 # > Microsoft Copilot For Image Generates
 ~^(.*|)copilot\.microsoft\.com$;
+
+# ---------- > Others
+# > ExHantai/E-hentai
+~^(.*|)exhentai\.org$;
+~^(.*|)e-hentai\.org$;
 
 # ---------- > China Media
 # > Youtube
