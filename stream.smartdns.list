@@ -117,6 +117,8 @@ nameserver /4gtvfreepc-cds.cdn.hinet.net/<replace with groupname>
 nameserver /4gtvfreepcvod-cds.cdn.hinet.net/<replace with groupname>
 nameserver /4gtvpc-cds.cdn.hinet.net/<replace with groupname>
 nameserver /4gtvpcvod-cds.cdn.hinet.net/<replace with groupname>
+# > ofiii
+nameserver /ntdofifreepc.akamaized.net/<replace with groupname>
 # > LineTV.TW
 nameserver /d3c7rimkq79yfu.cloudfront.net/<replace with groupname>
 nameserver /linetv.tw/<replace with groupname>
@@ -842,6 +844,9 @@ nameserver /chatgpt.com/<replace with groupname>
 nameserver /sora.com/<replace with groupname>
 nameserver /oaistatic.com/<replace with groupname>
 nameserver /oaiusercontent.com/<replace with groupname>
+# > ExHantai/E-hentai
+nameserver /exhentai.org/<replace with groupname>
+nameserver /e-hentai.org/<replace with groupname>
 # > Claude 2
 nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>
@@ -854,11 +859,6 @@ nameserver /alkalimakersuite-pa.clients6.google.com/<replace with groupname>
 nameserver /generativelanguage.googleapis.com/<replace with groupname>
 # > Microsoft Copilot For Image Generates
 nameserver /copilot.microsoft.com/<replace with groupname>
-
-# ---------- > Others
-# > ExHantai/E-hentai
-nameserver /exhentai.org/<replace with groupname>
-nameserver /e-hentai.org/<replace with groupname>
 
 # ---------- > China Media
 # > Youtube

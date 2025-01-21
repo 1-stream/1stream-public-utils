@@ -36,6 +36,8 @@ server_name .litv.tv .litvfreepc.akamaized.net;
 server_name .cdn.plyr.io .myvideo.net.tw;
 # > 4GTV
 server_name .4gtv.tv .4gtvfreepc-cds.cdn.hinet.net .4gtvfreepcvod-cds.cdn.hinet.net .4gtvpc-cds.cdn.hinet.net .4gtvpcvod-cds.cdn.hinet.net;
+# > ofiii
+server_name .ntdofifreepc.akamaized.net;
 # > LineTV.TW
 server_name .d3c7rimkq79yfu.cloudfront.net .linetv.tw;
 # > Hami Video
@@ -362,6 +364,8 @@ server_name .mbc.net .npaw.com .shahid.net;
 # ---------- > AI Platform
 # > Openai
 server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.com;
+# > ExHantai/E-hentai
+server_name .exhentai.org .e-hentai.org;
 # > Claude 2
 server_name .anthropic.com .claude.ai;
 # > Google Gemini
@@ -370,10 +374,6 @@ server_name .gemini.google.com .proactivebackend-pa.googleapis.com;
 server_name .aistudio.google.com .alkalimakersuite-pa.clients6.google.com .generativelanguage.googleapis.com;
 # > Microsoft Copilot For Image Generates
 server_name .copilot.microsoft.com;
-
-# ---------- > Others
-# > ExHantai/E-hentai
-server_name .exhentai.org .e-hentai.org;
 
 # ---------- > China Media
 # > Youtube

@@ -117,6 +117,8 @@
 [/4gtvfreepcvod-cds.cdn.hinet.net/]<DNS>
 [/4gtvpc-cds.cdn.hinet.net/]<DNS>
 [/4gtvpcvod-cds.cdn.hinet.net/]<DNS>
+# > ofiii
+[/ntdofifreepc.akamaized.net/]<DNS>
 # > LineTV.TW
 [/d3c7rimkq79yfu.cloudfront.net/]<DNS>
 [/linetv.tw/]<DNS>
@@ -842,6 +844,9 @@
 [/sora.com/]<DNS>
 [/oaistatic.com/]<DNS>
 [/oaiusercontent.com/]<DNS>
+# > ExHantai/E-hentai
+[/exhentai.org/]<DNS>
+[/e-hentai.org/]<DNS>
 # > Claude 2
 [/anthropic.com/]<DNS>
 [/claude.ai/]<DNS>
@@ -854,11 +859,6 @@
 [/generativelanguage.googleapis.com/]<DNS>
 # > Microsoft Copilot For Image Generates
 [/copilot.microsoft.com/]<DNS>
-
-# ---------- > Others
-# > ExHantai/E-hentai
-[/exhentai.org/]<DNS>
-[/e-hentai.org/]<DNS>
 
 # ---------- > China Media
 # > Youtube
