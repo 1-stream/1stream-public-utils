@@ -117,6 +117,8 @@
 ~^(.*|)4gtvfreepcvod-cds\.cdn\.hinet\.net$;
 ~^(.*|)4gtvpc-cds\.cdn\.hinet\.net$;
 ~^(.*|)4gtvpcvod-cds\.cdn\.hinet\.net$;
+# > ofiii
+~^(.*|)ntdofifreepc\.akamaized\.net$;
 # > LineTV.TW
 ~^(.*|)d3c7rimkq79yfu\.cloudfront\.net$;
 ~^(.*|)linetv\.tw$;
@@ -842,6 +844,9 @@
 ~^(.*|)sora\.com$;
 ~^(.*|)oaistatic\.com$;
 ~^(.*|)oaiusercontent\.com$;
+# > ExHantai/E-hentai
+~^(.*|)exhentai\.org$;
+~^(.*|)e-hentai\.org$;
 # > Claude 2
 ~^(.*|)anthropic\.com$;
 ~^(.*|)claude\.ai$;
@@ -854,11 +859,6 @@
 ~^(.*|)generativelanguage\.googleapis\.com$;
 # > Microsoft Copilot For Image Generates
 ~^(.*|)copilot\.microsoft\.com$;
-
-# ---------- > Others
-# > ExHantai/E-hentai
-~^(.*|)exhentai\.org$;
-~^(.*|)e-hentai\.org$;
 
 # ---------- > China Media
 # > Youtube
