@@ -119,6 +119,7 @@
 "domain:4gtvpcvod-cds.cdn.hinet.net",
 # > ofiii
 "domain:ntdofifreepc.akamaized.net",
+"domain:ntdofifreepocpc.akamaized.net",
 # > LineTV.TW
 "domain:d3c7rimkq79yfu.cloudfront.net",
 "domain:linetv.tw",
@@ -844,9 +845,6 @@
 "domain:sora.com",
 "domain:oaistatic.com",
 "domain:oaiusercontent.com",
-# > ExHantai/E-hentai
-"domain:exhentai.org",
-"domain:e-hentai.org",
 # > Claude 2
 "domain:anthropic.com",
 "domain:claude.ai",
@@ -859,6 +857,11 @@
 "domain:generativelanguage.googleapis.com",
 # > Microsoft Copilot For Image Generates
 "domain:copilot.microsoft.com",
+
+# ---------- > Others
+# > ExHantai/E-hentai
+"domain:exhentai.org",
+"domain:e-hentai.org",
 
 # ---------- > China Media
 # > Youtube
