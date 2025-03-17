@@ -318,6 +318,8 @@ server_name .afreecatv.com;
 server_name .kbs.co.kr;
 # > jtbc
 server_name .jtbc.co.kr;
+# > PandaTV
+server_name .pandalive.co.kr;
 
 # ---------- > ? media
 # > Setanta Sports

@@ -759,6 +759,8 @@ nameserver /afreecatv.com/<replace with groupname>
 nameserver /kbs.co.kr/<replace with groupname>
 # > jtbc
 nameserver /jtbc.co.kr/<replace with groupname>
+# > PandaTV
+nameserver /pandalive.co.kr/<replace with groupname>
 
 # ---------- > ? media
 # > Setanta Sports
