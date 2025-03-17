@@ -759,6 +759,8 @@
 ~^(.*|)kbs\.co\.kr$;
 # > jtbc
 ~^(.*|)jtbc\.co\.kr$;
+# > PandaTV
+~^(.*|)pandalive\.co\.kr$;
 
 # ---------- > ? media
 # > Setanta Sports
