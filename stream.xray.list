@@ -157,7 +157,12 @@
 "domain:gamer-cds.cdn.hinet.net",
 "domain:gamer2-cds.cdn.hinet.net",
 # > BiliBili
-"domain:bilibili.com",
+"domain:api.bilibili.com",
+"domain:api.biliapi.net",
+"domain:api.biliapi.com",
+"domain:app.bilibili.com",
+"domain:app.biliapi.net",
+"domain:app.biliapi.com",
 # > Friday Video
 "domain:video.friday.tw",
 
@@ -716,8 +721,13 @@
 "domain:hbogoasia.tw",
 # > HOY TV
 "domain:hoy.tv",
-# > BiliBili 
-"domain:bilibili.com",
+# > BiliBili
+"domain:api.bilibili.com",
+"domain:api.biliapi.net",
+"domain:api.biliapi.com",
+"domain:app.bilibili.com",
+"domain:app.biliapi.net",
+"domain:app.biliapi.com",
 
 
 

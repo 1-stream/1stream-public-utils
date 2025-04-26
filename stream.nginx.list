@@ -49,7 +49,7 @@ server_name .44wilhpljf.execute-api.ap-southeast-1.amazonaws.com .bcbolthboa-a.a
 # > Bahamut Anime
 server_name .bahamut.com.tw .gamer.com.tw .gamer-cds.cdn.hinet.net .gamer2-cds.cdn.hinet.net;
 # > BiliBili
-server_name .bilibili.com;
+server_name .api.bilibili.com .api.biliapi.net .api.biliapi.com .app.bilibili.com .app.biliapi.net .app.biliapi.com;
 # > Friday Video
 server_name .video.friday.tw;
 
@@ -287,8 +287,8 @@ server_name .mytvsuper.com .mytvsuperlimited.hb.omtrdc.net .mytvsuperlimited.sc.
 server_name .44wilhpljf.execute-api.ap-southeast-1.amazonaws.com .bcbolthboa-a.akamaihd.net .dai3fd1oh325y.cloudfront.net .hboasia1-i.akamaihd.net .hboasia2-i.akamaihd.net .hboasia3-i.akamaihd.net .hboasia4-i.akamaihd.net .hboasia5-i.akamaihd.net .hboasialive.akamaized.net .hbogoprod-vod.akamaized.net .hbolb.onwardsmg.com .hbounify-prod.evergent.com .hbogo.co.th .hbogoasia.com .hbogoasia.hk .hbogoasia.id .hbogoasia.ph .hbogoasia.sg .hbogoasia.tw;
 # > HOY TV
 server_name .hoy.tv;
-# > BiliBili 
-server_name .bilibili.com;
+# > BiliBili
+server_name .api.bilibili.com .api.biliapi.net .api.biliapi.com .app.bilibili.com .app.biliapi.net .app.biliapi.com;
 
 
 

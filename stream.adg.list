@@ -157,7 +157,12 @@
 [/gamer-cds.cdn.hinet.net/]<DNS>
 [/gamer2-cds.cdn.hinet.net/]<DNS>
 # > BiliBili
-[/bilibili.com/]<DNS>
+[/api.bilibili.com/]<DNS>
+[/api.biliapi.net/]<DNS>
+[/api.biliapi.com/]<DNS>
+[/app.bilibili.com/]<DNS>
+[/app.biliapi.net/]<DNS>
+[/app.biliapi.com/]<DNS>
 # > Friday Video
 [/video.friday.tw/]<DNS>
 
@@ -716,8 +721,13 @@
 [/hbogoasia.tw/]<DNS>
 # > HOY TV
 [/hoy.tv/]<DNS>
-# > BiliBili 
-[/bilibili.com/]<DNS>
+# > BiliBili
+[/api.bilibili.com/]<DNS>
+[/api.biliapi.net/]<DNS>
+[/api.biliapi.com/]<DNS>
+[/app.bilibili.com/]<DNS>
+[/app.biliapi.net/]<DNS>
+[/app.biliapi.com/]<DNS>
 
 
 
