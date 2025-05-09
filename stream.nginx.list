@@ -37,7 +37,7 @@ server_name .cdn.plyr.io .myvideo.net.tw;
 # > 4GTV
 server_name .4gtv.tv .4gtvfreepc-cds.cdn.hinet.net .4gtvfreepcvod-cds.cdn.hinet.net .4gtvpc-cds.cdn.hinet.net .4gtvpcvod-cds.cdn.hinet.net;
 # > ofiii
-server_name .ntdofifreepc-tgc.cdn.hinet.net;
+server_name .ofiii.com .ntdofifreepc-tgc.cdn.hinet.net;
 # > LineTV.TW
 server_name .d3c7rimkq79yfu.cloudfront.net .linetv.tw;
 # > Hami Video

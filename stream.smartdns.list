@@ -118,6 +118,7 @@ nameserver /4gtvfreepcvod-cds.cdn.hinet.net/<replace with groupname>
 nameserver /4gtvpc-cds.cdn.hinet.net/<replace with groupname>
 nameserver /4gtvpcvod-cds.cdn.hinet.net/<replace with groupname>
 # > ofiii
+nameserver /ofiii.com/<replace with groupname>
 nameserver /ntdofifreepc-tgc.cdn.hinet.net/<replace with groupname>
 # > LineTV.TW
 nameserver /d3c7rimkq79yfu.cloudfront.net/<replace with groupname>
