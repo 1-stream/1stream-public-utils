@@ -107,7 +107,7 @@ nameserver /kktv.com.tw/<replace with groupname>
 nameserver /kktv.me/<replace with groupname>
 # > LiTV
 nameserver /litv.tv/<replace with groupname>
-nameserver /litvfreepc.akamaized.net/<replace with groupname>
+nameserver /ntd-tgc.cdn.hinet.net/<replace with groupname>
 # > MyVideo
 nameserver /cdn.plyr.io/<replace with groupname>
 nameserver /myvideo.net.tw/<replace with groupname>
@@ -132,26 +132,6 @@ nameserver /catchplay.com/<replace with groupname>
 nameserver /d2ivmxp5z2ww0n.cloudfront.net/<replace with groupname>
 nameserver /ols-ww100-cp.akamaized.net/<replace with groupname>
 nameserver /tra-www000-cp.akamaized.net/<replace with groupname>
-# > HBO GO Asia
-nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/<replace with groupname>
-nameserver /bcbolthboa-a.akamaihd.net/<replace with groupname>
-nameserver /dai3fd1oh325y.cloudfront.net/<replace with groupname>
-nameserver /hboasia1-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia2-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia3-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia4-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia5-i.akamaihd.net/<replace with groupname>
-nameserver /hboasialive.akamaized.net/<replace with groupname>
-nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
-nameserver /hbolb.onwardsmg.com/<replace with groupname>
-nameserver /hbounify-prod.evergent.com/<replace with groupname>
-nameserver /hbogo.co.th/<replace with groupname>
-nameserver /hbogoasia.com/<replace with groupname>
-nameserver /hbogoasia.hk/<replace with groupname>
-nameserver /hbogoasia.id/<replace with groupname>
-nameserver /hbogoasia.ph/<replace with groupname>
-nameserver /hbogoasia.sg/<replace with groupname>
-nameserver /hbogoasia.tw/<replace with groupname>
 # > Bahamut Anime
 nameserver /bahamut.com.tw/<replace with groupname>
 nameserver /gamer.com.tw/<replace with groupname>

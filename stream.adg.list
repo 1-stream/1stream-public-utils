@@ -107,7 +107,7 @@
 [/kktv.me/]<DNS>
 # > LiTV
 [/litv.tv/]<DNS>
-[/litvfreepc.akamaized.net/]<DNS>
+[/ntd-tgc.cdn.hinet.net/]<DNS>
 # > MyVideo
 [/cdn.plyr.io/]<DNS>
 [/myvideo.net.tw/]<DNS>
@@ -132,26 +132,6 @@
 [/d2ivmxp5z2ww0n.cloudfront.net/]<DNS>
 [/ols-ww100-cp.akamaized.net/]<DNS>
 [/tra-www000-cp.akamaized.net/]<DNS>
-# > HBO GO Asia
-[/44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/]<DNS>
-[/bcbolthboa-a.akamaihd.net/]<DNS>
-[/dai3fd1oh325y.cloudfront.net/]<DNS>
-[/hboasia1-i.akamaihd.net/]<DNS>
-[/hboasia2-i.akamaihd.net/]<DNS>
-[/hboasia3-i.akamaihd.net/]<DNS>
-[/hboasia4-i.akamaihd.net/]<DNS>
-[/hboasia5-i.akamaihd.net/]<DNS>
-[/hboasialive.akamaized.net/]<DNS>
-[/hbogoprod-vod.akamaized.net/]<DNS>
-[/hbolb.onwardsmg.com/]<DNS>
-[/hbounify-prod.evergent.com/]<DNS>
-[/hbogo.co.th/]<DNS>
-[/hbogoasia.com/]<DNS>
-[/hbogoasia.hk/]<DNS>
-[/hbogoasia.id/]<DNS>
-[/hbogoasia.ph/]<DNS>
-[/hbogoasia.sg/]<DNS>
-[/hbogoasia.tw/]<DNS>
 # > Bahamut Anime
 [/bahamut.com.tw/]<DNS>
 [/gamer.com.tw/]<DNS>

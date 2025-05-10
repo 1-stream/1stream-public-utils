@@ -31,7 +31,7 @@ server_name .byteoversea.com .ibytedtos.com .ipstatp.com .muscdn.com .musical.ly
 # > KKTV
 server_name .kfs.io .kktv-theater.kk.stream .kkbox.com .kkbox.com.tw .kktv.com.tw .kktv.me;
 # > LiTV
-server_name .litv.tv .litvfreepc.akamaized.net;
+server_name .litv.tv .ntd-tgc.cdn.hinet.net;
 # > MyVideo
 server_name .cdn.plyr.io .myvideo.net.tw;
 # > 4GTV
@@ -44,8 +44,6 @@ server_name .d3c7rimkq79yfu.cloudfront.net .linetv.tw;
 server_name .cdn.hinet.net .hamivideo.hinet.net .scc.ott.hinet.net;
 # > CatchPlay+
 server_name .catchplay.com .d2ivmxp5z2ww0n.cloudfront.net .ols-ww100-cp.akamaized.net .tra-www000-cp.akamaized.net;
-# > HBO GO Asia
-server_name .44wilhpljf.execute-api.ap-southeast-1.amazonaws.com .bcbolthboa-a.akamaihd.net .dai3fd1oh325y.cloudfront.net .hboasia1-i.akamaihd.net .hboasia2-i.akamaihd.net .hboasia3-i.akamaihd.net .hboasia4-i.akamaihd.net .hboasia5-i.akamaihd.net .hboasialive.akamaized.net .hbogoprod-vod.akamaized.net .hbolb.onwardsmg.com .hbounify-prod.evergent.com .hbogo.co.th .hbogoasia.com .hbogoasia.hk .hbogoasia.id .hbogoasia.ph .hbogoasia.sg .hbogoasia.tw;
 # > Bahamut Anime
 server_name .bahamut.com.tw .gamer.com.tw .gamer-cds.cdn.hinet.net .gamer2-cds.cdn.hinet.net;
 # > BiliBili
