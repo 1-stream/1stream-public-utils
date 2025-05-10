@@ -137,13 +137,24 @@
 [/gamer.com.tw/]<DNS>
 [/gamer-cds.cdn.hinet.net/]<DNS>
 [/gamer2-cds.cdn.hinet.net/]<DNS>
+# > HBO / Max
+[/max.com/]<DNS>
+[/hbo.com/]<DNS>
+[/hbogo.com/]<DNS>
+[/hbomax.com/]<DNS>
+[/hbomaxcdn.com/]<DNS>
+[/hbonow.com/]<DNS>
+[/maxgo.com/]<DNS>
+[/discomax.com/]<DNS>
 # > BiliBili
+[/www.bilibili.com/]<DNS>
 [/api.bilibili.com/]<DNS>
 [/api.biliapi.net/]<DNS>
 [/api.biliapi.com/]<DNS>
 [/app.bilibili.com/]<DNS>
 [/app.biliapi.net/]<DNS>
 [/app.biliapi.com/]<DNS>
+[/grpc.biliapi.net/]<DNS>
 # > Friday Video
 [/video.friday.tw/]<DNS>
 
@@ -680,35 +691,26 @@
 [/mytvsuperlimited.hb.omtrdc.net/]<DNS>
 [/mytvsuperlimited.sc.omtrdc.net/]<DNS>
 [/tvb.com/]<DNS>
-# > HBO GO Asia
-[/44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/]<DNS>
-[/bcbolthboa-a.akamaihd.net/]<DNS>
-[/dai3fd1oh325y.cloudfront.net/]<DNS>
-[/hboasia1-i.akamaihd.net/]<DNS>
-[/hboasia2-i.akamaihd.net/]<DNS>
-[/hboasia3-i.akamaihd.net/]<DNS>
-[/hboasia4-i.akamaihd.net/]<DNS>
-[/hboasia5-i.akamaihd.net/]<DNS>
-[/hboasialive.akamaized.net/]<DNS>
-[/hbogoprod-vod.akamaized.net/]<DNS>
-[/hbolb.onwardsmg.com/]<DNS>
-[/hbounify-prod.evergent.com/]<DNS>
-[/hbogo.co.th/]<DNS>
-[/hbogoasia.com/]<DNS>
-[/hbogoasia.hk/]<DNS>
-[/hbogoasia.id/]<DNS>
-[/hbogoasia.ph/]<DNS>
-[/hbogoasia.sg/]<DNS>
-[/hbogoasia.tw/]<DNS>
 # > HOY TV
 [/hoy.tv/]<DNS>
+# > HBO / Max
+[/max.com/]<DNS>
+[/hbo.com/]<DNS>
+[/hbogo.com/]<DNS>
+[/hbomax.com/]<DNS>
+[/hbomaxcdn.com/]<DNS>
+[/hbonow.com/]<DNS>
+[/maxgo.com/]<DNS>
+[/discomax.com/]<DNS>
 # > BiliBili
+[/www.bilibili.com/]<DNS>
 [/api.bilibili.com/]<DNS>
 [/api.biliapi.net/]<DNS>
 [/api.biliapi.com/]<DNS>
 [/app.bilibili.com/]<DNS>
 [/app.biliapi.net/]<DNS>
 [/app.biliapi.com/]<DNS>
+[/grpc.biliapi.net/]<DNS>
 
 
 

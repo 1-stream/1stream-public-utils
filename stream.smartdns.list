@@ -137,13 +137,24 @@ nameserver /bahamut.com.tw/<replace with groupname>
 nameserver /gamer.com.tw/<replace with groupname>
 nameserver /gamer-cds.cdn.hinet.net/<replace with groupname>
 nameserver /gamer2-cds.cdn.hinet.net/<replace with groupname>
+# > HBO / Max
+nameserver /max.com/<replace with groupname>
+nameserver /hbo.com/<replace with groupname>
+nameserver /hbogo.com/<replace with groupname>
+nameserver /hbomax.com/<replace with groupname>
+nameserver /hbomaxcdn.com/<replace with groupname>
+nameserver /hbonow.com/<replace with groupname>
+nameserver /maxgo.com/<replace with groupname>
+nameserver /discomax.com/<replace with groupname>
 # > BiliBili
+nameserver /www.bilibili.com/<replace with groupname>
 nameserver /api.bilibili.com/<replace with groupname>
 nameserver /api.biliapi.net/<replace with groupname>
 nameserver /api.biliapi.com/<replace with groupname>
 nameserver /app.bilibili.com/<replace with groupname>
 nameserver /app.biliapi.net/<replace with groupname>
 nameserver /app.biliapi.com/<replace with groupname>
+nameserver /grpc.biliapi.net/<replace with groupname>
 # > Friday Video
 nameserver /video.friday.tw/<replace with groupname>
 
@@ -680,35 +691,26 @@ nameserver /mytvsuper.com/<replace with groupname>
 nameserver /mytvsuperlimited.hb.omtrdc.net/<replace with groupname>
 nameserver /mytvsuperlimited.sc.omtrdc.net/<replace with groupname>
 nameserver /tvb.com/<replace with groupname>
-# > HBO GO Asia
-nameserver /44wilhpljf.execute-api.ap-southeast-1.amazonaws.com/<replace with groupname>
-nameserver /bcbolthboa-a.akamaihd.net/<replace with groupname>
-nameserver /dai3fd1oh325y.cloudfront.net/<replace with groupname>
-nameserver /hboasia1-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia2-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia3-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia4-i.akamaihd.net/<replace with groupname>
-nameserver /hboasia5-i.akamaihd.net/<replace with groupname>
-nameserver /hboasialive.akamaized.net/<replace with groupname>
-nameserver /hbogoprod-vod.akamaized.net/<replace with groupname>
-nameserver /hbolb.onwardsmg.com/<replace with groupname>
-nameserver /hbounify-prod.evergent.com/<replace with groupname>
-nameserver /hbogo.co.th/<replace with groupname>
-nameserver /hbogoasia.com/<replace with groupname>
-nameserver /hbogoasia.hk/<replace with groupname>
-nameserver /hbogoasia.id/<replace with groupname>
-nameserver /hbogoasia.ph/<replace with groupname>
-nameserver /hbogoasia.sg/<replace with groupname>
-nameserver /hbogoasia.tw/<replace with groupname>
 # > HOY TV
 nameserver /hoy.tv/<replace with groupname>
+# > HBO / Max
+nameserver /max.com/<replace with groupname>
+nameserver /hbo.com/<replace with groupname>
+nameserver /hbogo.com/<replace with groupname>
+nameserver /hbomax.com/<replace with groupname>
+nameserver /hbomaxcdn.com/<replace with groupname>
+nameserver /hbonow.com/<replace with groupname>
+nameserver /maxgo.com/<replace with groupname>
+nameserver /discomax.com/<replace with groupname>
 # > BiliBili
+nameserver /www.bilibili.com/<replace with groupname>
 nameserver /api.bilibili.com/<replace with groupname>
 nameserver /api.biliapi.net/<replace with groupname>
 nameserver /api.biliapi.com/<replace with groupname>
 nameserver /app.bilibili.com/<replace with groupname>
 nameserver /app.biliapi.net/<replace with groupname>
 nameserver /app.biliapi.com/<replace with groupname>
+nameserver /grpc.biliapi.net/<replace with groupname>
 
 
 
