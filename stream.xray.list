@@ -354,7 +354,9 @@
 "domain:static9.net.au",
 "domain:yourtv.com.au",
 "domain:livestream-cdn.9vms.com.au",
+"domain:9now-livestreams-hd-t.akamaized.net",
 # > AU:10 play
+"domain:edv021asd.freetls.fastly.net",
 "domain:10.com.au",
 "domain:airspace-cdn.cbsviedo.com",
 "domain:net10-livestream-keys.play.cbsi.video",
@@ -909,6 +911,7 @@
 "domain:soku.com",
 "domain:youku.com",
 "domain:ykimg.com",
+
 
 
 

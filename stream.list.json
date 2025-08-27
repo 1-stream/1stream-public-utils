@@ -413,9 +413,11 @@
       "ninemsn.com.au",
       "static9.net.au",
       "yourtv.com.au",
-      "livestream-cdn.9vms.com.au"
+      "livestream-cdn.9vms.com.au",
+      "9now-livestreams-hd-t.akamaized.net"
     ],
     "AU:10 play": [
+      "edv021asd.freetls.fastly.net",
       "10.com.au",
       "airspace-cdn.cbsviedo.com",
       "net10-livestream-keys.play.cbsi.video",
