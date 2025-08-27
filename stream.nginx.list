@@ -140,7 +140,8 @@ server_name .iview.abc.net.au .abc-iview-mediapackagestreams-2.akamaized.net;
 # > AU:Optus
 server_name .optus.com.au .optusdigital.com .optusnet.com.au .optussport.tv .optusvideo.tv .tls1.yospace.com .bln1.yospace.com .d3rj5p7u4c4icq.cloudfront.net .mgd0ee5iankkv3gidl14rm7c0.litix.io .93e30b04-drm-widevine-licensing.axprod.net;
 # > AU:SBS on Demand
-server_name .sbsod.com .sbs.com.au .videocdn-sbs.akamaized.net .sbsvoddai-vh.akamaihd.net .sbsvodns-vh.akamaihd.net .sbs-live-dai.akamaized.net .sbs-live.akamaized.net .sbs-live-dai.akamaized.net;
+server_name .sbsod.com .sbs.com.au .videocdn-sbs.akamaized.net .sbsvoddai-vh.akamaihd.net .sbsvodns-vh.akamaihd.net .sbs-live-dai.akamaized.net .sbs-live.akamaized.net .sbs-live-dai.akamaized.net .sbs-vod-dai-prod-01.akamaized.net .cdn-euronews-australia.akamaized.net .sbs-live-prod-01.akamaized.net .sbs-vod-prod-01.akamaized.net;
+a1341.v.akamai.net
 # > NZ:Neon TV
 server_name .neontv.co.nz;
 # > NZ:SkyGO NZ
@@ -390,6 +391,7 @@ server_name .music.163.com .music.126.net;
 server_name .71.am .71.am.com .71edge.com .71edge.net .aianno.cn .aianno.com .aiqiyicloud-mgmt.com .aiqiyicloud.com .aiqiyicloud.net .baiying.com .gitv.cn .gitv.tv .ibkstore.com .iq.com .iqiyi.com .iqiyi.demo.uwp .iqiyiedge.com .iqiyiedge.net .iqiyipic.com .jiangbing.cn .pps.tv .ppsimg.com .ppstream.cn .ppstream.com .ppstream.com.cn .ppstream.net .ppstream.net.cn .ppsurl.com .qiyi.cn .qiyi.com .qiyipic.com .qy.com .qy.net .suike.cn;
 # > Youku
 server_name .soku.com .youku.com .ykimg.com;
+
 
 
 

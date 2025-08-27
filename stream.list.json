@@ -446,7 +446,11 @@
       "sbsvodns-vh.akamaihd.net",
       "sbs-live-dai.akamaized.net",
       "sbs-live.akamaized.net",
-      "sbs-live-dai.akamaized.net"
+      "sbs-live-dai.akamaized.net",
+      "sbs-vod-dai-prod-01.akamaized.net",
+      "cdn-euronews-australia.akamaized.net",
+      "sbs-live-prod-01.akamaized.net",
+      "sbs-vod-prod-01.akamaized.net"
     ],
     "NZ:Neon TV": [
       "neontv.co.nz"

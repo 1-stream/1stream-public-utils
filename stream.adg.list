@@ -383,6 +383,11 @@
 [/sbs-live-dai.akamaized.net/]<DNS>
 [/sbs-live.akamaized.net/]<DNS>
 [/sbs-live-dai.akamaized.net/]<DNS>
+[/sbs-vod-dai-prod-01.akamaized.net/]<DNS>
+[/cdn-euronews-australia.akamaized.net/]<DNS>
+[/sbs-live-prod-01.akamaized.net/]<DNS>
+[/sbs-vod-prod-01.akamaized.net/]<DNS>
+a1341.v.akamai.net
 # > NZ:Neon TV
 [/neontv.co.nz/]<DNS>
 # > NZ:SkyGO NZ
@@ -905,6 +910,7 @@
 [/soku.com/]<DNS>
 [/youku.com/]<DNS>
 [/ykimg.com/]<DNS>
+
 
 
 
