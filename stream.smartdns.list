@@ -353,9 +353,9 @@ nameserver /ninemediaroom.com.au/<replace with groupname>
 nameserver /ninemsn.com.au/<replace with groupname>
 nameserver /static9.net.au/<replace with groupname>
 nameserver /yourtv.com.au/<replace with groupname>
+nameserver /livestream-cdn.9vms.com.au/<replace with groupname>
 # > AU:10 play
-nameserver /10play.com.au/<replace with groupname>
-nameserver /global.ssl.fastly.net/<replace with groupname>
+nameserver /10.com.au/<replace with groupname>
 nameserver /airspace-cdn.cbsviedo.com/<replace with groupname>
 nameserver /net10-livestream-keys.play.cbsi.video/<replace with groupname>
 nameserver /net10-livestream.play.cbsi.video/<replace with groupname>
@@ -905,6 +905,7 @@ nameserver /suike.cn/<replace with groupname>
 nameserver /soku.com/<replace with groupname>
 nameserver /youku.com/<replace with groupname>
 nameserver /ykimg.com/<replace with groupname>
+
 
 
 

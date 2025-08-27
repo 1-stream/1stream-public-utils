@@ -353,9 +353,9 @@ ninemediaroom.com.au
 ninemsn.com.au
 static9.net.au
 yourtv.com.au
+livestream-cdn.9vms.com.au
 # > AU:10 play
-10play.com.au
-global.ssl.fastly.net
+10.com.au
 airspace-cdn.cbsviedo.com
 net10-livestream-keys.play.cbsi.video
 net10-livestream.play.cbsi.video
@@ -905,6 +905,7 @@ suike.cn
 soku.com
 youku.com
 ykimg.com
+
 
 
 

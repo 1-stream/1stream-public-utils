@@ -353,9 +353,9 @@
 "domain:ninemsn.com.au",
 "domain:static9.net.au",
 "domain:yourtv.com.au",
+"domain:livestream-cdn.9vms.com.au",
 # > AU:10 play
-"domain:10play.com.au",
-"domain:global.ssl.fastly.net",
+"domain:10.com.au",
 "domain:airspace-cdn.cbsviedo.com",
 "domain:net10-livestream-keys.play.cbsi.video",
 "domain:net10-livestream.play.cbsi.video",
@@ -905,6 +905,7 @@
 "domain:soku.com",
 "domain:youku.com",
 "domain:ykimg.com",
+
 
 
 

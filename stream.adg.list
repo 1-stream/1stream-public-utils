@@ -353,9 +353,9 @@
 [/ninemsn.com.au/]<DNS>
 [/static9.net.au/]<DNS>
 [/yourtv.com.au/]<DNS>
+[/livestream-cdn.9vms.com.au/]<DNS>
 # > AU:10 play
-[/10play.com.au/]<DNS>
-[/global.ssl.fastly.net/]<DNS>
+[/10.com.au/]<DNS>
 [/airspace-cdn.cbsviedo.com/]<DNS>
 [/net10-livestream-keys.play.cbsi.video/]<DNS>
 [/net10-livestream.play.cbsi.video/]<DNS>
@@ -905,6 +905,7 @@
 [/soku.com/]<DNS>
 [/youku.com/]<DNS>
 [/ykimg.com/]<DNS>
+
 
 
 
