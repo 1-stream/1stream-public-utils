@@ -358,6 +358,7 @@
 # > AU:10 play
 [/edv021asd.freetls.fastly.net/]<DNS>
 [/10.com.au/]<DNS>
+[/10play.com.au/]<DNS>
 [/airspace-cdn.cbsviedo.com/]<DNS>
 [/net10-livestream-keys.play.cbsi.video/]<DNS>
 [/net10-livestream.play.cbsi.video/]<DNS>
@@ -911,6 +912,7 @@
 [/soku.com/]<DNS>
 [/youku.com/]<DNS>
 [/ykimg.com/]<DNS>
+
 
 
 

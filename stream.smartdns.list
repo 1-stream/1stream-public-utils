@@ -358,6 +358,7 @@ nameserver /9now-livestreams-hd-t.akamaized.net/<replace with groupname>
 # > AU:10 play
 nameserver /edv021asd.freetls.fastly.net/<replace with groupname>
 nameserver /10.com.au/<replace with groupname>
+nameserver /10play.com.au/<replace with groupname>
 nameserver /airspace-cdn.cbsviedo.com/<replace with groupname>
 nameserver /net10-livestream-keys.play.cbsi.video/<replace with groupname>
 nameserver /net10-livestream.play.cbsi.video/<replace with groupname>
@@ -911,6 +912,7 @@ nameserver /suike.cn/<replace with groupname>
 nameserver /soku.com/<replace with groupname>
 nameserver /youku.com/<replace with groupname>
 nameserver /ykimg.com/<replace with groupname>
+
 
 
 
