@@ -387,7 +387,6 @@
 "domain:cdn-euronews-australia.akamaized.net",
 "domain:sbs-live-prod-01.akamaized.net",
 "domain:sbs-vod-prod-01.akamaized.net",
-a1341.v.akamai.net
 # > NZ:Neon TV
 "domain:neontv.co.nz",
 # > NZ:SkyGO NZ
@@ -910,6 +909,7 @@ a1341.v.akamai.net
 "domain:soku.com",
 "domain:youku.com",
 "domain:ykimg.com",
+
 
 
 

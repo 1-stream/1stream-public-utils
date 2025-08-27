@@ -387,7 +387,6 @@ nameserver /sbs-vod-dai-prod-01.akamaized.net/<replace with groupname>
 nameserver /cdn-euronews-australia.akamaized.net/<replace with groupname>
 nameserver /sbs-live-prod-01.akamaized.net/<replace with groupname>
 nameserver /sbs-vod-prod-01.akamaized.net/<replace with groupname>
-a1341.v.akamai.net
 # > NZ:Neon TV
 nameserver /neontv.co.nz/<replace with groupname>
 # > NZ:SkyGO NZ
@@ -910,6 +909,7 @@ nameserver /suike.cn/<replace with groupname>
 nameserver /soku.com/<replace with groupname>
 nameserver /youku.com/<replace with groupname>
 nameserver /ykimg.com/<replace with groupname>
+
 
 
 
