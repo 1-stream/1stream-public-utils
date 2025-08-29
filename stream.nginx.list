@@ -134,7 +134,7 @@ server_name .7plus.com.au .npc-live-sevennetwork.akamaized.net .7plus-sevennetwo
 # > AU:9 now
 server_name .nine.com.au .9now.com.au .edge.api.brightcove.com .p-9now.akamaized.net .9now-livestreams.akamaized.net .9cdn.net .9nation.com.au .9news.com.au .9now.com.au .freeviewplus.net.au .mi9.com.au .mi9cdn.com .nine.com.au .nineentertainment.com.au .nineentertainmentco.com.au .ninemediaroom.com.au .ninemsn.com.au .static9.net.au .yourtv.com.au .livestream-cdn.9vms.com.au .9now-livestreams-hd-t.akamaized.net;
 # > AU:10 play
-server_name .edv021asd.freetls.fastly.net .10.com.au .10play.com.au .airspace-cdn.cbsviedo.com .net10-livestream-keys.play.cbsi.video .net10-livestream.play.cbsi.video .d25m2gzplgnf0.cloudfront.net;
+server_name .edv021asd.freetls.fastly.net .10.com.au .10play.com.au .airspace-cdn.cbsviedo.com .net10-livestream-keys.play.cbsi.video .net10-livestream.play.cbsi.video .d25m2gzplgnf0.cloudfront.net .d2yrmv70395w79.cloudfront.net .d2u3aqiu3i9jpb.cloudfront.net;
 # > AU:ABC iView
 server_name .iview.abc.net.au .abc-iview-mediapackagestreams-2.akamaized.net;
 # > AU:Optus
@@ -390,6 +390,7 @@ server_name .music.163.com .music.126.net;
 server_name .71.am .71.am.com .71edge.com .71edge.net .aianno.cn .aianno.com .aiqiyicloud-mgmt.com .aiqiyicloud.com .aiqiyicloud.net .baiying.com .gitv.cn .gitv.tv .ibkstore.com .iq.com .iqiyi.com .iqiyi.demo.uwp .iqiyiedge.com .iqiyiedge.net .iqiyipic.com .jiangbing.cn .pps.tv .ppsimg.com .ppstream.cn .ppstream.com .ppstream.com.cn .ppstream.net .ppstream.net.cn .ppsurl.com .qiyi.cn .qiyi.com .qiyipic.com .qy.com .qy.net .suike.cn;
 # > Youku
 server_name .soku.com .youku.com .ykimg.com;
+
 
 
 

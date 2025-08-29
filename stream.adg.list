@@ -363,6 +363,8 @@
 [/net10-livestream-keys.play.cbsi.video/]<DNS>
 [/net10-livestream.play.cbsi.video/]<DNS>
 [/d25m2gzplgnf0.cloudfront.net/]<DNS>
+[/d2yrmv70395w79.cloudfront.net/]<DNS>
+[/d2u3aqiu3i9jpb.cloudfront.net/]<DNS>
 # > AU:ABC iView
 [/iview.abc.net.au/]<DNS>
 [/abc-iview-mediapackagestreams-2.akamaized.net/]<DNS>
@@ -912,6 +914,7 @@
 [/soku.com/]<DNS>
 [/youku.com/]<DNS>
 [/ykimg.com/]<DNS>
+
 
 
 

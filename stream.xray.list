@@ -363,6 +363,8 @@
 "domain:net10-livestream-keys.play.cbsi.video",
 "domain:net10-livestream.play.cbsi.video",
 "domain:d25m2gzplgnf0.cloudfront.net",
+"domain:d2yrmv70395w79.cloudfront.net",
+"domain:d2u3aqiu3i9jpb.cloudfront.net",
 # > AU:ABC iView
 "domain:iview.abc.net.au",
 "domain:abc-iview-mediapackagestreams-2.akamaized.net",
@@ -912,6 +914,7 @@
 "domain:soku.com",
 "domain:youku.com",
 "domain:ykimg.com",
+
 
 
 

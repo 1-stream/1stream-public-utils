@@ -363,6 +363,8 @@ nameserver /airspace-cdn.cbsviedo.com/<replace with groupname>
 nameserver /net10-livestream-keys.play.cbsi.video/<replace with groupname>
 nameserver /net10-livestream.play.cbsi.video/<replace with groupname>
 nameserver /d25m2gzplgnf0.cloudfront.net/<replace with groupname>
+nameserver /d2yrmv70395w79.cloudfront.net/<replace with groupname>
+nameserver /d2u3aqiu3i9jpb.cloudfront.net/<replace with groupname>
 # > AU:ABC iView
 nameserver /iview.abc.net.au/<replace with groupname>
 nameserver /abc-iview-mediapackagestreams-2.akamaized.net/<replace with groupname>
@@ -912,6 +914,7 @@ nameserver /suike.cn/<replace with groupname>
 nameserver /soku.com/<replace with groupname>
 nameserver /youku.com/<replace with groupname>
 nameserver /ykimg.com/<replace with groupname>
+
 
 
 
