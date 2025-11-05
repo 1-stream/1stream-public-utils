@@ -854,10 +854,14 @@ nameserver /claude.ai/<replace with groupname>
 # > Google Gemini
 nameserver /gemini.google.com/<replace with groupname>
 nameserver /proactivebackend-pa.googleapis.com/<replace with groupname>
+nameserver /aisandbox-pa.googleapis.com/<replace with groupname>
+nameserver /robinfrontend-pa.googleapis.com/<replace with groupname>
 # > Google AiStudio
 nameserver /aistudio.google.com/<replace with groupname>
 nameserver /alkalimakersuite-pa.clients6.google.com/<replace with groupname>
 nameserver /generativelanguage.googleapis.com/<replace with groupname>
+nameserver /alkalicore-pa.clients6.google.com/<replace with groupname>
+nameserver /waa-pa.clients6.google.com/<replace with groupname>
 # > Microsoft Copilot For Image Generates
 nameserver /copilot.microsoft.com/<replace with groupname>
 
@@ -914,6 +918,7 @@ nameserver /suike.cn/<replace with groupname>
 nameserver /soku.com/<replace with groupname>
 nameserver /youku.com/<replace with groupname>
 nameserver /ykimg.com/<replace with groupname>
+
 
 
 

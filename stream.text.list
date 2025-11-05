@@ -854,10 +854,14 @@ claude.ai
 # > Google Gemini
 gemini.google.com
 proactivebackend-pa.googleapis.com
+aisandbox-pa.googleapis.com
+robinfrontend-pa.googleapis.com
 # > Google AiStudio
 aistudio.google.com
 alkalimakersuite-pa.clients6.google.com
 generativelanguage.googleapis.com
+alkalicore-pa.clients6.google.com
+waa-pa.clients6.google.com
 # > Microsoft Copilot For Image Generates
 copilot.microsoft.com
 
@@ -914,6 +918,7 @@ suike.cn
 soku.com
 youku.com
 ykimg.com
+
 
 
 

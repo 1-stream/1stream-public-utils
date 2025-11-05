@@ -854,10 +854,14 @@
 # > Google Gemini
 "domain:gemini.google.com",
 "domain:proactivebackend-pa.googleapis.com",
+"domain:aisandbox-pa.googleapis.com",
+"domain:robinfrontend-pa.googleapis.com",
 # > Google AiStudio
 "domain:aistudio.google.com",
 "domain:alkalimakersuite-pa.clients6.google.com",
 "domain:generativelanguage.googleapis.com",
+"domain:alkalicore-pa.clients6.google.com",
+"domain:waa-pa.clients6.google.com",
 # > Microsoft Copilot For Image Generates
 "domain:copilot.microsoft.com",
 
@@ -914,6 +918,7 @@
 "domain:soku.com",
 "domain:youku.com",
 "domain:ykimg.com",
+
 
 
 

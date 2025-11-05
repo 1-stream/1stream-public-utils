@@ -854,10 +854,14 @@
 # > Google Gemini
 [/gemini.google.com/]<DNS>
 [/proactivebackend-pa.googleapis.com/]<DNS>
+[/aisandbox-pa.googleapis.com/]<DNS>
+[/robinfrontend-pa.googleapis.com/]<DNS>
 # > Google AiStudio
 [/aistudio.google.com/]<DNS>
 [/alkalimakersuite-pa.clients6.google.com/]<DNS>
 [/generativelanguage.googleapis.com/]<DNS>
+[/alkalicore-pa.clients6.google.com/]<DNS>
+[/waa-pa.clients6.google.com/]<DNS>
 # > Microsoft Copilot For Image Generates
 [/copilot.microsoft.com/]<DNS>
 
@@ -914,6 +918,7 @@
 [/soku.com/]<DNS>
 [/youku.com/]<DNS>
 [/ykimg.com/]<DNS>
+
 
 
 
