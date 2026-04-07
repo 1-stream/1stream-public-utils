@@ -1014,7 +1014,8 @@
     ],
     "Claude 2": [
       "anthropic.com",
-      "claude.ai"
+      "claude.ai",
+      "claude.com"
     ],
     "Google Gemini": [
       "gemini.google.com",

@@ -852,6 +852,7 @@ nameserver /oaiusercontent.com/<replace with groupname>
 # > Claude 2
 nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>
+nameserver /claude.com/<replace with groupname>
 # > Google Gemini
 nameserver /gemini.google.com/<replace with groupname>
 nameserver /proactivebackend-pa.googleapis.com/<replace with groupname>

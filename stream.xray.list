@@ -852,6 +852,7 @@
 # > Claude 2
 "domain:anthropic.com",
 "domain:claude.ai",
+"domain:claude.com",
 # > Google Gemini
 "domain:gemini.google.com",
 "domain:proactivebackend-pa.googleapis.com",

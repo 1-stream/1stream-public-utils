@@ -852,6 +852,7 @@
 # > Claude 2
 [/anthropic.com/]<DNS>
 [/claude.ai/]<DNS>
+[/claude.com/]<DNS>
 # > Google Gemini
 [/gemini.google.com/]<DNS>
 [/proactivebackend-pa.googleapis.com/]<DNS>
