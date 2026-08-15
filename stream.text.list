@@ -849,23 +849,21 @@ chatgpt.com
 sora.com
 oaistatic.com
 oaiusercontent.com
-# > Claude 2
+# > Claude 2 /HK Only/
 anthropic.com
 claude.ai
 claude.com
-# > Google Gemini
+# > Google Gemini /HK Only/
 gemini.google.com
 proactivebackend-pa.googleapis.com
 aisandbox-pa.googleapis.com
 robinfrontend-pa.googleapis.com
-# > Google AiStudio
+# > Google AiStudio /HK Only/
 aistudio.google.com
 alkalimakersuite-pa.clients6.google.com
 generativelanguage.googleapis.com
 alkalicore-pa.clients6.google.com
 waa-pa.clients6.google.com
-# > Microsoft Copilot For Image Generates
-copilot.microsoft.com
 
 # ---------- > Others
 # > ExHantai/E-hentai

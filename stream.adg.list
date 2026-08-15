@@ -849,23 +849,21 @@
 [/sora.com/]<DNS>
 [/oaistatic.com/]<DNS>
 [/oaiusercontent.com/]<DNS>
-# > Claude 2
+# > Claude 2 /HK Only/
 [/anthropic.com/]<DNS>
 [/claude.ai/]<DNS>
 [/claude.com/]<DNS>
-# > Google Gemini
+# > Google Gemini /HK Only/
 [/gemini.google.com/]<DNS>
 [/proactivebackend-pa.googleapis.com/]<DNS>
 [/aisandbox-pa.googleapis.com/]<DNS>
 [/robinfrontend-pa.googleapis.com/]<DNS>
-# > Google AiStudio
+# > Google AiStudio /HK Only/
 [/aistudio.google.com/]<DNS>
 [/alkalimakersuite-pa.clients6.google.com/]<DNS>
 [/generativelanguage.googleapis.com/]<DNS>
 [/alkalicore-pa.clients6.google.com/]<DNS>
 [/waa-pa.clients6.google.com/]<DNS>
-# > Microsoft Copilot For Image Generates
-[/copilot.microsoft.com/]<DNS>
 
 # ---------- > Others
 # > ExHantai/E-hentai

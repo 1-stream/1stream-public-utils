@@ -849,23 +849,21 @@ nameserver /chatgpt.com/<replace with groupname>
 nameserver /sora.com/<replace with groupname>
 nameserver /oaistatic.com/<replace with groupname>
 nameserver /oaiusercontent.com/<replace with groupname>
-# > Claude 2
+# > Claude 2 /HK Only/
 nameserver /anthropic.com/<replace with groupname>
 nameserver /claude.ai/<replace with groupname>
 nameserver /claude.com/<replace with groupname>
-# > Google Gemini
+# > Google Gemini /HK Only/
 nameserver /gemini.google.com/<replace with groupname>
 nameserver /proactivebackend-pa.googleapis.com/<replace with groupname>
 nameserver /aisandbox-pa.googleapis.com/<replace with groupname>
 nameserver /robinfrontend-pa.googleapis.com/<replace with groupname>
-# > Google AiStudio
+# > Google AiStudio /HK Only/
 nameserver /aistudio.google.com/<replace with groupname>
 nameserver /alkalimakersuite-pa.clients6.google.com/<replace with groupname>
 nameserver /generativelanguage.googleapis.com/<replace with groupname>
 nameserver /alkalicore-pa.clients6.google.com/<replace with groupname>
 nameserver /waa-pa.clients6.google.com/<replace with groupname>
-# > Microsoft Copilot For Image Generates
-nameserver /copilot.microsoft.com/<replace with groupname>
 
 # ---------- > Others
 # > ExHantai/E-hentai

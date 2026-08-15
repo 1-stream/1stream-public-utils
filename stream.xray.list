@@ -849,23 +849,21 @@
 "domain:sora.com",
 "domain:oaistatic.com",
 "domain:oaiusercontent.com",
-# > Claude 2
+# > Claude 2 /HK Only/
 "domain:anthropic.com",
 "domain:claude.ai",
 "domain:claude.com",
-# > Google Gemini
+# > Google Gemini /HK Only/
 "domain:gemini.google.com",
 "domain:proactivebackend-pa.googleapis.com",
 "domain:aisandbox-pa.googleapis.com",
 "domain:robinfrontend-pa.googleapis.com",
-# > Google AiStudio
+# > Google AiStudio /HK Only/
 "domain:aistudio.google.com",
 "domain:alkalimakersuite-pa.clients6.google.com",
 "domain:generativelanguage.googleapis.com",
 "domain:alkalicore-pa.clients6.google.com",
 "domain:waa-pa.clients6.google.com",
-# > Microsoft Copilot For Image Generates
-"domain:copilot.microsoft.com",
 
 # ---------- > Others
 # > ExHantai/E-hentai
