@@ -369,9 +369,9 @@ server_name .openai.com .chatgpt.com .sora.com .oaistatic.com .oaiusercontent.co
 # > Claude 2 /HK Only/
 server_name .anthropic.com .claude.ai .claude.com;
 # > Google Gemini /HK Only/
-server_name .gemini.google.com .proactivebackend-pa.googleapis.com .aisandbox-pa.googleapis.com .robinfrontend-pa.googleapis.com .signaler-pa.clients6.google.com;
+server_name .gemini.google.com .proactivebackend-pa.googleapis.com .aisandbox-pa.googleapis.com .robinfrontend-pa.googleapis.com .signaler-pa.clients6.google.com .geminiweb-pa.clients.google.com .geminiweb-pa.clients6.google.com;
 # > Google AiStudio /HK Only/
-server_name .aistudio.google.com .alkalimakersuite-pa.clients6.google.com .generativelanguage.googleapis.com .alkalicore-pa.clients6.google.com .waa-pa.clients6.google.com;
+server_name .aistudio.google.com .alkalimakersuite-pa.clients6.google.com .webchannel-alkalimakersuite-pa.clients6.google.com .generativelanguage.googleapis.com .alkalicore-pa.clients6.google.com .waa-pa.clients6.google.com;
 
 # ---------- > Others
 # > ExHantai/E-hentai

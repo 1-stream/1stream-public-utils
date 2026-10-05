@@ -859,9 +859,12 @@
 [/aisandbox-pa.googleapis.com/]<DNS>
 [/robinfrontend-pa.googleapis.com/]<DNS>
 [/signaler-pa.clients6.google.com/]<DNS>
+[/geminiweb-pa.clients.google.com/]<DNS>
+[/geminiweb-pa.clients6.google.com/]<DNS>
 # > Google AiStudio /HK Only/
 [/aistudio.google.com/]<DNS>
 [/alkalimakersuite-pa.clients6.google.com/]<DNS>
+[/webchannel-alkalimakersuite-pa.clients6.google.com/]<DNS>
 [/generativelanguage.googleapis.com/]<DNS>
 [/alkalicore-pa.clients6.google.com/]<DNS>
 [/waa-pa.clients6.google.com/]<DNS>

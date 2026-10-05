@@ -859,9 +859,12 @@
 "domain:aisandbox-pa.googleapis.com",
 "domain:robinfrontend-pa.googleapis.com",
 "domain:signaler-pa.clients6.google.com",
+"domain:geminiweb-pa.clients.google.com",
+"domain:geminiweb-pa.clients6.google.com",
 # > Google AiStudio /HK Only/
 "domain:aistudio.google.com",
 "domain:alkalimakersuite-pa.clients6.google.com",
+"domain:webchannel-alkalimakersuite-pa.clients6.google.com",
 "domain:generativelanguage.googleapis.com",
 "domain:alkalicore-pa.clients6.google.com",
 "domain:waa-pa.clients6.google.com",
