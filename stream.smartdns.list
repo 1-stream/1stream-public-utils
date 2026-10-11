@@ -267,6 +267,8 @@ nameserver /music.jp/<replace with groupname>
 nameserver /music-book.jp/<replace with groupname>
 # > Reads 
 nameserver /data-cloudauthoring.magazine.rakuten.co.jp/<replace with groupname>
+nameserver /melonbooks.co.jp/<replace with groupname>
+
 
 # ---------- > Oceania Media
 # > NBA TV
