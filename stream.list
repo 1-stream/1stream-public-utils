@@ -267,6 +267,8 @@
 ~^(.*|)music-book\.jp$;
 # > Reads 
 ~^(.*|)data-cloudauthoring\.magazine\.rakuten\.co\.jp$;
+~^(.*|)melonbooks\.co\.jp$;
+
 
 # ---------- > Oceania Media
 # > NBA TV
